@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "cc2e9667fce9692c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7359c29ef35c09e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83e45747154955d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce823d272051ce1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d086bd1d981b2236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ff3bf368456935a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a84984c325a3c264",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "423a23d19835ed16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5d1d2a8334fcef8",
+    "type": "split",
+    "children": [
+      {
+        "id": "beeaa78350e0fe4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "315ef16ab1155906",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "486fab306137db5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "90a52c1d6081ac0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a551014013cbb84a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "769fb5d43deec240",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "83e45747154955d2",
+  "lastOpenFiles": [
+    "CLAUDE.md.tmp.45400.234a98bfe280",
+    "CLAUDE.md.tmp.45400.80304200e8c1",
+    "raw/emails/KMDD",
+    "raw/emails",
+    "log.md.tmp.45400.c6756b9c33c6",
+    "index.md.tmp.45400.49da6f5fd197",
+    "index.md.tmp.45400.fed3d8148203",
+    "KMDD Project.md",
+    "index.md",
+    "index.md.tmp.45400.ad515ccc0b16",
+    "index.md.tmp.45400.2bacae8ee8aa",
+    "wiki/entities/KMDD Project.md.tmp.45400.fc961be9f469",
+    "wiki/entities/KMDD Project.md.tmp.45400.90ffa2799471",
+    "wiki/concepts/HIPPS Overpressure Protection.md",
+    "wiki/sources/KMDD FEED Verification Return Comments.md",
+    "wiki/sources/KMDD HVAC Instrumentation Shelter Heat Load.md",
+    "wiki/sources/KMDD MEC-006 Chemical Injection Package Status.md",
+    "wiki/sources/KMDD Methanol Pump Capacity Upgrade.md",
+    "wiki/sources/KMDD HAZOP Items 1 2 9 HIPPS PSV.md",
+    "wiki/sources/KMDD Chemical Dosing Rate Decisions.md",
+    "wiki/sources/KMDD HIPPS Design Pressure Decision.md",
+    "log.md",
+    "wiki/concepts/Piping Layout Design Offshore.md",
+    "wiki/sources/KMDD Pipeline Corrosion Baker Hughes.md",
+    "wiki/entities/Vannevar Bush Memex.md",
+    "wiki/entities/Obsidian.md",
+    "wiki/entities/KMDD Project.md",
+    "wiki/concepts/Piping Pressure Temperature Rating.md",
+    "wiki/concepts/Personal Knowledge Management.md",
+    "wiki/concepts/Open Drain System Design.md",
+    "wiki/concepts/Offshore Piping Material Selection.md",
+    "wiki/concepts/Methanol Injection Hydrate Inhibition.md",
+    "wiki/concepts/Low Temperature Depressuring Design.md",
+    "wiki/concepts/LLM Wiki Pattern.md",
+    "wiki/concepts/Flow Assurance Offshore Pipeline.md",
+    "wiki/concepts/FEED Verification EPCI Contract.md"
+  ]
+}
