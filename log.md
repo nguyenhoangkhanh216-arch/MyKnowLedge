@@ -20,6 +20,9 @@ Orphans: 0. Broken links: 14 (all [[sources/...]] path-prefixed links) — fixed
 Summary: Read 10 high-signal emails from KMDD main/EMT/TBC folders. Created 7 source pages + 1 concept page. Key findings: (1) HIPPS d/s design pressure confirmed 133 barg; (2) All chemical dosing rates finalized — PPD 500 ppmv, SI 40 ppmv u/s choke, methanol massively upgraded to 507.8/560.8 L/h triplex pumps (only PVD Tech compliant); (3) HAZOP Items 1/2/9: PSV-1931A/B removal proposed, HIPPS bleed-off line retained; (4) FEED Verification returned RC2 by PVEP-KM — response meeting 05-Jun-2026; (5) Open drain tank presentation to CPY due 05-Jun-2026. Pages touched: [[KMDD Project]], [[Methanol Injection Hydrate Inhibition]], [[HIPPS Overpressure Protection]], [[FEED Verification EPCI Contract]].
 Flags: Two live action items TODAY/TOMORROW — Open drain tank presentation and FEED Verification CRS meeting both on 05-Jun-2026.
 
+## [2026-06-03] lint | Health check
+Orphans: 0. Missing pages: 0. Contradictions: 0. Suggested additions: 1 — Chemical Injection System Design concept (referenced on 4+ pages, no dedicated page yet).
+
 ## [2026-06-03] ingest | KMDD Engineering — EMT/NIPI/TBC emails (round 2)
 Summary: Extracted knowledge from EMT and NIPI subfolders (Apr–Jun 2026). Created 3 source pages, 2 concept pages. Key findings: (1) All three material changes confirmed — GRE→CuNi 90/10 (firewater), HDG→SS316 (freshwater), B8M→A320+ZnNi bolts — TQR with COMPANY as of Jun-2026; (2) KMDD pipelines have very high uninhibited corrosion rates (11–19 mm/y); Baker Hughes engaged for CI chemical treatment; (3) FA steady state finalized by NIPI; transient IFR target 23-Jun-2026. Pages touched: [[KMDD Project]], [[Offshore Piping Material Selection]], [[Flow Assurance Offshore Pipeline]].
 Flags: CuNi stagnation concern (seawater must not sit >6-9 months) resolved — fire ring main routing confirmed to avoid stagnant sections as of 03-Jun-2026.

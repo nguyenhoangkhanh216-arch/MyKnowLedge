@@ -1,5 +1,5 @@
 # Wiki Index
-_Last updated: 2026-06-03 | Sources: 17 | Wiki pages: 31_
+_Last updated: 2026-06-03 | Sources: 17 | Wiki pages: 32_
 
 ---
 
@@ -34,6 +34,7 @@ _Last updated: 2026-06-03 | Sources: 17 | Wiki pages: 31_
 - [Flow Assurance Offshore Pipeline](wiki/concepts/Flow%20Assurance%20Offshore%20Pipeline.md) — hydrates, wax, corrosion, slugging; SS vs transient study; HYSYS/OLGA; KMDD: 11-19 mm/y uninhibited corrosion | 1 source
 - [Piping Layout Design Offshore](wiki/concepts/Piping%20Layout%20Design%20Offshore.md) — gravity line slope constraints at Pig trap area; resolution path for process-piping conflicts | 1 source
 - [HIPPS Overpressure Protection](wiki/concepts/HIPPS%20Overpressure%20Protection.md) — HIPPS vs PSV design philosophy; bleed-off line alternative; SIL requirements; KMDD: max 88.2 barg, PSV removed | 1 source
+- [Chemical Injection System Design](wiki/concepts/Chemical%20Injection%20System%20Design.md) — PPD/SI/CI/Methanol: dosing rates, injection points, power constraints; KMDD confirmed values May-2026 | 3 sources
 
 ## Entities
 - [Obsidian](wiki/entities/Obsidian.md) — local-first markdown app; recommended IDE for the LLM Wiki (graph view, Web Clipper, Dataview) | 1 source

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "docs/superpowers/specs/2026-06-03-llm-wiki-design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2026-06-03-llm-wiki-design"
             }
           }
         ]
@@ -180,8 +180,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "83e45747154955d2",
+  "active": "0ff3bf368456935a",
   "lastOpenFiles": [
+    "index.md.tmp.45400.90645f981667",
+    "docs/superpowers/plans/2026-06-03-llm-wiki-setup.md",
+    "index.md.tmp.45400.e44b0022388b",
+    "wiki/concepts/Chemical Injection System Design.md",
+    "wiki/concepts/Chemical Injection System Design.md.tmp.45400.eb9727a0b666",
+    "log.md.tmp.45400.0cfd94d39ab4",
+    "KMDD Project.md",
+    "index.md",
     "CLAUDE.md.tmp.45400.234a98bfe280",
     "CLAUDE.md.tmp.45400.80304200e8c1",
     "raw/emails/KMDD",
@@ -189,12 +197,6 @@
     "log.md.tmp.45400.c6756b9c33c6",
     "index.md.tmp.45400.49da6f5fd197",
     "index.md.tmp.45400.fed3d8148203",
-    "KMDD Project.md",
-    "index.md",
-    "index.md.tmp.45400.ad515ccc0b16",
-    "index.md.tmp.45400.2bacae8ee8aa",
-    "wiki/entities/KMDD Project.md.tmp.45400.fc961be9f469",
-    "wiki/entities/KMDD Project.md.tmp.45400.90ffa2799471",
     "wiki/concepts/HIPPS Overpressure Protection.md",
     "wiki/sources/KMDD FEED Verification Return Comments.md",
     "wiki/sources/KMDD HVAC Instrumentation Shelter Heat Load.md",
@@ -215,8 +217,6 @@
     "wiki/concepts/Offshore Piping Material Selection.md",
     "wiki/concepts/Methanol Injection Hydrate Inhibition.md",
     "wiki/concepts/Low Temperature Depressuring Design.md",
-    "wiki/concepts/LLM Wiki Pattern.md",
-    "wiki/concepts/Flow Assurance Offshore Pipeline.md",
-    "wiki/concepts/FEED Verification EPCI Contract.md"
+    "wiki/concepts/LLM Wiki Pattern.md"
   ]
 }
