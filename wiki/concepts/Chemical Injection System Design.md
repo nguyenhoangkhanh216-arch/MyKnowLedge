@@ -3,8 +3,8 @@ title: "Chemical Injection System Design"
 type: concept
 tags: [work, science]
 created: 2026-06-03
-updated: 2026-06-03
-sources: 3
+updated: 2026-06-04
+sources: 4
 ---
 
 ## Summary
@@ -60,8 +60,15 @@ Offshore wellhead platforms inject multiple chemicals into produced fluids to pr
 - [[KMDD MEC-006 Chemical Injection Package Status]] — procurement status; vendor landscape for methanol pump
 - [[Flow Assurance Offshore Pipeline]] — flow assurance context: hydrates, wax, corrosion all part of FA scope
 
+### IRCD Power Supply constraint (Jun-2026):
+- IRCD (Injection Rate Control Device) on chemical injection skids requires 24VDC, 80W/unit
+- With 6 units per platform, total 24VDC load = 480W — may exceed platform 24VDC system capacity
+- PTSC querying bidder (PVDT, Jun 3): can IRCDs run on VAC power instead? Is internal AC/DC PSU needed?
+- If only 24VDC is feasible, platform power distribution design may need revision
+
 ## Source References
 
 - [[KMDD Chemical Dosing Rate Decisions]] — final dosing rates confirmed in 13-May-2026 meeting
 - [[KMDD Pipeline Corrosion Baker Hughes]] — CI design basis from Baker Hughes engagement
 - [[KMDD Methanol Pump Capacity Upgrade]] — methanol pump sizing study with EDG power constraint
+- [[KMDD MEC-006 IRCD Power Supply Issue]] — 24VDC capacity constraint identified Jun-2026

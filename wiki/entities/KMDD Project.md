@@ -3,8 +3,8 @@ title: "KMDD Project"
 type: entity
 tags: [work]
 created: 2026-06-03
-updated: 2026-06-03
-sources: 16
+updated: 2026-06-04
+sources: 23
 ---
 
 ## Summary
@@ -33,7 +33,17 @@ KMDD is the KM-WHP (Khanh My Wellhead Platform) and DD-WHP (Dam Doi Wellhead Pla
 - **PSV-1931A/B removal proposed:** HIPPS dynamic study confirms max d/s pressure 88.2 barg (< 92 barg design); awaiting COMPANY confirmation
 - **HIPPS bleed-off line retained:** vs PSV option — PMC recommendation; COMPANY confirmation pending
 
-## Open Engineering Issues (as of 03-Jun-2026)
+## Procurement Issues (as of 04-Jun-2026)
+
+- **MEC-007 CO2 & N2**: Only 1/5 bidders (TTE) acceptable — DKE, FFE, PPL, Mermaid all "Not Acceptable"; TBC#02 Rev.A sent Jun 3
+- **INS-004 Restriction Orifices**: Yoshitake threatening to withdraw — manufacturer cannot comply with all specs; deviations must be formally accepted
+- **INS-002 PSVs**: HIPPS leakage PSV reclassified to Base Scope Jun 3; 4 nos. added to scope; bidder responses due **15:45 Jun 4**
+- **MEC-006 IRCD power**: IRCD 24VDC demand (480W/platform) may exceed platform capacity; clarification pending from PVDT
+- **WHCP & ICSS (VSP/Vietsovpetro)**: XNCĐ blocked on vendor data submission — no doc code template or DCC contact received from PTSC; design docs submitted 28-29 May await PMC/PVEP-KM review
+- **MEC-003 Bao Nghi**: ✅ TBC closed Jun 2; TBE update required from Đào Tuấn Anh
+- **MEC-006 TBC#3 Rev.B**: Internal team review due 16:30 Jun 4
+
+## Open Engineering Issues (as of 04-Jun-2026)
 
 - **DD-WHP Export Launcher:** CS → LTCS material upgrade required (manual depressuring low-temp concern) — no resolution yet
 - **Open drain tank:** 10% (FEED) vs 1000 ppm option — presentation to CPY due **05-Jun-2026**; PTSC steering toward 1000 ppm
@@ -52,8 +62,9 @@ KMDD is the KM-WHP (Khanh My Wellhead Platform) and DD-WHP (Dam Doi Wellhead Pla
 - [[Piping Pressure Temperature Rating]] — SS line Class 600 rating issue resolved by reducing design temperature
 - [[Offshore Piping Material Selection]] — GRE→CuNi and HDG→SS decisions with full technical justification
 - [[Flow Assurance Offshore Pipeline]] — FA study by NIPI; SS results finalized; transient pending
+- [[Technical Bid Clarification Process]] — 21 packages in TBC as of Jun-2026; procurement workflow for all equipment packages
 
-## Source References
+## Source References (new Jun 4 additions)
 
 - [[KMDD SS Piping P-T Rating Issue]] — Class 600 rating exceedance for SS line; resolved by reducing max design temp
 - [[KMDD Choke Valve PDS and Methanol Pump Sizing]] — choke valve PDS issued IFR; methanol pump capacity under review
@@ -71,3 +82,10 @@ KMDD is the KM-WHP (Khanh My Wellhead Platform) and DD-WHP (Dam Doi Wellhead Pla
 - [[KMDD MEC-006 Chemical Injection Package Status]] — TBC#3 stage; PVD Tech only compliant bidder
 - [[KMDD HVAC Instrumentation Shelter Heat Load]] — 5.275 kW cooling; ceiling decision pending
 - [[KMDD FEED Verification Return Comments]] — PVEP-KM returned Report RC2; response meeting 05-Jun
+- [[KMDD MEC-007 CO2 Nitrogen Bidder Evaluation Crisis]] — only TTE acceptable; 4 others rejected; TBC#02 Rev.A issued
+- [[KMDD WHCP ICSS VSP Vendor Data Bottleneck]] — XNCĐ vendor data blocked by missing doc template/DCC contact
+- [[KMDD INS-004 Yoshitake Deviation Dispute]] — Yoshitake threatening to withdraw; deviations not formally accepted
+- [[KMDD Open Drain Tank Sizing Presentation Jun 5]] — ALARP argument + 2-slide CPY presentation due Fri
+- [[KMDD MEC-006 IRCD Power Supply Issue]] — 24VDC capacity constraint flagged in TBC#2 Rev.C
+- [[KMDD INS-002 HIPPS PSV Base Scope Addition]] — HIPPS leakage PSV scope change Jun 3; bidders re-size due Jun 4
+- [[KMDD MEC-003 Bao Nghi TBC Closure]] — ✅ Bao Nghi closed TBC#01 Rev.C; TBE update pending

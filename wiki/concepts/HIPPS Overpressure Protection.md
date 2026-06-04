@@ -3,8 +3,8 @@ title: "HIPPS Overpressure Protection"
 type: concept
 tags: [work, science]
 created: 2026-06-03
-updated: 2026-06-03
-sources: 1
+updated: 2026-06-04
+sources: 2
 ---
 
 ## Summary
@@ -35,6 +35,13 @@ A High Integrity Pressure Protection System (HIPPS) is a SIL-rated safety instru
 - [[KMDD HIPPS Design Pressure Decision]] — 133 barg design pressure confirmed for d/s HIPPS
 - [[Low Temperature Depressuring Design]] — rapid depressuring (including HIPPS closure) can cause low temperature
 
+### HIPPS PSV scope change (Jun-2026):
+- **HIPPS valve leakage PSVs reclassified as Base Scope** (was Optional Scope) on Jun 3, 2026
+- 4 nos. HIPPS PSVs added to INS-002 Tag-list 01 — bidders must re-size and resubmit DS/GAD
+- Scope change driven by requirement to cover leakage through HIPPS isolation valves as base case
+- CA requirement: CAT C (ABS/LR/DNV/BV for overseas manufacture; Vietnam Register locally)
+
 ## Source References
 
 - [[KMDD HAZOP Items 1 2 9 HIPPS PSV]] — KMDD dynamic study confirming max 88.2 barg, PSV removal proposal
+- [[KMDD INS-002 HIPPS PSV Base Scope Addition]] — Jun 3 scope change: HIPPS PSV leakage to base scope
