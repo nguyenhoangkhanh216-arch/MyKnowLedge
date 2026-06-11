@@ -125,7 +125,7 @@ Create a package page the first time a package accumulates knowledge worth a pag
 
 **Trigger:** User says `ingest [filename]`, `ingest raw/articles/filename.md`, or `ingest E:\full\path\to\file.md`
 
-Sources can be `raw\articles\` (clipped articles), `raw\emails\KMDD\` (KMDD emails mirrored locally), or any absolute path. Never modify source files regardless of location.
+Sources can be `raw\articles\` (clipped articles), `raw\emails\KMDD\` (KMDD emails mirrored locally), or any absolute path. Never modify source files regardless of location. Naming a file explicitly = deliberate full ingest: it always gets a source page (no triage — triage applies only to INGEST NEW batches).
 
 **Steps:**
 
@@ -149,7 +149,7 @@ Summary: [1–2 sentences on what was extracted]. Pages touched: [[Concept A]], 
 Flags: [none | describe any contradiction or significant finding]
 ```
 
-8. Append one line to `ingest-manifest.md` (see ingest-manifest.md Maintenance)
+8. Append one line to `ingest-manifest.md` with disposition `source-page` (see ingest-manifest.md Maintenance)
 9. Report back: "Ingested. Pages created/updated: [list]. Flags: [none or description]."
 
 ### INGEST NEW (batch)
@@ -164,15 +164,15 @@ Flags: [none | describe any contradiction or significant finding]
 2. **Sort** — Process oldest first: emails by `YYYY-MM-DD` filename prefix, documents by frontmatter `created` date.
 3. **Collapse threads and duplicates:**
    - Same filename in a project root and a mirror subfolder (`Technical Bid Clarification\`, `DCC\`, `DocPro\`, `VSP\`) = one file. Process once; write a manifest line for every path.
-   - Group emails by normalized subject (strip `RE`/`Re`/`FW`/`Fw`, emoji prefixes, extra spaces). Process each thread once using its latest email — earlier replies are quoted inside it; earlier members get disposition `skipped-superseded`.
+   - Group emails by normalized subject (strip `RE`/`Re`/`FW`/`Fw`, emoji prefixes, extra spaces). Process each thread once using its latest email — earlier replies are quoted inside it; earlier members get disposition `skipped-superseded`. If the thread's latest email is already in the manifest but earlier members are new, read the newest unprocessed member instead of skipping the thread silently.
 4. **Triage and route each file:**
 
    | Class | Test | Action |
    |---|---|---|
-   | Document | from `raw\documents\` | Full source page + update related package/concept/entity pages. TQ/TQR/MOM/TBE document types are high-value. |
-   | Significant email | decision made, TQ answered, new technical topic, vendor selected/rejected | Source page + living-page updates |
-   | Routine email | TBC thread reply, transmittal, status nudge, meeting logistics | No source page. Update the package page: Current Status, Timeline bullet, Open Items as applicable |
-   | Noise | 🌅/🌆 digest emails, duplicates, superseded thread members | Skip; manifest line only |
+   | Document | from `raw\documents\` | Full source page + update related package/concept/entity pages. TQ/TQR/MOM/TBE document types are high-value. Disposition: `source-page` |
+   | Significant email | decision made, TQ answered, new technical topic, vendor selected/rejected | Source page + living-page updates. Disposition: `source-page` |
+   | Routine email | TBC thread reply, transmittal, status nudge, meeting logistics | No source page. Update the package page: Current Status, Timeline bullet, Open Items as applicable. Disposition: `routine` |
+   | Noise | 🌅/🌆 digest emails, duplicates, superseded thread members | Skip; manifest line only. Disposition: `skipped-digest` / `skipped-duplicate` / `skipped-superseded` |
 
    When in doubt between routine and significant, choose routine — a fact can be promoted to a source page later; page sprawl cannot easily be undone.
 5. **Open Items tracking** — a file containing a pending question or awaited response ("please advise", TQ issued, TBC awaiting reply) → add a dated bullet under Open Items on the relevant package/concept page. A later file that answers it → mark resolved with date and a one-line outcome (strike through; do not delete).
