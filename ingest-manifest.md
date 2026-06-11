@@ -609,3 +609,4 @@ Append only — see CLAUDE.md "ingest-manifest.md Maintenance".
 - raw/emails/KMDD/Technical Bid Clarification/2026-06-10 - RE NLQ Ruya B1 - MEC-019-Fixed Foam -Johnson Controls (S) Pte Ltd - TBC#01 Rev A1.md | 2026-06-11 | bootstrap
 - raw/emails/KMDD/Technical Bid Clarification/2026-06-10 - RE Ref 260427 _ KMDD-INS-004 - Restriction Orifices and Pressure Regulator - TBC - MOTEC.md | 2026-06-11 | bootstrap
 - raw/emails/KMDD/Technical Bid Clarification/2026-06-10 - 🌅 [KMDD TBC] Morning — 10 Jun 2026  12 need attention.md | 2026-06-11 | bootstrap
+- raw/documents/KMDD/VSP-PVEPKM-MOM-DE-G.md | 2026-06-11 | source-page → [[KMDD EPCI Engineering Weekly Meeting Week 8]]

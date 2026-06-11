@@ -210,3 +210,8 @@ Orphans: 0. Contradictions: 0. Broken links fixed: 1 — malformed self-referenc
 
 ## [2026-06-11] init | Batch ingest workflow v2
 Multi-source batch ingest adopted (spec: docs/superpowers/specs/2026-06-11-multi-source-ingest-design.md). CLAUDE.md INGEST rewritten — entity-centric triage, package pages, thread collapsing. ingest-manifest.md bootstrapped with 605 pre-existing raw files; 1 file left pending for first ingest new run (raw/documents/KMDD/VSP-PVEPKM-MOM-DE-G.md).
+
+## [2026-06-11] ingest | Batch — 1 file
+Documents: 1 (source page). Emails: 0 significant, 0 routine, 0 skipped.
+Pages created: [[KMDD EPCI Engineering Weekly Meeting Week 8]]. Pages updated: [[KMDD Project]] (sources 73→74), [[Technical Query Process]] (sources 4→5; TQ register expanded to 11+ entries), index.md.
+Flags: SIGNIFICANT — well slot relocation (DD D3→D1 + cushion well, KM → D2/D3) confirmed by PVEP-KM with Change Order for additional conductor installation incoming; PFP/firewall A0 dispute open between PMC and CPY; NIPI proposing milestone re-baseline (AFC all JK+PL deliverables 18-Aug → 15-Sep).
