@@ -14,15 +14,17 @@ Your job: maintain a persistent, compounding personal knowledge base at `E:\My K
 
 ```
 E:\My Knowledge\
-├── CLAUDE.md          ← this file — read first every session
-├── index.md           ← content catalog: every wiki page, one-line summary, link
-├── log.md             ← append-only timeline: ingests, queries, lint passes
+├── CLAUDE.md            ← this file — read first every session
+├── index.md             ← content catalog: every wiki page, one-line summary, link
+├── log.md               ← append-only timeline: ingests, queries, lint passes
+├── ingest-manifest.md   ← one line per processed raw file; batch ingest diffs against it
 │
 ├── raw\               ← IMMUTABLE — never modify anything here
 │   ├── articles\      ← web-clipped markdown files (user drops files here)
 │   ├── assets\        ← locally downloaded images
-│   └── emails\
-│       └── KMDD\      ← KMDD email markdown files (mirrored by email_extractor.py)
+│   ├── documents\     ← markitdown-converted documents, one subfolder per project (KMDD\, LDV\, …)
+│   └── emails\        ← email markdown mirrored by email_extractor.py, one subfolder per project
+│       └── KMDD\
 │
 └── wiki\              ← LLM-maintained (you write everything here)
     ├── sources\       ← one summary page per raw article
@@ -43,6 +45,7 @@ E:\My Knowledge\
 6. **On ingest, touch all relevant pages** — don't just create the source page. Update every concept and entity page that the article informs.
 7. **Ingest is hands-off by default** — process fully without asking questions, then flag only if: (a) a claim contradicts an existing wiki page, or (b) the article is unusually significant or dense.
 8. **File synthesis answers** — if a query produces a comparison, analysis, or new connection worth keeping, offer to save it as `wiki\synthesis\<title>.md`.
+9. **Every ingest writes the manifest** — every raw file processed by any ingest (single or batch) gets one line in `ingest-manifest.md`. A raw file with no manifest line is "new". Never remove manifest lines.
 
 ---
 
@@ -83,6 +86,30 @@ raw_file: "raw/articles/filename.md"   # or absolute path for external sources
 - [[sources/Article Title]] — what this source contributed
 ```
 
+### Package Pages (entity subtype)
+
+One page per procurement package in `wiki\entities\`, named `<PROJECT>-<DIS>-<NNN> <Package Name>` (e.g., `KMDD-MEC-006 Chemical Injection Package`). Frontmatter `type: entity`. These are the primary landing pages for routine procurement emails. Required sections in addition to the standard body:
+
+```markdown
+## Current Status
+One line + date, e.g.: TBC#3 Rev.C issued to PVDT/FHE/VHI, responses due 12-Jun | 2026-06-10
+
+## Timeline
+- 2026-06-04 — TBC#2 Rev.C responses received from VHI, PVDT
+- 2026-06-10 — TBC#3 Rev.C issued to all 3 bidders
+(append-only, oldest first)
+
+## Vendors
+- VHI — active bidder, responded TBC#2 Rev.C
+- PVD Tech — active bidder, BCM held 09-Jun
+
+## Open Items
+- [ ] 2026-06-10 — Methanol pump skid width 1200mm max vs 1300mm proposed — awaiting bidder response
+- [x] ~~2026-06-04 — IRCD 24VDC power constraint~~ — resolved 04-Jun: IRCD changed remote → manual
+```
+
+Create a package page the first time a package accumulates knowledge worth a page; until then its facts may live on the project entity page.
+
 ### Naming Conventions
 
 - File names: **Title Case with spaces** (e.g., `Pipeline Integrity Management.md`) — must match the link text exactly so Obsidian resolves wikilinks
@@ -94,7 +121,7 @@ raw_file: "raw/articles/filename.md"   # or absolute path for external sources
 
 ## Workflows
 
-### INGEST
+### INGEST (single file)
 
 **Trigger:** User says `ingest [filename]`, `ingest raw/articles/filename.md`, or `ingest E:\full\path\to\file.md`
 
@@ -122,11 +149,51 @@ Summary: [1–2 sentences on what was extracted]. Pages touched: [[Concept A]], 
 Flags: [none | describe any contradiction or significant finding]
 ```
 
-8. Report back: "Ingested. Pages created/updated: [list]. Flags: [none or description]."
+8. Append one line to `ingest-manifest.md` (see ingest-manifest.md Maintenance)
+9. Report back: "Ingested. Pages created/updated: [list]. Flags: [none or description]."
+
+### INGEST NEW (batch)
+
+**Trigger:** User says `ingest new`
+
+**Core principle:** entity-centric, not source-centric. Sources feed living pages (package pages, concepts, entities); only documents and *significant* emails get source pages of their own.
+
+**Steps:**
+
+1. **Discover** — Glob `raw\emails\**\*.md` and `raw\documents\**\*.md` separately (never rely on git status — it truncates). Diff against `ingest-manifest.md`: any file with no manifest line is new. Source type = top folder (`emails`/`documents`); project = subfolder (`KMDD`, `LDV`, …).
+2. **Sort** — Process oldest first: emails by `YYYY-MM-DD` filename prefix, documents by frontmatter `created` date.
+3. **Collapse threads and duplicates:**
+   - Same filename in a project root and a mirror subfolder (`Technical Bid Clarification\`, `DCC\`, `DocPro\`, `VSP\`) = one file. Process once; write a manifest line for every path.
+   - Group emails by normalized subject (strip `RE`/`Re`/`FW`/`Fw`, emoji prefixes, extra spaces). Process each thread once using its latest email — earlier replies are quoted inside it; earlier members get disposition `skipped-superseded`.
+4. **Triage and route each file:**
+
+   | Class | Test | Action |
+   |---|---|---|
+   | Document | from `raw\documents\` | Full source page + update related package/concept/entity pages. TQ/TQR/MOM/TBE document types are high-value. |
+   | Significant email | decision made, TQ answered, new technical topic, vendor selected/rejected | Source page + living-page updates |
+   | Routine email | TBC thread reply, transmittal, status nudge, meeting logistics | No source page. Update the package page: Current Status, Timeline bullet, Open Items as applicable |
+   | Noise | 🌅/🌆 digest emails, duplicates, superseded thread members | Skip; manifest line only |
+
+   When in doubt between routine and significant, choose routine — a fact can be promoted to a source page later; page sprawl cannot easily be undone.
+5. **Open Items tracking** — a file containing a pending question or awaited response ("please advise", TQ issued, TBC awaiting reply) → add a dated bullet under Open Items on the relevant package/concept page. A later file that answers it → mark resolved with date and a one-line outcome (strike through; do not delete).
+6. **Record** — one manifest line per file regardless of disposition; ONE consolidated `log.md` entry per batch (never per file):
+
+```
+## [YYYY-MM-DD] ingest | Batch — N files
+Documents: a (source pages). Emails: b significant, c routine, d skipped.
+Pages created: [[...]]. Pages updated: [[...]].
+Flags: [none | contradictions, notable decisions]
+```
+
+7. Update `index.md` as usual. Report back: "Ingested N files: X source pages, Y living-page updates, Z skipped. Flags: …" — flag contradictions with existing wiki claims and decisions worth the user's attention.
+
+**Error handling:** unreadable or empty file → manifest line with disposition `error`, listed in the report; never blocks the rest of the batch. File matching no known project → process under a generic bucket and flag in the report.
 
 ### QUERY
 
 **Trigger:** Any question asked in conversation.
+
+**⚠️ HARD RULE: During QUERY, never read `raw\` files. Wiki pages are the only permitted source. If the wiki lacks coverage, stop and tell the user: "The wiki doesn't have enough on this — do you want me to ingest [file] first?" Do not silently bypass the wiki to read raw files.**
 
 **Steps:**
 
@@ -185,6 +252,22 @@ To view the last 5 entries (PowerShell):
 ```powershell
 Select-String "^\#\# \[" "E:\My Knowledge\log.md" | Select-Object -Last 5
 ```
+
+---
+
+## ingest-manifest.md Maintenance
+
+Tracks every processed raw file. Batch discovery diffs the raw glob against this file. One line per raw file path:
+
+```
+- raw/emails/KMDD/2026-06-04 - RE KMDD - Open drain tank options.md | 2026-06-11 | routine → [[KMDD Project]]
+```
+
+Format: `- <path relative to E:\My Knowledge, forward slashes> | <ingest date YYYY-MM-DD> | <disposition>[ → [[target page]]]`
+
+Dispositions: `source-page`, `routine`, `skipped-digest`, `skipped-duplicate`, `skipped-superseded`, `error`, `bootstrap` (file was already wikified before the manifest existed).
+
+Append only. Never remove or rewrite lines. Both single-file and batch ingest append here.
 
 ---
 
