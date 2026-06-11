@@ -1,4 +1,4 @@
-﻿# Ingest Manifest
+# Ingest Manifest
 
 One line per processed raw file: `- <path> | <ingest date> | <disposition>[ → [[target page]]]`
 Append only — see CLAUDE.md "ingest-manifest.md Maintenance".
@@ -14,7 +14,6 @@ Append only — see CLAUDE.md "ingest-manifest.md Maintenance".
 - raw/documents/KMDD/KMDD - External Process Weekly Meeting (MOM) _ week 09 - 04Jun26.md | 2026-06-11 | bootstrap
 - raw/documents/KMDD/PMP_Memory_Sheets.md | 2026-06-11 | bootstrap
 - raw/documents/KMDD/PTSC M&C_Phiếu khảo sát_Phòng Thiết kế.md | 2026-06-11 | bootstrap
-
 - raw/documents/KMDD/Weekly KMDD-MEC-MOM-PMC-0005.md | 2026-06-11 | bootstrap
 - raw/documents/LDV/LDV-Early Engineering SOW 260109 - to PMC.md | 2026-06-11 | bootstrap
 - raw/documents/LDV/MCB-0005-10AA-G-A16-0010_A1 TQR-OT network system installation_Ksigned.md | 2026-06-11 | bootstrap
