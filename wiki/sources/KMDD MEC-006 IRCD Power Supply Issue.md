@@ -4,7 +4,7 @@ type: source
 tags: [work]
 created: 2026-06-04
 updated: 2026-06-04
-sources: 1
+sources: 2
 raw_file: "raw/emails/KMDD/2026-06-03 - KMDD-MEC-006 - Chemical Injection Package - TBC#2 Rev.C - PVDT.md"
 ---
 
@@ -20,11 +20,13 @@ PTSC raised a new technical question to bidder PVDT regarding the IRCD (Injectio
   3. Bidder to update Utility Requirement List (supply voltage, frequency, power consumption) and identify any cost/schedule impact.
 - **Context**: This is a late-stage technical query during TBC#2, meaning if VAC is not feasible, the platform power distribution design may need to be revisited.
 - **TBC#3 Rev.B**: Separate summarization email sent Jun 3 to internal team for review; team response required by 16:30 Jun 4.
+- **✅ Proposed resolution (04-Jun-2026, MOM-005 Item 9.5):** PMC proposes changing IRCD from remote-controlled to **manual type** — eliminates 24VDC power demand entirely. Rationale: manual IRCD is also more practical operationally. PMC to email CPY for advice by **05-Jun-2026**. VAC alternative no longer the primary path.
 
 ## Connections
 - [[Chemical Injection System Design]] — IRCD is a key component of the chemical injection skid
 - [[KMDD MEC-006 Chemical Injection Package Status]] — parent source tracking overall MEC-006 status
 - [[KMDD Project]] — MEC-006 is the most active package (176 emails)
+- [[KMDD MEC Weekly Meeting MOM-005]] — Item 9.5; manual IRCD proposed as resolution
 
 ## Source References
 - [[KMDD MEC-006 Chemical Injection Package Status]] — overall MEC-006 TBC status this source updates

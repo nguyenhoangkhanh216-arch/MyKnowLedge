@@ -1,0 +1,727 @@
+---
+title: KDP-OOO-03-TQ-X-0001-(P) - Request Information for Firewater Design Pressure - Final
+project: KMDD
+doc_source: KDP-OOO-03-TQ-X-0001-(P) - Request Information for Firewater Design Pressure - Final.pdf
+created: 2026-06-04
+tags: [work]
+doc_number: KDP-OOO-03-TQ-X-0001-(P) - Request Information for Firewater Design Pressure - Final
+---
+
+Page 1 of 4 
+ 
+ 
+ 
+ 
+KHANH MY- DAM DOI FIELDS DEVELOPMENT PROJECT, 
+BLOCK 46/13, OFFSHORE VIETNAM 
+ 
+TECHNICAL QUERY 
+PACKAGE/ CONTRACT NO.: …………….. 
+TQ No.: KDP-OOO-03-TQ-X-0001-(P)  
+DATE: 4/Jun/2026 
+QUERY TITLE: Request Information for Firewater Design Pressure for KM-WHP and DD-WHP 
+COMPANY 
+KHANH MY PETROLEUM 
+OPERATING BRANCH – 
+PETROVIETNAM EXPLORATION 
+CORPORATION LIMITED 
+DISCIPLINE (Tick as applicable) 
+CONTRACTOR/ 
+ 
+VIETSOPETRO JOINT VENTURE 
+STRUCTURE 
+PIPELINE 
+PIPING 
+ELECTRICAL 
+INSTRUMENT 
+ 
+ 
+ 
+ 
+ 
+MECHANICAL 
+SAFETY 
+PROCESS 
+PROCESS SAFETY 
+PROJ. MANAGEMENT 
+ 
+ 
+ 
+ 
+ 
+SUB-
+CONTRACTOR 
+PTSC MECHANICAL AND 
+CONSTRUCTION LIMITED 
+COMPANY 
+TOTAL PAGES 
+6 (Including attachment) 
+ 
+URGENCY:                              
+  URGENT.                                            
+ ROUTINE.  
+RESPONSE REQUIRED DATE: 15-Jun-2026 
+QUERY TYPES:                      
+ CLARIFICATION.                                 
+ DEVIATION.  
+REFERENCE DOCUMENT(S):  
+KDP-DDA-03-DW-X-63001-D0 Piping And Instrumentation Diagram Fire Water System 
+KDP-KMA-03-DW-X-63001-D0 Piping And Instrumentation Diagram Fire Water System 
+3/
+d
+f
+b
+SS
+d
+di
+h
+i
+l
+illi
+i (
+/2026/06)
+QUERY DESCRIPTION:  
+ 
+Reference is made to the relevant P&IDs for the firewater system: 
+1/ KDP-DDA-03-DW-X-63001-D0 Piping And Instrumentation Diagram Fire Water System. 
+2/ KDP-KMA-03-DW-X-63001-D0 Piping And Instrumentation Diagram Fire Water System. 
+The current design pressure for KM WHP and DD WHP Firewater System is 16 barg with tie-in flanges size (6’’, 150# 
+rating) for Drilling Rig and Supply Vessel Connection as per FEED information. However, this design basis required to fully 
+verify against of the Drilling Rig/Supply Vessel firewater system design pressure and the available tie-in connection 
+size/rating on the Drilling Rig/Supply Vessel where the KM WHP and DD WHP Firewater system shall be connected during 
+SIPROD operation.  
+Therefore, Sub-CTR would like to seek CTR/CPY’s advice on the final design pressure (barg) for the KM WHP and DD 
+WHP firewater system and tie-in flanges size/rating (for Drilling Rig and Supply Vessel Connection) taking into account the 
+Drilling Rig/Supply Vessel firewater system design for further works.
+
+---
+
+Page 2 of 4 
+ 
+ 
+ 
+ 
+KHANH MY- DAM DOI FIELDS DEVELOPMENT PROJECT, 
+BLOCK 46/13, OFFSHORE VIETNAM 
+ 
+TECHNICAL QUERY 
+PACKAGE/ CONTRACT NO.: …………….. 
+TQ No.: KDP-OOO-03-TQ-X-0001-(P)  
+DATE: 4/Jun/2026 
+PROPOSED SOLUTION:  
+Reference is made to the provided Memorandum of Agreement between SSF and DEV regarding the typical Drilling Rig 
+(Doc. No. DEV/2026/06), which states that the PV Drilling III Rig information shall be used as the basis for Detailed 
+Engineering during EPCI execution. 
+ 
+Therefore, to ensure consistency, it is recommended that current design of KM WHP and DD WHP Firewater System shall 
+be verified against the design pressure of PVD III Rig Firewater System. COMPANY is kindly requested to provide the 
+relevant design pressure information of the PV Drilling III Rig Firewater System for this verification. 
+ 
+In the event that a different drilling rig other than PV Drilling III Rig is selected, any additional measures shall be identified 
+and implemented during the Drilling phase. 
+ATTACHMENTS:  
+1/ KDP-DDA-03-DW-X-63001-D0 Piping And Instrumentation Diagram Fire Water System. 
+2/ KDP-KMA-03-DW-X-63001-D0 Piping And Instrumentation Diagram Fire Water System. 
+3/ Memorandum of Agreement between SSF and DEV regarding the typical Drilling Rig (Doc. No. DEV/2026/06) 
+COST IMPACT:          
+ YES.                     
+ NO.  
+SCHEDULE IMPACT:           
+ YES.                  .  
+ NO.  
+ORIGINATED BY:   
+NAME: Nguyen Thanh Chung/Cao Thanh Nhat 
+POSITION: Safety team 
+SIGNATURE:  
+DATE: 04/06/2026 
+APPROVED BY:  
+NAME: Nguyen Dinh Manh 
+POSITION: Engineering Manager 
+SIGNATURE:  
+DATE: 04/06/2026
+
+---
+
+Page 3 of 4 
+ 
+ 
+ 
+ 
+KHANH MY- DAM DOI FIELDS DEVELOPMENT PROJECT, 
+BLOCK 46/13, OFFSHORE VIETNAM 
+ 
+TECHNICAL QUERY 
+PACKAGE/ CONTRACT NO.: …………….. 
+TQ No.: KDP-OOO-03-TQ-X-0001-(P)  
+DATE: 4/Jun/2026 
+EPCI CONTRACTOR RESPONSE:  
+EPCI RESPONSECHECKED BY:  
+NAME: 
+POSITION:  
+SIGNATURE:  
+DATE: 
+EPCI APPROVAL BY:  
+NAME: 
+POSITION:  
+SIGNATURE:  
+DATE: 
+COMPANY RESPONSE:
+
+---
+
+Page 4 of 4 
+ 
+ 
+ 
+ 
+KHANH MY- DAM DOI FIELDS DEVELOPMENT PROJECT, 
+BLOCK 46/13, OFFSHORE VIETNAM 
+ 
+TECHNICAL QUERY 
+PACKAGE/ CONTRACT NO.: …………….. 
+TQ No.: KDP-OOO-03-TQ-X-0001-(P)  
+DATE: 4/Jun/2026 
+ATTACHMENTS:  
+ 
+APPROVAL STATUS:              
+ APPROVED.               
+  APPROVED AS NOTED.                    
+ REJECTED. 
+CERTIFIED AUTHORITY REVIEW REQUIRED:              
+ YES.               
+  NO 
+RESPONDED BY: 
+NAME: 
+POSITION:  
+SIGNATURE:  
+DATE: 
+APPROVED BY: 
+NAME: 
+POSITION:  
+SIGNATURE:  
+DATE:
+
+---
+
+150-FW-63005-17120X
+150-FW-63004-17120X
+150-FW-63001-17120X
+DN50
+NC
+150-FW-63002-17120X
+NOTE 5
+FIREWATER SUPPLY
+FROM DRILLING RIG
+(MAIN DECK)
+NOTE 3
+DN150
+NC
+DN50
+NOTE 4
+150-FW-63003-17120X
+MAIN DECK
+MAIN DECK
+NC
+CELLAR DECK
+NOTE 6
+XV
+6320
+NOTE 7
+NOTE 7
+NOTE 7
+NC
+NC
+FMO-82-01
+FIRE MONITOR
+NC
+TYPE 3
+150-FW-63006-17120X
+FMO-82-02
+NOTE 6
+FMO-82-02
+FIRE MONITOR
+FMO-82-03
+NOTE 6
+FMO-82-03
+FIRE MONITOR
+VBF-6322
+VBF-6323
+VBF-6320
+VBF-6321
+VB-6322
+DN150
+VBF-6324
+CELLAR DECK
+150-FW-63007-17120X
+FIREWATER SUPPLY
+FROM MARINE VESSEL
+(BOAT LANDING EAST).
+DN150
+NC
+VBF-6325
+NC
+DN150
+CELLAR DECK
+SUB-CELLAR DECK
+VBF-6326
+TO OVERBOARD
+BOAT LANDING-EAST
+NOTES :
+-
+-
+SCALE
+PROJECT:
+DWG NO.
+PROVISION OF DETAILED ENGINEERING SERVICE
+FOR KHANH MY - DAM DOI FIELDS DEVELOPMENT PROJECT,
+BLOCK 46/13 OFFSHORE VIETNAM
+TITLE:
+FACILITIY:
+SHEET
+REV.
+CLIENT:
+CONTRACTOR & SUB-CONTRACTOR:
+APRD.
+BY
+DESCRIPTION
+DATE
+REV
+REFERENCE DRAWING TITLE
+REFERENCE DRAWING NO.
+CHECK
+WELLHEAD PLATFORM KHANH MY, DAM DOI AND BK-C
+KHANH MY PETROLEUM OPERATING BRANCH-
+PETROVIETNAM EXPLORATION PRODUCTION
+CORPORATION LIMITED (PVEP-KHANH MY)
+KDP-DDA-03-DW-X-63001
+DAM DOI WELLHEAD PLATFORM
+PIPING AND INSTRUMENTATION DIAGRAM
+FIRE WATER SYSTEM
+1 OF 1
+D0
+N.T.S
+1.
+FIREWATER LINE SIZING BASED ON MAX. FIREWATER DEMAND FROM
+SIMULTANEOUS OPERATION OF THREE (3) FIREWATER MONITORS.
+2
+FIREWATER RING MAIN IS DRY DURING ROUTINE/ NORMAL OPERATION.
+3.
+FIREWATER SUPPLY DURING DRILLING OPERATION WILL BE PROVIDED FROM
+DRILLING RIG FIREWATER SYSTEM. IF BOOSTER PUMP IS REQUIRED, THE
+PUMP TO BE SUPPLIED BY OTHER AND LOCATED ON THE RIG. CONNECTION
+TO DRILLING RIG IS LOCATED ON MAIN DECK.
+4.
+PROVISION FOR PRESSURE GAUGE CONNECTION DURING SIPROD.
+5.
+TO BE PROVIDED AT LOWEST POINT.
+6.
+MONITOR DIRECTION SHALL BE LOCKED AT THE POSITION POINTING TOWARD
+THE WELLBAY AREAS/ESCAPE ROUTE TO RIG
+7.
+VALVE TO BE OPENED DURING SIPROD.
+8.
+VALVE CODE WILL BE PROVIDED (HOLD)
+9.
+THIS IS THE HOOK-UP TIE-IN POINT AND SHALL BE INSTALLED DURING THE
+OFFSHORE CONSTRUCTION CAMPAIGN.
+D0
+24.03.2026
+ISSUED FOR REVIEW
+NTC
+CTN
+NDM
+FO
+D0
+DN150
+DN150
+D0
+D0
+NOTE 9
+D0
+D0
+D0
+D0
+50-FW-63008-17120X
+3
+ITEM NO.
+CAPACITY (m /hr)
+OPERATING PRESSURE (barg)
+NAME
+FMO-82-01/02/03
+FIREWATER MONITOR
+120
+3.5
+DESIGN PRESSURE (barg)
+16
+D0
+FMO-82-01
+D0
+D0
+D0
+
+---
+
+150-FW-63005-17120X
+150-FW-63004-17120X
+150-FW-63001-17120X
+DN50
+NC
+150-FW-63002-17120X
+NOTE 5
+FIREWATER SUPPLY
+FROM DRILLING RIG
+(MAIN DECK)
+NOTE 3
+DN150
+NC
+DN50
+NOTE 4
+150-FW-63003-17120X
+MAIN DECK
+MAIN DECK
+NC
+CELLAR DECK
+NOTE 6
+XV
+6310
+NOTE 7
+NOTE 7
+NOTE 7
+NC
+NC
+FIRE MONITOR
+NC
+TYPE 3
+150-FW-63006-17120X
+NOTE 6
+FIRE MONITOR
+NOTE 6
+FIRE MONITOR
+VBF-6312
+VBF-6313
+VBF-6320
+VBF-6311
+VB-6312
+DN150
+VBF-6314
+CELLAR DECK
+150-FW-63007-17120X
+FIREWATER SUPPLY
+FROM MARINE VESSEL
+(BOAT LANDING EAST).
+DN150
+NC
+VBF-6315
+NC
+DN150
+CELLAR DECK
+SUB-CELLAR DECK
+VBF-6316
+TO OVERBOARD
+BOAT LANDING-EAST
+NOTES :
+-
+-
+SCALE
+PROJECT:
+DWG NO.
+PROVISION OF DETAILED ENGINEERING SERVICE
+FOR KHANH MY - DAM DOI FIELDS DEVELOPMENT PROJECT,
+BLOCK 46/13 OFFSHORE VIETNAM
+TITLE:
+FACILITIY:
+SHEET
+REV.
+CLIENT:
+CONTRACTOR & SUB-CONTRACTOR:
+APRD.
+BY
+DESCRIPTION
+DATE
+REV
+REFERENCE DRAWING TITLE
+REFERENCE DRAWING NO.
+CHECK
+WELLHEAD PLATFORM KHANH MY, DAM DOI AND BK-C
+KHANH MY PETROLEUM OPERATING BRANCH-
+PETROVIETNAM EXPLORATION PRODUCTION
+CORPORATION LIMITED (PVEP-KHANH MY)
+KDP-KMA-03-DW-X-63001
+KHANH MY WELLHEAD PLATFORM
+PIPING AND INSTRUMENTATION DIAGRAM
+FIRE WATER SYSTEM
+1 OF 1
+D0
+N.T.S
+D0
+24.03.2026
+ISSUED FOR REVIEW
+NTC
+CTN
+NDM
+FO
+D0
+DN150
+DN150
+D0
+1.
+FIREWATER LINE SIZING BASED ON MAX. FIREWATER DEMAND FROM
+SIMULTANEOUS OPERATION OF THREE (3) FIREWATER MONITORS.
+2
+FIREWATER RING MAIN IS DRY DURING ROUTINE/ NORMAL OPERATION.
+3.
+FIREWATER SUPPLY DURING DRILLING OPERATION WILL BE PROVIDED FROM
+DRILLING RIG FIREWATER SYSTEM. IF BOOSTER PUMP IS REQUIRED, THE
+PUMP TO BE SUPPLIED BY OTHER AND LOCATED ON THE RIG. CONNECTION
+TO DRILLING RIG IS LOCATED ON MAIN DECK.
+4.
+PROVISION FOR PRESSURE GAUGE CONNECTION DURING SIPROD.
+5.
+TO BE PROVIDED AT LOWEST POINT.
+6.
+MONITOR DIRECTION SHALL BE LOCKED AT THE POSITION POINTING TOWARD
+THE WELLBAY AREAS/ESCAPE ROUTE TO RIG
+7.
+VALVE TO BE OPENED DURING SIPROD.
+8.
+VALVE CODE WILL BE PROVIDED (HOLD)
+9.
+THIS IS THE HOOK-UP TIE-IN POINT AND SHALL BE INSTALLED DURING THE
+OFFSHORE CONSTRUCTION CAMPAIGN.
+D0
+50-FW-63008-17120X
+D0
+NOTE 9
+D0
+3
+ITEM NO.
+CAPACITY (m /hr)
+OPERATING PRESSURE (barg)
+NAME
+FMO-82-01/02/03
+FIREWATER MONITOR
+120
+3.5
+DESIGN PRESSURE (barg)
+16
+D0
+D0
+FMO-82-01
+FMO-82-01
+D0
+FMO-82-02
+FMO-82-03
+FMO-82-02
+FMO-82-03
+D0
+D0
+D0
+
+---
+
+PETROVIETNAM EXPLORATION PRODUCTION CORPORATION LTD 
+KHANH MY PETROLEUM OPERATING BRANCH - PETROVIETNAM EXPLORATION 
+PRODUCTION CORPORATION LTD (PVEP – KHANH MY) 
+ 
+19th Floor, Victory Tower 
+12 Tan Trao Street, Tan My Ward, 
+Ho Chi Minh City, S.R. of Vietnam 
+Tel:   + (84 - 28) 36380789 
+Fax:  + (84 - 28) 39636633 
+Email: 
+receptionkhanhmy@pvep.com.vn  
+ 
+ 
+INTERNAL MEMORANDUM 
+ 
+From: 
+ 
+DEV 
+To: 
+SSF 
+Our ref: 
+DEV/2026/06 
+Date:    13 Mar 2026 
+ 
+ 
+ 
+SUBJECT: 
+MEMORANDUM 
+OF 
+AGREEMENT 
+BETWEEN 
+SSF 
+AND 
+DEV 
+DEPARTMENTS REGARDING TYPICAL DRILLING RIG TO BE USED FOR 
+ENGINEERING, PROCUREMENT, CONSTRUCTION, TRANSPORTATION, 
+INSTALLATION, HOOK-UP AND COMMISSIONING (EPCI) FOR KHANH MY 
+AND DAM DOI FIELDS DEVELOPMENT PROJECT, BLOCK 46/13, 
+OFFSHORE VIETNAM. 
+ 
+ 
+1.0 
+OBJECTIVE 
+To formalize a mutual agreement between SSF and DEV concerning the parameters of a typical 
+jack-up type drilling rig will be used by both SSF and DEV for field development activities. 
+ 
+2.0 
+BACKGROUND AND JUSTIFICATIONS 
+- 
+The project Basis of Design (Use of cantilever jack-up rig for drilling has been stated in Section 
+14 – Structural Design Basis). 
+- 
+The typical minimum rig specifications stated in Table 4.3.7 – Required Rig Specifications of 
+Field Development Plan.  
+- 
+Information of the rig fleet of PV Drilling, the major drilling contractor in Vietnam. 
+- 
+Discussions between DEV and Drilling Section of SSF.  
+ 
+3.0 
+RECOMMENDATION 
+DEV and SSF hereby agree to utilize main particulars and other overall dimensions of PV Drilling 
+III jack-up rig for Detailed Engineering during EPCI execution.    
+ 
+4.0 
+NEXT STEP 
+- 
+DEV and SSF to sign off the memorandum. 
+- 
+DEV and SSF to use the agreed information for their activities. 
+ 
+Enclosed: 
+- 
+Appendix 1: General Arrangement (Profile View) drawing of PV Drilling III rig. 
+- 
+Appendix 2: Table 4.3.7 - Required Rig Specifications (extracted from Field Development 
+Plan). 
+ 
+ 
+SIGN
+
+---
+
+PREPARED BY: 
+SIGNATURE 
+DATE 
+NGUYEN THANH HIEU 
+FACILITIES LEAD 
+TRAN TRUNG 
+SENIOR COMPLETION 
+ENGINEER 
+ENDORSED BY: 
+SIGNATURE 
+DATE 
+NGUYEN KHAC HUNG 
+ENGINEERING LEAD 
+NGUYEN DUC HUY 
+SENIOR DRILLING 
+ENGINEER 
+APPROVED BY: 
+SIGNATURE 
+DATE 
+LE DINH THANH 
+SSF MANAGER 
+NGUYEN CHIEM HUY 
+DEV MANAGER 
+SIGN
+SIGN
+SIGN
+SIGN
+SIGN
+SIGN
+
+---
+
+ATTACHMENT 1 - GENERAL ARRANGEMENT PROFILE VIEW OF PV DRILLING III RIG
+
+---
+
+ATTACHMENT 2 - REQUIRED RIG SPECIFICATIONS 
+ 
+No 
+Major Rig Specifications 
+Required Rig Specifications 
+ 1 
+ 
+Rig type 
+ 
+Jack up, Independent Leg, Cantilever 
+ 2 
+ 
+Drill Depth Capacity 
+ 
+4,000 
+m 
+ 3 
+ 
+Deck Load Capacity 
+ 
+2,500 
+MT Min 
+ 4 
+ 
+Derrick Capacity 
+ 
+500 
+MT 
+ 5 
+ 
+Electrical system 
+ 
+5,000 
+kW 
+ 6 
+ 
+Draw work 
+ 
+2,000 
+HP 
+ 7 
+ 
+TDS 
+ 
+TDS 4 or equivalent 
+500 MT Rated Capacity 
+45k ft.lbs Output Torque 
+ 
+ 9 
+ 
+Crane 
+ 
+3 x 40 MT 
+ea 
+ 
+ 
+Number of Mud pumps 
+ 
+3 
+triplex 
+16 
+ 
+Pump Pressure 
+ 
+1,600 
+HP 
+17 
+ 
+Low pressure BOP stack 
+ 
+Annular + 2 single rams 
+2K psi 
+ 
+High pressure BOP stack 
+ 
+Annular + 4 rams/2 double 
+10K psi 
+ 
+or Single 18-3/4" 10k stack/13- 5/8” 10k 
+stack 
+ 
+Preferred 
+18 
+ 
+Accommodation 
+ 
+120 minimum

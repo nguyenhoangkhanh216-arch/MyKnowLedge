@@ -3,8 +3,8 @@ title: "KMDD Open Drain Tank Oil-in-Water Content"
 type: source
 tags: [work, science]
 created: 2026-06-03
-updated: 2026-06-03
-sources: 1
+updated: 2026-06-04
+sources: 2
 raw_file: "E:\\MyVault\\Emails\\KMDD\\2026-03-26 - RE KMDD_Process data sheet for open drain tank (for survey the impact to tank design  in case oil in water content variable) Resend.md"
 ---
 
@@ -22,12 +22,15 @@ The FEED process datasheet for the open drain tank specifies 10% oil-in-water co
 - **Procurement constraint:** Cannot send ad-hoc updates to bidders mid-proposal stage — all changes via TBC after receiving official technical proposals
 - **Management instruction:** Each package should have 5 bidders; mid-proposal updates risk giving advantage to some bidders over others
 - **PTSC process action:** Issue PDS with HOLD on inlet oil value; check operating procedures to confirm how open oily drain is controlled to stay below 10%
+- **✅ RESOLVED (02-Jun-2026):** Bidder confirmed 10% OIW no concern for meeting outlet spec; CPY agreed to keep FEED design at 10% oil-in-water inlet. PTSC's 1000 ppmv proposal withdrawn. Issue closed.
 
 ## Connections
 
 - [[Open Drain System Design]] — this is the specific KMDD instance of the inlet oil-in-water sizing challenge
 - [[KMDD Project]] — part of the open engineering issues to be resolved in DE phase
+- [[KMDD Process Engineering Weekly Jun 2]] — resolution: CPY agreed FEED 10% basis kept (Item 2.11 closed)
 
 ## Source References
 
 - This page IS the source summary — raw email at `E:\MyVault\Emails\KMDD\2026-03-26 - RE KMDD_Process data sheet for open drain tank...`
+- [[KMDD Process Engineering Weekly Jun 2]] — resolution update: 10% OIW agreed, closed 02-Jun-2026

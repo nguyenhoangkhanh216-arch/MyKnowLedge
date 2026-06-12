@@ -95,3 +95,5 @@ PTSC engineering disciplines (mechanical, instrument, piping, E&I, process) must
 - [[KMDD MEC-006 IRCD Power Supply Issue]] — late-stage utility discovery in TBC#2
 - [[KMDD MEC-003 Bao Nghi TBC Closure]] — clean closure example: all points confirmed, TBE update triggered
 - [[KMDD Methanol Pump Capacity Upgrade]] — TBC for MEC-006 identified only PVD Tech compliant on pump type
+- [[KMDD TBC Status Jun 4]] — 04-Jun morning snapshot; 7 stale, 14 active; INS-002 TBC#2 due 15:45 same day; MEC-002 at 17 rounds
+- [[KMDD MEC-001 TBC Rev A2 AECC and Jun 4 MEC Actions]] — AECC responded TBC Rev.A2; feedback due Jun 5

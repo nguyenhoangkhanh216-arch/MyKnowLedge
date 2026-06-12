@@ -3,8 +3,8 @@ title: "FEED Verification EPCI Contract"
 type: concept
 tags: [work]
 created: 2026-06-03
-updated: 2026-06-03
-sources: 1
+updated: 2026-06-04
+sources: 3
 ---
 
 ## Summary
@@ -28,7 +28,11 @@ In EPCI contracts, the contractor has a contractual obligation to verify all FEE
 
 - [[KMDD Project]] — KMDD FEED Verification is commercially critical; four major findings logged
 - [[KMDD FEED Punch List Key Findings]] — the four KMDD findings that were flagged for this report
+- [[KMDD FEED Verification Return Comments]] — PVEP-KM returned RC2 comments on the report; PTSC response and CPY meeting due 05-Jun-2026
+- [[Technical Query Process]] — TQs raised to COMPANY often originate from FEED gaps surfaced during this process
 
 ## Source References
 
 - [[KMDD FEED Punch List Key Findings]] — KMDD implementation: timeline, four critical findings, party responsibilities
+- [[KMDD FEED Verification Return Comments]] — PVEP-KM returned RC2; response and meeting originally proposed 05-Jun
+- [[KMDD FEED Verification Code 2 Return]] — VSP also returned KDP-OOO-03-RP-G-0002-D0 Code 2 via transmittal 02-Jun; NIPI reviewing Jacket/Pipeline items; CPY alignment meeting now 09-Jun-2026

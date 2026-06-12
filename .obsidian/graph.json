@@ -1,22 +1,44 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "KMDD",
+      "color": {
+        "a": 1,
+        "rgb": 5640839
+      }
+    },
+    {
+      "query": "HIPPS",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "Open drain",
+      "color": {
+        "a": 1,
+        "rgb": 10215694
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.0953125,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.395833333333333,
+  "repelStrength": 11.5625,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.3628873693012076,
-  "close": true
+  "linkDistance": 500,
+  "scale": 0.16265143786548183,
+  "close": false
 }
