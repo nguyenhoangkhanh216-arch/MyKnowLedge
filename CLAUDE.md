@@ -21,6 +21,8 @@ E:\My Knowledge\
 ├── raw\               ← IMMUTABLE — never modify anything here
 │   ├── articles\      ← web-clipped markdown files (user drops files here)
 │   ├── assets\        ← locally downloaded images
+│   ├── documents\     ← project documents (TQs, MOMs, ITB docs)
+│   │   └── NLQ\       ← NLQ EPCIC 10 ITB documents (markitdown-converted)
 │   └── emails\
 │       └── KMDD\      ← KMDD email markdown files (mirrored by email_extractor.py)
 │
@@ -41,6 +43,9 @@ E:\My Knowledge\
 4. **Always add YAML frontmatter** to every wiki page you create.
 5. **Cross-reference liberally** — use `[[Page Name]]` links. Every wiki page should link to at least 2 other wiki pages.
 6. **On ingest, touch all relevant pages** — don't just create the source page. Update every concept and entity page that the article informs.
+6a. **NLQ citation format** — every Key Point on an NLQ concept page must end with a citation in this exact format: `— Exhibit A App A1, §2.2`. Never write a Key Point without a section reference. The section number is mandatory for proposal traceability.
+6b. **NLQ cross-discipline copy** — if a requirement from an NLQ document applies to multiple disciplines (e.g., a fireproofing requirement affects Safety, Structural, and Piping), copy the identical Key Point (with the same citation) to every relevant concept page. Do not use cross-references alone — each concept page must be self-contained.
+6c. **NLQ contradiction flag** — if two NLQ documents make conflicting claims on the same topic, add to the log entry Flags line: `CONTRADICTION — [Doc A] §X.X says [claim A]; [Doc B] §Y.Y says [claim B]. Raise as clarification to client.`
 7. **Ingest is hands-off by default** — process fully without asking questions, then flag only if: (a) a claim contradicts an existing wiki page, or (b) the article is unusually significant or dense.
 8. **File synthesis answers** — if a query produces a comparison, analysis, or new connection worth keeping, offer to save it as `wiki\synthesis\<title>.md`.
 
@@ -96,7 +101,30 @@ raw_file: "raw/articles/filename.md"   # or absolute path for external sources
 
 ### INGEST
 
-**Trigger:** User says `ingest [filename]`, `ingest raw/articles/filename.md`, or `ingest E:\full\path\to\file.md`
+**Trigger:** User says `ingest [filename]`, `ingest raw/articles/filename.md`, `ingest E:\full\path\to\file.md`, or `ingest raw/documents/NLQ/` (directory — processes all .md files in ingest order below)
+
+**Batch directory ingest order for `raw/documents/NLQ/`:**
+1. `01. EPCIC 10 - ITT Rev H.md`
+2. `EPCIC 10 - EXHIBIT A Rev A.md`
+3. `EPCIC 10 - EXHIBIT A App A1 Rev B.md`
+4. `EPCIC 10 - EXHIBIT A App A2 Rev B.md`
+5. `EPCIC 10 - EXHIBIT A App A3 Rev A.md`
+6. `EPCIC 10 - EXHIBIT A App A4 Rev A.md`
+7. `EPCIC 10 - EXHIBIT A App A5 Rev A.md`
+8. `EPCIC 10 - EXHIBIT A App A6 Rev A.md`
+9. `EPCIC 10 - EXHIBIT A App A7 Rev B.md`
+10. `EPCIC 10 - EXHIBIT A App A8 Rev B.md`
+11. `EPCIC 10 - EXHIBIT A App A9 Rev A.md`
+12. `EPCIC 10 - EXHIBIT A App A10 Rev A.md`
+13. `EPCIC 10 - EXHIBIT A App A11 Rev B.md`
+14. `EPCIC 10 - EXHIBIT E Rev D.md`
+15. `EPCIC 10-EXHIBIT E App E1 Rev C.md`
+16. `EPCIC 10-EXHIBIT E App E2 Rev C.md`
+17. `EPCIC 10 - EXHIBIT E App E3 Rev B.md`
+18. `EPCIC 10-EXHIBIT E App E4 Rev B.md`
+19. `EPCIC 10 - EXHIBIT N Rev A.md`
+
+Process each file sequentially using standard INGEST steps. Append a single combined log entry at the end covering all 19 files.
 
 Sources can be `raw\articles\` (clipped articles), `raw\emails\KMDD\` (KMDD emails mirrored locally), raw\documents\ (document like TQ/MOM/Project Document) or any absolute path. Never modify source files regardless of location.
 
