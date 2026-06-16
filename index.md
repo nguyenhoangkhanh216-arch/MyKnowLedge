@@ -1,9 +1,10 @@
 # Wiki Index
-_Last updated: 2026-06-16 | Sources: 112 | Wiki pages: 142_
+_Last updated: 2026-06-16 | Sources: 113 | Wiki pages: 148_
 
 ---
 
 ## Sources
+- [NLQ - ITT](wiki/sources/NLQ%20-%20ITT.md) — Instructions to Tenderer for NLQ EPCIC 10 (CFT ref. 10210491); NOC Qatar; 200-bed LQ at B-Location; USD 500K Bid Bond; Technical Close 30-Apr-26; Commercial Close 30-Jun-26 | 2026-06-16
 - [KMDD TBC Snapshot 15Jun26](wiki/sources/KMDD%20TBC%20Snapshot%2015Jun26.md) — 15-Jun morning: 16 stale / 6 active; INS-002 COB deadline met by all 5 bidders; IRCD fail-safe dispute open | 2026-06-16
 - [KMDD Well Slot Swap DD-WHP Jun26](wiki/sources/KMDD%20Well%20Slot%20Swap%20DD-WHP%20Jun26.md) — DD-WHP D3→D1 (CPY initiated 20-May); KM-WHP D2/D3 conductor tags swapped; all disciplines update design + MTO | 2026-06-16
 - [KMDD INS-002 PRV TBC2 RevC Responses 15Jun26](wiki/sources/KMDD%20INS-002%20PRV%20TBC2%20RevC%20Responses%2015Jun26.md) — all 5 bidders responded by COB 15-Jun; Thanh An confirmed IN17+Q14; An Phu ferrite dispute ongoing (NORSOK-M-630) | 2026-06-16
@@ -137,6 +138,10 @@ _Last updated: 2026-06-16 | Sources: 112 | Wiki pages: 142_
 - [Technical Query Process](wiki/concepts/Technical%20Query%20Process.md) — TQ workflow (Sub-CTR → CTR/CPY): form structure, numbering, full KMDD TQ register (11+ TQs), LDV-A TQ example | 5 sources
 - [SIL Classification](wiki/concepts/SIL%20Classification.md) — Safety Integrity Level; IEC 61511; SIL study process; Risktec Milestone #2 submitted 09-Jun-2026 | 3 sources
 - [Topside Weight Management](wiki/concepts/Topside%20Weight%20Management.md) — crane lift capacity vs factored topside weight; WCR; weight shedding strategies; KMDD DD-WHP +92.1 MT overrun actioned 10-Jun | 7 sources
+- [NLQ Commercial and Tender Requirements](wiki/concepts/NLQ%20Commercial%20and%20Tender%20Requirements.md) — tender timeline, bid bond (USD 500K), submission packaging rules, evaluation criteria, exceptions templates for NLQ EPCIC 10 ITT | 1 source
+- [NLQ HSE Requirements](wiki/concepts/NLQ%20HSE%20Requirements.md) — HSE Package C submission: 12 categories questionnaire (Att. 12), ISO 45001/14001, HAZID, emergency response, MEDEVAC, Stop Work Authority | 1 source
+- [NLQ Quality Requirements](wiki/concepts/NLQ%20Quality%20Requirements.md) — QA/QC Package B §12: ISO 9001 certificate, Quality Manual, preliminary Quality Plan per SD-NOC-PJC-501, construction KPI evidence | 1 source
+- [NLQ Project Management Requirements](wiki/concepts/NLQ%20Project%20Management%20Requirements.md) — organisation chart, split of responsibilities, workload histograms (Att. 9), past experience (Att. 10), PEP, OPERCOM/ICAPS commissioning | 1 source
 
 ## Entities
 - [Obsidian](wiki/entities/Obsidian.md) — local-first markdown app; recommended IDE for the LLM Wiki (graph view, Web Clipper, Dataview) | 1 source
@@ -149,6 +154,7 @@ _Last updated: 2026-06-16 | Sources: 112 | Wiki pages: 142_
 - [NDUM Project](wiki/entities/NDUM%20Project.md) — WHP & Pipeline EPCI for Nam Du-U Minh Field; JSE as COMPANY; PTSC M&C contractor; EDE phase (flexible riser + T&I) | 2 sources
 - [LDV-A Project](wiki/entities/LDV-A%20Project.md) — Block 15-1/05 Lac Da Vang; Murphy Oil as COMPANY; PTSC M&C C&C + T&I phase; CB9 confirmed, topside weighing complete, DEV awaiting MOC approval | 4 sources
 - [LDV-B Project](wiki/entities/LDV-B%20Project.md) — Block 15-1/05 unmanned WHP; DE team formed Jun-2026 (contract likely awarded); PP ROS dates issued 10-Jun | 3 sources
+- [NLQ Project](wiki/entities/NLQ%20Project.md) — NLQ EPCIC 10 (CFT ref. 10210491); NOC Qatar; 200-bed permanent accommodation at B-Location Al Shaheen; contract target 30-Sep-26 | 1 source
 
 ## Synthesis
 <!-- Format: - [Synthesis Title](wiki/synthesis/title.md) — one-line summary | YYYY-MM-DD -->
