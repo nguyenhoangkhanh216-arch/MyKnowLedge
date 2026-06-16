@@ -1,9 +1,16 @@
 # Wiki Index
-_Last updated: 2026-06-16 | Sources: 129 | Wiki pages: 172_
+_Last updated: 2026-06-16 | Sources: 136 | Wiki pages: 179_
 
 ---
 
 ## Sources
+- [NLQ - Exhibit G Coordination Procedure](wiki/sources/NLQ%20-%20Exhibit%20G%20Coordination%20Procedure.md) — Exhibit G Rev B (41 pages); CCM structure; Jerome Morin as COMPANY REP; KOM within 2 weeks; weekly Thursday cut-off; ICAD/IOffice/iTools EDMS; AVEVA Global satellite; COI/COR 7-day response | 2026-06-16
+- [NLQ - Exhibit G App G1 Weekly and Monthly Report Format](wiki/sources/NLQ%20-%20Exhibit%20G%20App%20G1%20Weekly%20and%20Monthly%20Report%20Format.md) — App G1 Rev A; 12-WP report structure; WP5 NDT statistics, reject welder ID; WP8 onshore+offshore commissioning | 2026-06-16
+- [NLQ - Exhibit G App G2 Change Order Procedure](wiki/sources/NLQ%20-%20Exhibit%20G%20App%20G2%20Change%20Order%20Procedure.md) — App G2 Rev A; COI 7-day response, COR 7-day submission, COMPANY 14-day review; CO final and full settlement | 2026-06-16
+- [NLQ - Exhibit G App G3 Planning Scheduling Progress Control](wiki/sources/NLQ%20-%20Exhibit%20G%20App%20G3%20Planning%20Scheduling%20Progress%20Control.md) — App G3 Rev A (24 pages); Primavera P6 v19 mandatory; L1–L4 schedule; 14 discipline progress scale tables; ICAPS for commissioning; DELTEK Acumen Fuse for PSRA | 2026-06-16
+- [NLQ - Exhibit G App G4 Insurance Claim Procedure](wiki/sources/NLQ%20-%20Exhibit%20G%20App%20G4%20Insurance%20Claim%20Procedure.md) — App G4 Rev A; immediate Insurance Incident Report; no repair without insurer approval; COMPANY sole negotiating party | 2026-06-16
+- [NLQ - Exhibit G App G5 Risk Management Procedure](wiki/sources/NLQ%20-%20Exhibit%20G%20App%20G5%20Risk%20Management%20Procedure.md) — App G5 Rev A (16 pages); 6×6 risk matrix; 9-category RBS; Top 15 monthly; quarterly workshops; DELTEK Acumen Fuse PSRA | 2026-06-16
+- [NLQ - Exhibit G App G6 Project Reporting Calendar](wiki/sources/NLQ%20-%20Exhibit%20G%20App%20G6%20Project%20Reporting%20Calendar.md) — App G6 Rev A; calendar template (dates TBD at award); monthly cut-off basis for reporting cycle | 2026-06-16
 - [NLQ - Exhibit D Performance Guarantees](wiki/sources/NLQ%20-%20Exhibit%20D%20Performance%20Guarantees.md) — Exhibit D Rev A; 13-item test programme; HVAC 3-week summer+1-week winter; ICSS 99.9%, Telecom 99.99%; 25-year plant life; all tests before PAC | 2026-06-16
 - [NLQ - Exhibit A Scope of Work](wiki/sources/NLQ%20-%20Exhibit%20A%20Scope%20of%20Work.md) — Exhibit A Rev C (updated from Rev A); 12 Work Packages + 5 Options; SIMOPS dossier by COMPANY (6 months prior); new §4.10 Marine Classification; new Option 4 Helifuel; new Option 5 Drinkable Water | 2026-06-16
 - [NLQ - Exhibit E App E1 Technical Documents](wiki/sources/NLQ%20-%20Exhibit%20E%20App%20E1%20Technical%20Documents.md) — App E1 Rev C; 4 TBE documents (NLQ FSS, Safety Concept, A-Location FSS, A-Location Safety Concept); CFT Clarification and Exception registers to be attached prior to EPC award | 2026-06-16
@@ -158,7 +165,7 @@ _Last updated: 2026-06-16 | Sources: 129 | Wiki pages: 172_
 - [NLQ Commercial and Tender Requirements](wiki/concepts/NLQ%20Commercial%20and%20Tender%20Requirements.md) — tender timeline, bid bond (USD 500K), submission packaging rules, evaluation criteria, exceptions templates for NLQ EPCIC 10 ITT | 1 source
 - [NLQ HSE Requirements](wiki/concepts/NLQ%20HSE%20Requirements.md) — HSE Package C submission: 12 categories questionnaire (Att. 12), ISO 45001/14001, HAZID, emergency response, MEDEVAC, Stop Work Authority; WP2 EPCIC execution obligations | 2 sources
 - [NLQ Quality Requirements](wiki/concepts/NLQ%20Quality%20Requirements.md) — QA/QC Package B §12: ISO 9001 certificate, Quality Manual, preliminary Quality Plan per SD-NOC-PJC-501, construction KPI evidence | 1 source
-- [NLQ Project Management Requirements](wiki/concepts/NLQ%20Project%20Management%20Requirements.md) — organisation chart, split of responsibilities, workload histograms (Att. 9), past experience (Att. 10), PEP, OPERCOM/ICAPS commissioning; AVEVA tagging/database obligations | 2 sources
+- [NLQ Project Management Requirements](wiki/concepts/NLQ%20Project%20Management%20Requirements.md) — organisation chart, CCM (3 parts), KOM within 2 weeks, weekly Thursday cut-off, Jerome Morin as COMPANY REP, Primavera P6 v19, Deltek Acumen Fuse PSRA, 6×6 risk matrix, COI/COR 7-day response | 9 sources
 - [NLQ Procurement Requirements](wiki/concepts/NLQ%20Procurement%20Requirements.md) — WP4: procurement plan, MTO, TBE, VDRL, vendor KOM, inspection, expediting, capital spares | 1 source
 - [NLQ Construction and Installation Requirements](wiki/concepts/NLQ%20Construction%20and%20Installation%20Requirements.md) — WP5/WP6/WP7: fabrication, OPERCOM pre-commissioning, MARINE SPREAD/SIMOPS requirements, T&I engineering, MWS approvals | 1 source
 - [NLQ Commissioning Requirements](wiki/concepts/NLQ%20Commissioning%20Requirements.md) — WP8 + App A9: OPERCOM/ICAPS mandatory, N2-He leak test onshore+offshore, punch list A/B/C, TCC/TOM dossiers, Ex equipment 100% inspection; Exhibit D: Performance Tests additional to all commissioning tests, PAC gate | 3 sources
@@ -190,7 +197,7 @@ _Last updated: 2026-06-16 | Sources: 129 | Wiki pages: 172_
 - [NDUM Project](wiki/entities/NDUM%20Project.md) — WHP & Pipeline EPCI for Nam Du-U Minh Field; JSE as COMPANY; PTSC M&C contractor; EDE phase (flexible riser + T&I) | 2 sources
 - [LDV-A Project](wiki/entities/LDV-A%20Project.md) — Block 15-1/05 Lac Da Vang; Murphy Oil as COMPANY; PTSC M&C C&C + T&I phase; CB9 confirmed, topside weighing complete, DEV awaiting MOC approval | 4 sources
 - [LDV-B Project](wiki/entities/LDV-B%20Project.md) — Block 15-1/05 unmanned WHP; DE team formed Jun-2026 (contract likely awarded); PP ROS dates issued 10-Jun | 3 sources
-- [NLQ Project](wiki/entities/NLQ%20Project.md) — NLQ EPCIC 10 (CFT ref. 10210491); NOC Qatar; 200-bed permanent accommodation at B-Location Al Shaheen; contract target 30-Sep-26 | 1 source
+- [NLQ Project](wiki/entities/NLQ%20Project.md) — NLQ EPCIC 10 (CFT ref. 10210491); NOC Qatar; 200-bed permanent accommodation at B-Location Al Shaheen; contract target 30-Sep-26; COMPANY REP Jerome Morin | 10 sources
 
 ## Synthesis
 <!-- Format: - [Synthesis Title](wiki/synthesis/title.md) — one-line summary | YYYY-MM-DD -->

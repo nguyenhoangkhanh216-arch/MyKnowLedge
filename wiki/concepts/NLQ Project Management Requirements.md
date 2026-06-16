@@ -4,7 +4,7 @@ type: concept
 tags: [work]
 created: 2026-06-16
 updated: 2026-06-16
-sources: 2
+sources: 9
 ---
 
 ## Summary
@@ -108,8 +108,49 @@ TENDERER must detail specific procedures to be used for management and control o
 - CONTRACTOR shall develop AVEVA database management procedures and AVEVA application end user manuals (discipline wise) — Exhibit A, §7.8
 - CONTRACTOR shall nominate one Digital Information Manager responsible for digitalization implementation over each project phase — Exhibit A, §7.8
 
+### From Exhibit G — Coordination Procedure (CCM, Meetings, Reporting, Document Control)
+
+- **COMPANY REPRESENTATIVE**: Jerome Morin, NLQ Package Lead, North Oil Company, Doha (jerome.morin@noc.qa) — Exhibit G, §2.1.1
+- CCM delivered in 3 parts; comes into force only after COMPANY APPROVAL — Exhibit G, §3.1, §3.2.3
+- **Kick-off**: within 2 weeks of Effective Date; discipline KOMs within 15 days; sub-contractor KOMs within 1 month — Exhibit G, §4.2.2
+- **Weekly cut-off**: every Thursday COB; weekly report draft 1 day before meeting, final 2 days after — Exhibit G, §4.1.1, §4.3.2
+- **Monthly report**: draft 2 days before meeting, final 2 days after; includes Cost Report, Invoice Report, QA/QC Report, KPI Report, Risk Register (Top 15) — Exhibit G, §4.3.3–§4.3.8
+- **Daily reports**: submitted by 08:00 next morning for all SITE activities including SIMOPS/COMOPS — Exhibit G, §4.3.9
+- **Document Control**: max 25 docs per transmittal; all via ShareFile FTP; ICAD for drawings, IOffice for all other docs; smart TAGs via iTools mandatory — Exhibit G, §9.1.4
+- MDR maintained weekly; initial MDR is contractual baseline; cannot be modified without COMPANY APPROVAL — Exhibit G, §9.4.8
+- **FINAL DOCUMENTATION**: 3 sets on DataLocker encrypted drives; as-built 3D model, GIS, RT films, video surveys — Exhibit G, §9.8.5
+- Correspondence numbered per SD-NOC-MP-701; emails/phone calls NOT contractual — Exhibit G, §5.3.1, §5.5
+- **3D model (AVEVA Global)**: CONTRACTOR is satellite; COMPANY is Hub; permanent COMPANY access required; model reviewed at 30%/60%/90% — Exhibit G, §14
+
+### From Exhibit G App G2 — Change Order Procedure
+- COI: CONTRACTOR responds within 7 days with cost, schedule, ICV impact — Exhibit G App G2, §2.1
+- COR: submitted by CONTRACTOR within 7 days of triggering event; COMPANY reviews within 14 days — Exhibit G App G2, §3.1, §3.4
+- Price evaluation priority: Exhibit B lump sums → unit rates → time rates → nearest analogy → actual PO cost — Exhibit G App G2, §4.1.1
+- Schedule extension only if change on critical path with zero float — Exhibit G App G2, §4.2.2
+
+### From Exhibit G App G3 — Planning and Scheduling
+- Mandatory planning software: **Primavera P6 Version 19**; L3 native monthly, L4 native weekly — Exhibit G App G3, §2.1.1
+- PSRA software: **DELTEK Acumen Fuse** (latest version); required at each project phase — Exhibit G App G3, §5.1.7
+- Four schedule levels: L1 summary → L2 contract → L3 time analysis network (1,000–2,000 activities) → L4 work elements — Exhibit G App G3, §2.2
+- Negative float not allowed; no lag without APPROVAL; progress claimed only on full step completion — Exhibit G App G3, §2.2.10.3, §4.4.7.2
+- Engineering progress scale (Class 1): IFR 25% → returned 40% → IFA 55% → returned 80% → AFC issued 90% → AFC Code 1 100% — Exhibit G App G3, Table 4-1
+- ICAPS progress scales mandatory for pre-commissioning and commissioning phases — Exhibit G App G3, §4.4.8.7
+
+### From Exhibit G App G5 — Risk Management
+- Risk Management Plan due ED + 1 month; COMPANY APPROVAL required — Exhibit G App G5, §2
+- Risk Manager designated; CV subject to COMPANY APPROVAL — Exhibit G App G5, §4
+- Risk evaluation: 6×6 matrix, Overall Impact = Probability × Severity; Minor (1–6), Significant (8–18), Unacceptable (24–64) — Exhibit G App G5, §7
+- Monthly Top 15 Risk Report as appendix to Monthly Report — Exhibit G App G5, §12.2
+- Quarterly risk workshops mandatory; PSRA workshop prior to each project phase — Exhibit G App G5, §2
+
 ## Source References
 
 - [[sources/NLQ - ITT]] — all project management requirements drawn from §8.2.3.2, §8.2.3.3, §8.2.3.4, §8.2.3.10, §8.2.3.11, Attachment 5, Attachment 9, and Attachment 10
 - [[sources/NLQ - Exhibit A Scope of Work]] — WP1 obligations and general engineering management requirements
 - [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.1 general engineering framework and AVEVA/tagging requirements
+- [[sources/NLQ - Exhibit G Coordination Procedure]] — CCM structure, meeting cadence, reporting, document control, communication protocols
+- [[sources/NLQ - Exhibit G App G1 Weekly and Monthly Report Format]] — detailed report content by all 12 Work Packages
+- [[sources/NLQ - Exhibit G App G2 Change Order Procedure]] — COI/COR/CO forms and timelines
+- [[sources/NLQ - Exhibit G App G3 Planning Scheduling Progress Control]] — Primavera P6, schedule levels, progress scales
+- [[sources/NLQ - Exhibit G App G4 Insurance Claim Procedure]] — insurance incident reporting process
+- [[sources/NLQ - Exhibit G App G5 Risk Management Procedure]] — risk matrix, PSRA, Top-15 reporting, Deltek Acumen Fuse

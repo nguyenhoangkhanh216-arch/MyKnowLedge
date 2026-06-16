@@ -4,7 +4,7 @@ type: entity
 tags: [work]
 created: 2026-06-16
 updated: 2026-06-16
-sources: 3
+sources: 10
 ---
 
 ## Summary
@@ -29,6 +29,15 @@ The New Living Quarter (NLQ) Project is an EPCIC 10 contract issued by North Oil
 - [[NLQ Quality Requirements]] — QA/QC submission requirements for the NLQ EPCIC tender
 - [[NLQ Project Management Requirements]] — organisation, workload, and execution plan requirements
 
+- **COMPANY REPRESENTATIVE (contract execution)**: Jerome Morin, NLQ Package Lead — identified in Exhibit G §2.1.1
+
 ## Source References
 
 - [[sources/NLQ - ITT]] — ITT document (CFT ref. 10210491) is the primary source for project-level information
+- [[sources/NLQ - Exhibit G Coordination Procedure]] — identifies Jerome Morin as COMPANY REPRESENTATIVE; defines CCM, meeting, and reporting structure
+- [[sources/NLQ - Exhibit G App G1 Weekly and Monthly Report Format]] — 12 Work Package report structure
+- [[sources/NLQ - Exhibit G App G2 Change Order Procedure]] — COI/COR/CO workflow and standard forms
+- [[sources/NLQ - Exhibit G App G3 Planning Scheduling Progress Control]] — Primavera P6 and Deltek Acumen Fuse requirements; progress scales
+- [[sources/NLQ - Exhibit G App G4 Insurance Claim Procedure]] — insurance claim process
+- [[sources/NLQ - Exhibit G App G5 Risk Management Procedure]] — risk matrix, PSRA, risk workshops
+- [[sources/NLQ - Exhibit G App G6 Project Reporting Calendar]] — reporting calendar structure
