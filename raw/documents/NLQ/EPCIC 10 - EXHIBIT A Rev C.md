@@ -1,65 +1,73 @@
 AL SHAHEEN OIL FIELD – QATAR
+
 NEW LIVING QUARTER (NLQ) PROJECT
 (EPCIC 10)
-EXHIBIT A Contract No.: 4600000XXX
 EXHIBIT A
+Contract No.: 4600000XXX
+
+EXHIBIT A
+
 SCOPE OF WORK
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 1 of 116
-COMPANY Initials
-CONTRACTOR Initials
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC  Page 1 of 125
+|     |     |     |     | COMPANY Initials      |     |
+| --- | --- | --- | --- | --------------------- | --- |
+|     |     |     |     | CONTRACTOR Initials   |     |
 
 AL SHAHEEN OIL FIELD – QATAR
 NEW LIVING QUARTER (NLQ) PROJECT
 (EPCIC 10)
 EXHIBIT A Contract No.: 4600000XXX
 Table of Contents
-1 PROJECT OUTLINE DESCRIPTION ............................................................................................................. 5
-2 DEFINITIONS AND ABBREVIATIONS ......................................................................................................... 7
-2.1 Definitions ................................................................................................................................................. 7
-2.2 Abbreviations............................................................................................................................................. 7
-3 SCOPE OF WORK SUMMARY ................................................................................................................... 9
-3.1 General ...................................................................................................................................................... 9
-3.2 PLANT Components ................................................................................................................................. 10
-3.3 Work to be Done ..................................................................................................................................... 10
-3.4 Scope Exclusions ...................................................................................................................................... 10
-3.5 Battery Limits ........................................................................................................................................... 10
-4 PARTICULAR REQUIREMENTS ................................................................................................................ 10
-4.1 Design Life ............................................................................................................................................... 10
-4.2 SITE Offshore Installation Campaign Phases ........................................................................................... 10
-4.3 Diving and Remote Operated Vehicle Operations ................................................................................... 11
-4.4 Inspection of MARINE SPREAD ................................................................................................................ 11
-4.5 Local WORKSITE ....................................................................................................................................... 12
-4.6 SITE Works Constraints ............................................................................................................................ 13
-4.7 Lifting Operations and Inspections .......................................................................................................... 16
-4.8 Technical Auditing ................................................................................................................................... 16
-4.9 Regulatory Compliance ............................................................................................................................ 17
-5 WORK BREAKDOWN STRUCTURE .......................................................................................................... 17
-6 ENTITIES INVOLVED ............................................................................................................................... 18
-6.1 Entities Involved in the Work .................................................................................................................. 18
-6.2 Entities Involved in brownfield integration work: ................................................................................... 18
-7 WORK PACKAGE 1 - MANAGEMENT, PROJECT CONTROL AND ADMINISTRATION ................................. 19
-7.1 General .................................................................................................................................................... 19
-7.2 Work Unit 1.1 - General Administration .................................................................................................. 19
-7.3 Work Unit 1.2 - Project Control and Administration ............................................................................... 26
-7.4 Work Unit 1.3 – Third Party Agency Services .......................................................................................... 27
-7.5 Work Unit 1.4 - Coordination with Marine Warranty Surveyor Services ................................................ 28
-7.6 Work Unit 1.5 - Services to COMPANY .................................................................................................... 30
-7.7 Work Unit 1.6 – Insurances ..................................................................................................................... 31
-7.8 Work Unit 1.7 – EPCIC 10 Digitalization................................................................................................... 31
-8 WORK PACKAGE 2 - HSE MANAGEMENT, CONTROL AND PERFORMANCE ............................................. 32
-8.1 General .................................................................................................................................................... 32
-8.2 Work Unit 2.1 – General HSE Management ............................................................................................ 32
-8.3 Work Unit 2.2 - HSE Surveillance at WORKSHOPS and WORKSITES ........................................................ 33
-8.4 Work Unit 2.3 - HSE Incentive Scheme .................................................................................................... 33
-9 WORK PACKAGE 3 - ENGINEERING ........................................................................................................ 34
-9.1 General .................................................................................................................................................... 34
-9.2 Work Unit 3.1 - Engineering Site Survey .................................................................................................. 37
-9.3 Work Unit 3.2 - Detailed Engineering of the BI Substructure, BI Topside and Bridge (BI-BJ) .................. 38
-9.4 Work Unit 3.3 - Detailed Engineering for BJ modification due to BI integration works .......................... 38
-9.5 Work Unit 3.4 - Procurement Engineering .............................................................................................. 38
-9.6 Work Unit 3.5 - Onshore Construction Engineering ................................................................................ 40
-9.7 Work Unit 3.6 – Hook-up and Integration Works Engineering ................................................................ 44
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 2 of 116
+1 PROJECT OUTLINE DESCRIPTION ........................................................................................................... 57
+2 DEFINITIONS AND ABBREVIATIONS ..................................................................................................... 711
+2.1 Definitions ............................................................................................................................................. 711
+2.2 Abbreviations......................................................................................................................................... 711
+3 SCOPE OF WORK SUMMARY ............................................................................................................... 914
+3.1 General ................................................................................................................................................ 1014
+3.2 PLANT Components ............................................................................................................................. 1115
+3.3 Work to be Done ................................................................................................................................. 1115
+3.4 Scope Exclusions .................................................................................................................................. 1115
+3.5 Battery Limits ....................................................................................................................................... 1115
+4 PARTICULAR REQUIREMENTS ............................................................................................................ 1115
+4.1 Design Life ........................................................................................................................................... 1115
+4.2 SITE Offshore Installation Campaign Phases ....................................................................................... 1115
+4.3 Diving and Remote Operated Vehicle Operations ............................................................................... 1216
+4.4 Inspection of MARINE SPREAD ............................................................................................................ 1216
+4.5 Local WORKSITE ................................................................................................................................... 1317
+4.6 SITE Works Constraints ........................................................................................................................ 1418
+4.7 Lifting Operations and Inspections ...................................................................................................... 1822
+4.8 Technical Auditing ............................................................................................................................... 1822
+4.9 Regulatory Compliance ........................................................................................................................ 1923
+5 WORK BREAKDOWN STRUCTURE ...................................................................................................... 1923
+6 ENTITIES INVOLVED ........................................................................................................................... 2124
+6.1 Entities Involved in the Work .............................................................................................................. 2124
+6.2 Entities Involved in brownfield integration work: ............................................................................... 2124
+7 WORK PACKAGE 1 - MANAGEMENT, PROJECT CONTROL AND ADMINISTRATION ............................. 2225
+7.1 General ................................................................................................................................................ 2225
+7.2 Work Unit 1.1 - General Administration .............................................................................................. 2225
+7.3 Work Unit 1.2 - Project Control and Administration ........................................................................... 2932
+7.4 Work Unit 1.3 – Third Party Agency Services ...................................................................................... 3033
+7.5 Work Unit 1.4 - Coordination with Marine Warranty Surveyor Services ............................................ 3134
+7.6 Work Unit 1.5 - Services to COMPANY ................................................................................................ 3336
+7.7 Work Unit 1.6 – Insurances ................................................................................................................. 3437
+7.8 Work Unit 1.7 – EPCIC 10 Digitalization............................................................................................... 3437
+8 WORK PACKAGE 2 - HSE MANAGEMENT, CONTROL AND PERFORMANCE ......................................... 3538
+8.1 General ................................................................................................................................................ 3538
+8.2 Work Unit 2.1 – General HSE Management ........................................................................................ 3538
+8.3 Work Unit 2.2 - HSE Surveillance at WORKSHOPS and WORKSITES .................................................... 3639
+8.4 Work Unit 2.3 - HSE Incentive Scheme ................................................................................................ 3639
+9 WORK PACKAGE 3 - ENGINEERING .................................................................................................... 3740
+9.1 General ................................................................................................................................................ 3740
+9.2 Work Unit 3.1 - Engineering Site Survey .............................................................................................. 4043
+9.3 Work Unit 3.2 - Detailed Engineering of the BI Substructure, BI Topside and Bridge (BI-BJ) .............. 4144
+9.4 Work Unit 3.3 - Detailed Engineering for BJ modification due to BI integration works ...................... 4144
+9.5 Work Unit 3.4 - Procurement Engineering .......................................................................................... 4144
+9.6 Work Unit 3.5 - Onshore Construction Engineering ............................................................................ 4346
+9.7 Work Unit 3.6 – Hook-up and Integration Works Engineering ............................................................ 4750
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 2 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -67,58 +75,58 @@ AL SHAHEEN OIL FIELD – QATAR
 NEW LIVING QUARTER (NLQ) PROJECT
 (EPCIC 10)
 EXHIBIT A Contract No.: 4600000XXX
-9.8 Work Unit 3.7 - Pre-Commissioning Engineering .................................................................................... 45
-9.9 Work Unit 3.8 - Commissioning Engineering ........................................................................................... 46
-9.10 Work Unit 3.9 - Load-out, Transportation and Installation (T&I) Engineering ........................................ 47
-9.11 Work Unit 3.10 - Maintenance, Inspection and Operations Engineering ................................................ 53
-10 WORK PACKAGE 4 - PROCUREMENT AND SUPPLY ................................................................................. 56
-10.1 Work Unit 4.1 - Procurement and Subcontract Activities ....................................................................... 56
-10.2 Work Unit 4.2 - Supply of CONTRACTOR ITEMS ...................................................................................... 60
-10.3 Work Unit 4.3 - Supply of CONSTRUCTION EQUIPMENT ......................................................................... 61
-10.4 Work Unit 4.4 - Supply of Loadout and Installation Aids ......................................................................... 61
+9.8 Work Unit 3.7 - Pre-Commissioning Engineering ................................................................................ 4851
+9.9 Work Unit 3.8 - Commissioning Engineering ....................................................................................... 4952
+9.10 Work Unit 3.9 - Load-out, Transportation and Installation (T&I) Engineering .................................... 5053
+9.11 Work Unit 3.10 - Maintenance, Inspection and Operations Engineering ............................................ 5659
+10 WORK PACKAGE 4 - PROCUREMENT AND SUPPLY ............................................................................. 5962
+10.1 Work Unit 4.1 - Procurement and Subcontract Activities ................................................................... 5962
+10.2 Work Unit 4.2 - Supply of CONTRACTOR ITEMS .................................................................................. 6366
+10.3 Work Unit 4.3 - Supply of CONSTRUCTION EQUIPMENT ..................................................................... 6467
+10.4 Work Unit 4.4 - Supply of Loadout and Installation Aids ..................................................................... 6467
 10.5 Work Unit 4.5 – Supply of Consumables, Special Tools and Spare Parts for Pre-commissioning,
-Commissioning, Start-up ...................................................................................................................................... 61
-10.6 Work Unit 4.6 - Supply of Capital Spare Parts ......................................................................................... 62
-10.7 Work Unit 4.7 – Transfer to COMPANY of Consumables, Special Tools and Spare Parts ........................ 62
-10.8 Work Unit 4.8 – Transfer of Interface related CONTRACTOR ITEMS ...................................................... 62
+Commissioning, Start-up .................................................................................................................................. 6467
+10.6 Work Unit 4.6 - Supply of Capital Spare Parts ..................................................................................... 6568
+10.7 Work Unit 4.7 – Transfer to COMPANY of Consumables, Special Tools and Spare Parts .................... 6568
+10.8 Work Unit 4.8 – Transfer of Interface related CONTRACTOR ITEMS .................................................. 6568
 10.9 Sub Work Unit 4.9 – Reception, Handling, Transportation and Storage of Interface related
-CONTRACTOR ITEMS ............................................................................................................................................ 62
-11 WORK PACKAGE 5 – ONSHORE CONSTRUCTION AND TESTING ............................................................. 62
-11.1 General .................................................................................................................................................... 62
-11.2 Work Unit 5.1 - Construction Facilities .................................................................................................... 70
-11.3 Work Unit 5.2 - Fabrication of BI Substructure, Topside and Bridge ....................................................... 71
-11.4 Work Unit 5.3 – Fabrication of Integrated Items ..................................................................................... 71
-11.5 Work Unit 5.4 - Fabrication of Lifting Appurtenances, Sea Fastening, Grillage and Installation Aids ..... 72
-11.6 Work Unit 5.5 – BI Substructure, Topside and Bridge Storage and Preservation ................................... 72
-11.7 Work Unit 5.6 - Onshore Pre-Commissioning .......................................................................................... 73
-11.8 Work Unit 5.7 - Load-out and Sea Fastening ........................................................................................... 74
-12 WORK PACKAGE 6 – TRANSPORTATION, INSTALLATION TO SITE AND OFFSHORE ACCOMMODATION . 75
-12.1 General .................................................................................................................................................... 75
+CONTRACTOR ITEMS ........................................................................................................................................ 6568
+11 WORK PACKAGE 5 – ONSHORE CONSTRUCTION AND TESTING ......................................................... 6568
+11.1 General ................................................................................................................................................ 6568
+11.2 Work Unit 5.1 - Construction Facilities ................................................................................................ 7376
+11.3 Work Unit 5.2 - Fabrication of BI Substructure, Topside and Bridge ................................................... 7477
+11.4 Work Unit 5.3 – Fabrication of Integrated Items ................................................................................. 7477
+11.5 Work Unit 5.4 - Fabrication of Lifting Appurtenances, Sea Fastening, Grillage and Installation Aids . 7578
+11.6 Work Unit 5.5 – BI Substructure, Topside and Bridge Storage and Preservation ............................... 7578
+11.7 Work Unit 5.6 - Onshore Pre-Commissioning ...................................................................................... 7679
+11.8 Work Unit 5.7 - Load-out and Sea Fastening ....................................................................................... 7780
+12 WORK PACKAGE 6 – TRANSPORTATION, INSTALLATION TO SITE AND OFFSHORE ACCOMMODATION
+7881
+12.1 General ................................................................................................................................................ 7881
 12.2 Work Unit 6.1 – Mobilisation and Demobilisation of MARINE SPREAD for Load-out, Transportation to
-SITE and Installation at SITE .................................................................................................................................. 75
+SITE and Installation at SITE .............................................................................................................................. 7881
 12.3 Work Unit 6.2 – Mobilisation and Demobilisation of CONSTRUCTION EQUIPMENT onboard MARINE
-SPREAD 78
-12.4 Work Unit 6.3 – Transportation to SITE ................................................................................................... 80
-12.5 Work Unit 6.4 – BI Location Pre-Installation SITE Survey ........................................................................ 80
-12.6 Work Unit 6.5 – SITE Preparation ............................................................................................................ 81
-12.7 Work Unit 6.6 – Installation at SITE ......................................................................................................... 81
-12.8 Work Unit 6.7 – Logistics/Transportation Works .................................................................................... 84
-12.9 Work Unit 6.8 – BI Substructure As Built/As Installed Surveys ............................................................... 84
-12.10 Work Unit 6.9 – Requirements associated with Marine Classification and Flag State (if applicable) ..... 85
-13 WORK PACKAGE 7 – SITE CONSTRUCTION WORKS ................................................................................ 86
-13.1 General .................................................................................................................................................... 86
-13.2 Work Unit 7.1 - Logistics of CONSTRUCTION EQUIPMENT, Materials & PERSONNEL ............................. 88
-13.3 Work Unit 7.2 – SITE construction WORK at BI Location ......................................................................... 90
+SPREAD 8285
+12.4 Work Unit 6.3 – Transportation to SITE ............................................................................................... 8487
+12.5 Work Unit 6.4 – BI Location Pre-Installation SITE Survey .................................................................... 8487
+12.6 Work Unit 6.5 – SITE Preparation ........................................................................................................ 8588
+12.7 Work Unit 6.6 – Installation at SITE ..................................................................................................... 8588
+12.8 Work Unit 6.7 – Logistics/Transportation Works ................................................................................ 8891
+12.9 Work Unit 6.8 – BI Substructure As Built/As Installed Surveys ........................................................... 8891
+12.10 Work Unit 6.9 – Requirements associated with Marine Classification and Flag State (if applicable) . 8992
+13 WORK PACKAGE 7 – SITE CONSTRUCTION WORKS ............................................................................ 9193
+13.1 General ................................................................................................................................................ 9193
+13.2 Work Unit 7.1 - Logistics of CONSTRUCTION EQUIPMENT, Materials & PERSONNEL ......................... 9495
+13.3 Work Unit 7.2 – SITE construction WORK at BI Location ..................................................................... 9697
 13.4 Work Unit 7.3 – Additional SITE construction WORK at BI Platform due to integration with BJ Platform
-96
-14 WORK PACKAGE 8 – COMMISSIONING .................................................................................................. 97
-14.1 Introduction ............................................................................................................................................. 97
-14.2 General .................................................................................................................................................... 97
-14.3 Work Unit 8.1 - Onshore Commissioning ................................................................................................ 98
-14.4 Work Unit 8.2 - Offshore Commissioning ................................................................................................ 98
-14.5 Work Unit 8.3 – Transfer of Operation and Maintenance Dossier .......................................................... 98
-14.6 Work Unit 8.4 – Pre-start up Safety Review ............................................................................................ 99
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 3 of 116
+102103
+14 WORK PACKAGE 8 – COMMISSIONING .......................................................................................... 103104
+14.1 Introduction ..................................................................................................................................... 103104
+14.2 General ............................................................................................................................................ 103104
+14.3 Work Unit 8.1 - Onshore Commissioning ........................................................................................ 104105
+14.4 Work Unit 8.2 - Offshore Commissioning ........................................................................................ 104105
+14.5 Work Unit 8.3 – Transfer of Operation and Maintenance Dossier .................................................. 104105
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 3 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -126,28 +134,29 @@ AL SHAHEEN OIL FIELD – QATAR
 NEW LIVING QUARTER (NLQ) PROJECT
 (EPCIC 10)
 EXHIBIT A Contract No.: 4600000XXX
-15 WORK PACKAGE 9 – BROWNFIELD / INTEGRATION WORK .................................................................... 99
-15.1 Work Unit 9.1 – Engineering .................................................................................................................. 100
-15.2 Work Unit 9.2 – Procurement and Supply ............................................................................................. 101
-15.3 Work Unit 9.3 – Onshore Construction and Testing .............................................................................. 102
-15.4 Work Unit 9.4 –Transportation to SITE and Installation at SITE ............................................................ 103
-15.5 Work Unit 9.5 – SITE Construction WORK ............................................................................................. 103
-15.6 Work Unit 9.6 – SITE Commissioning..................................................................................................... 103
-16 WORK PACKAGE 10 - ASSISTANCE TO STARTUP AND TRAINING .......................................................... 104
-16.1 Introduction ........................................................................................................................................... 104
-16.2 Work Unit 10.1 – Assistance to Start-up ............................................................................................... 104
-16.3 Work Unit 10.2 – Assistance to PERFORMANCE TESTS ......................................................................... 105
-16.4 Work Unit 10.3 - Supply of Training for COMPANY’s PERSONNEL ........................................................ 105
-17 WORK PACKAGE 11 – FINAL DOCUMENTATION AND CONTRACT CLOSE-OUT ...................................... 106
-17.1 Work Unit 11.1 – FINAL DOCUMENTATION .......................................................................................... 106
-17.2 Work Unit 11.2 - CONTRACT Close-out ................................................................................................. 107
-18 WORK PACKAGE 12 - OPTIONS ............................................................................................................ 112
-18.1 WORK UNIT 12.1 – OPTION 1: New Living Quarter in A-Location ......................................................... 112
-18.2 WORK UNIT 12.2 – OPTION 2: Logistics and Transportation for SITE Construction WORK and
-COMISSIONING ................................................................................................................................................... 112
-18.3 WORK UNIT 12.3 – OPTION 3: Offshore Accommodation Vessel.......................................................... 114
-19 Appendices .......................................................................................................................................... 116
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 4 of 116
+14.6 Work Unit 8.4 – Pre-start up Safety Review .................................................................................... 105106
+15 WORK PACKAGE 9 – BROWNFIELD / INTEGRATION WORK ............................................................ 105106
+15.1 Work Unit 9.1 – Engineering ............................................................................................................ 106107
+15.2 Work Unit 9.2 – Procurement and Supply ....................................................................................... 107108
+15.3 Work Unit 9.3 – Onshore Construction and Testing ........................................................................ 108109
+15.4 Work Unit 9.4 –Transportation to SITE and Installation at SITE ...................................................... 109110
+15.5 Work Unit 9.5 – SITE Construction WORK ....................................................................................... 109110
+15.6 Work Unit 9.6 – SITE Commissioning............................................................................................... 109110
+16 WORK PACKAGE 10 - ASSISTANCE TO STARTUP AND TRAINING .......................................................... 111
+16.1 Introduction ........................................................................................................................................... 111
+16.2 Work Unit 10.1 – Assistance to Start-up ............................................................................................... 111
+16.3 Work Unit 10.2 – Assistance to PERFORMANCE TESTS ......................................................................... 112
+16.4 Work Unit 10.3 - Supply of Training for COMPANY’s PERSONNEL ........................................................ 112
+17 WORK PACKAGE 11 – FINAL DOCUMENTATION AND CONTRACT CLOSE-OUT ...................................... 113
+17.1 Work Unit 11.1 – FINAL DOCUMENTATION .......................................................................................... 113
+17.2 Work Unit 11.2 - CONTRACT Close-out ................................................................................................. 114
+18 WORK PACKAGE 12 - OPTIONS ............................................................................................................ 119
+18.1 WORK UNIT 12.1 – OPTION 1: New Living Quarter in A-Location ......................................................... 119
+18.2 WORK UNIT 12.2 – OPTION 2: Logistics and Transportation between Port in Qatar and SITE ....... 119120
+18.3 WORK UNIT 12.3 – OPTION 3: Offshore Accommodation Vessel.......................................................... 122
+18.4 WORK UNIT 12.4 – OPTION 4: Helicopter refuelling and fuel storage system ................................ 123124
+19 Appendices .................................................................................................................................... 125126
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 4 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -157,14 +166,14 @@ NEW LIVING QUARTER (NLQ) PROJECT
 EXHIBIT A Contract No.: 4600000XXX
 1 PROJECT OUTLINE DESCRIPTION
 Al Shaheen is one of the world’s largest carbonate fields and is the largest oil field in Qatar. It is situated offshore,
-approximately 70 km north-northeast of Ras Laffan (see Figure 1). It overlays the giant pre-Khuff gas field known
-as North Field and sits approximately 60 metres below sea level.
+approximately 70 km north-northeast of Ras Laffan (see Figure 1-1). It overlays the giant pre-Khuff gas field
+known as North Field and sits approximately 60 metres below sea level.
 Figure 1-1 - Al Shaheen Field Block 5 Location
 Al Shaheen was initially developed by Maersk Oil Qatar AS (MOQ) on behalf of what is now QatarEnergy, under
 an Exploration and Production Sharing Agreement (EPSA). Production from the field commenced in 1994 and a
 production plateau of 300 Mbopd was reached in 2007. The recovery mechanism was based first on natural
 depletion followed by pressure support through water injection.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 5 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 5 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -179,8 +188,12 @@ license to operate, the field well potential was in decline at the point of hand
 and further develop the field, NOC planned several phases of development through Gallaf to reach 42 platforms.
 NOC is currently developing Ruya Batch 1 which consists of 12 additional platforms.
 The New Living Quarter (NLQ) is the current PROJECT, which is described in EXHIBIT A and EXHIBIT E.
+Base : B-Location
+New Living Quarter
+Option : A-Location
+New Living Quarter
 Figure 1-2 - Schematic of Existing Al Shaheen Surface Facilities (Including Ruya)
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 6 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 6 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -193,27 +206,31 @@ EXHIBIT A Contract No.: 4600000XXX
 In addition to the contractual definitions stated in the AGREEMENT, the following expressions and derivatives
 thereof when appearing in capital letters within this EXHIBIT A, shall have the meanings hereby assigned to
 them:
-i. COMPLEX means a group of Bridge connected Platforms at any location of Al-Shaheen field.
-ii. MIEC is the COMPANY’s selected Maintenance and Inspection Engineering Contractor who deliver the
+i. COMOPS stands for COMbined OPerationS, designates an offshore operation conducted by
+CONTRACTOR within the Safety Zone of OTHER CONTRACTOR or within the Temporary Exclusion Zone
+of OTHER CONTRACTOR or within the Temporary Exclusion Zone of a COMPANY asset, not (yet)
+operated by FOPS.
+ii. COMPLEX means a group of Bridge connected Platforms at any location of Al-Shaheen field.
+iii. MIEC is the COMPANY’s selected Maintenance and Inspection Engineering Contractor who deliver the
 MIEC Scope of Work, CMIMS readiness for ‘go live’ of new assets.
-iii. SHUTDOWN means temporary stop (partial or total) of a COMPLEX.
-iv. SIMOPS stands for SIMultaneous OPerationS, meaning any WORK performed while drilling or
+iv. SHUTDOWN means temporary stop (partial or total) of a COMPLEX.
+v. SIMOPS stands for SIMultaneous OPerationS, meaning any WORK performed while drilling or
 production activities are ongoing.
-v. Substructure covers any well proven Oil and Gas industry bottom founded structures (considering
+vi. Substructure covers any well proven Oil and Gas industry bottom founded structures (considering
 Safety requirement and cost optimizations) which is supporting the Superstructure.
-vi. SUB-SYSTEM is a further subdivision of a SYSTEM that performs a given operational function, with no
+vii. SUB-SYSTEM is a further subdivision of a SYSTEM that performs a given operational function, with no
 or little interference from the other SUB-SYSTEMS during the Commissioning execution.
-vii. Superstructure covers Topside and Bridge.
-viii. SYSTEM is a major subdivision of an installation, being either process or utilities that perform a major
+viii. Superstructure covers Topside and Bridge.
+ix. SYSTEM is a major subdivision of an installation, being either process or utilities that perform a major
 operational function of the plant. The SYSTEM includes all the equipment that allows it to operate. The
 division into SYSTEMs generally corresponds to the various fluids or services prevailing.
-ix. TAG is an alpha-numeric code that is defined as a unique identifier for an entity that has a specific
+x. TAG is an alpha-numeric code that is defined as a unique identifier for an entity that has a specific
 logical limited function in a system or plant. Entities are numbered to create a logical and clear
 reference from the entity to drawings, vendor data manuals, maintenance systems, and computer
 databases.
-x. TMV (Transportation Marine Vessel) defines any vessel used to transport materials, equipment,
-consumables, waste, and personnel between Port in Qatar and SITE. Any intra-field transfers are also
-included.
+xi. TMV (Transportation Marine Vessel) defines any vessel used to transport materials, equipment,
+consumables, waste, and personnel between Port in Qatar and SITE. Any intra-field transfer vessels are
+also included.
 2.2 Abbreviations
 The following abbreviations are used in this document:
 Abbreviation Meaning
@@ -224,19 +241,14 @@ ALARP As Low As Reasonably Practicable
 BC Basic Certification
 BoD Basis of Design
 CA Certifying Authority
+CCU Container Carrying Unit
 CFD Computerised Fluid Dynamics
 CoG Centre of Gravity
 CMIMS Computerised Maintenance and Inspection Management System
 COMOPS COMbined OPerationS
 CPP Central Processing Platform
 CRS Comments Response Sheet
-CSL Commissioning Site Leader
-DGS Downgraded Situation
-E&C Engineering and Construction
-E&I Electrical and Instrumentation
-EDMS Electronic Document Management System
-EERA Emergency Escape Risk Assessment
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 7 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 7 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -245,6 +257,13 @@ NEW LIVING QUARTER (NLQ) PROJECT
 (EPCIC 10)
 EXHIBIT A Contract No.: 4600000XXX
 Abbreviation Meaning
+CSL Commissioning Site Leader
+DGS Downgraded Situation
+DP3 Dynamic Positioning level 3
+E&C Engineering and Construction
+E&I Electrical and Instrumentation
+EDMS Electronic Document Management System
+EERA Emergency Escape Risk Assessment
 EPCI Engineering, Procurement, Construction and Installation
 EPCIC Engineering, Procurement, Construction, Installation and Commissioning
 EPS Early Production System
@@ -252,6 +271,7 @@ ERP Emergency Response Plan
 ESIA Environmental and Social Impact Assessment
 FAT Factory Acceptance Tests
 FEED Front End Engineering Design
+FOPS Field OPerationS
 FSO Floating, Storage and Offloading unit
 FTP File Transfer Protocol
 GIS Geographic Information System
@@ -288,6 +308,15 @@ NDE Non-Destructive Examination
 NDT Non-Destructive Test
 NLQ New Living Quarter
 OAV Offshore Accommodation Vessel
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 8 of 125
+COMPANY Initials
+CONTRACTOR Initials
+
+AL SHAHEEN OIL FIELD – QATAR
+NEW LIVING QUARTER (NLQ) PROJECT
+(EPCIC 10)
+EXHIBIT A Contract No.: 4600000XXX
+Abbreviation Meaning
 OCIMF Oil Companies International Marine Forum
 OIM Offshore Installation Manager
 OVID Offshore Vessel Inspection Database
@@ -297,15 +326,6 @@ PAS Production Availability Study
 PIM Pre-Inspection Meeting
 PMT Project Management Team
 PO Purchase Order
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 8 of 116
-COMPANY Initials
-CONTRACTOR Initials
-
-AL SHAHEEN OIL FIELD – QATAR
-NEW LIVING QUARTER (NLQ) PROJECT
-(EPCIC 10)
-EXHIBIT A Contract No.: 4600000XXX
-Abbreviation Meaning
 POB PERSONNEL on Board
 PPE Personal Protective Equipment
 PPS Post early Production System
@@ -348,6 +368,14 @@ WP Work Package
 WTS WORK TIME SCHEDULE
 WU Work Unit
 3 SCOPE OF WORK SUMMARY
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 9 of 125
+COMPANY Initials
+CONTRACTOR Initials
+
+AL SHAHEEN OIL FIELD – QATAR
+NEW LIVING QUARTER (NLQ) PROJECT
+(EPCIC 10)
+EXHIBIT A Contract No.: 4600000XXX
 3.1 General
 The scope of WORK is summarised in Clauses 3.2 and 3.3 below.
 The summarised description shall be considered as a guide for CONTRACTOR and is not intended to restrict the
@@ -355,7 +383,7 @@ scope of WORK and/or the responsibilities of CONTRACTOR.
 The WORK further includes the provision of such necessary or incidental supplies, consumables, utilities, tools,
 labour, facilities, equipment, services and works as may be inferred therefrom, unless specifically excluded in
 the CONTRACT.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 9 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 10 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -397,10 +425,10 @@ sequence of installation:
 - BI substructure installation
 - BI topside lifting or float over installation
 - BI overall installation using self-elevating methodology
-- BI-BJ bridge
+- BI-BJ bridge installation
 - Integration WORK (hook up, SIMOPS and SHUTDOWN, where applicable), including pre-
 commissioning and commissioning WORK by CONTRACTOR.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 10 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 11 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -453,7 +481,7 @@ addressed all punch list items raised by COMPANY and MWS during the initial insp
 continue until APPROVAL of MARINE SPREAD has been given. Any additional inspection will not be limited to
 the punch list raised by either COMPANY and/or its MWS. CONTRACTOR shall complete all punch clearance
 and/or adaptation, upgrading works within one (1) month after COMPANY/MWS inspection report issuance.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 11 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 12 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -503,7 +531,7 @@ d. Prefabrication works.
 e. Prefabrication reworks and/or adjustments.
 f. Pre-commissioning activities
 g. HSE, Security and Medical support
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 12 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 13 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -531,9 +559,9 @@ at SITE or in the vicinity thereof.
 v. Any SHUTDOWN and corrective maintenance activities at SITE, or in the vicinity thereof.
 vi. Prevailing weather and sea state conditions.
 vii. Whale shark aggregation period (from 1-jun to 30-sept) impacting piling and all noisy activities
-potentially impacting the endemic fauna’s behaviour. (refer also to Exhibit L)
-CONTRACTOR shall take into account, and consider provisions for the presence of these above constraints or
-any other, in the preparation of procedures and of the WORK TIME SCHEDULE. It is the duty of CONTRACTOR to
+potentially impacting the endemic fauna’s behaviour. (refer also to EXHIBIT L)
+CONTRACTOR shall take into account and consider provisions for the presence of these above constraints or any
+other, in the preparation of procedures and of the WORK TIME SCHEDULE. It is the duty of CONTRACTOR to
 manage brownfield integration with COMPANY existing facilities and OTHER CONTRACTORs in order to avoid
 conflict.
 CONTRACTOR must propose any noise mitigation system during the offshore WORKS in order to minimise
@@ -555,7 +583,7 @@ operations are being carried out within close vicinity of each other and where t
 between operations will significantly increase the risk level. To reduce those risks, SIMOPS shall define the
 principles and restrictions governing the preparation, management, execution and monitoring of simultaneous
 construction, drilling and production activities on surface installations during the offshore phase.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 13 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 14 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -567,28 +595,29 @@ All WORK on SITE performed in the vicinity of COMPANY’s facilities under opera
 procedures and PTW in accordance with the requirements set forth in EXHIBIT E (DESIGN DOSSIER) and EXHIBIT
 L. CONTRACTOR shall fully comply with these procedures in order to perform its WORK on SITE and shall take all
 necessary provision for any WORK disruption due to operational constraints.
-The SIMOPS dossier shall be completed by CONTRACTOR and ready for COMPANY review at least four (4)
-months before the beginning of the offshore campaign and shall be APPROVED by COMPANY at least two (2)
-months before the beginning of the offshore campaign.
+The SIMOPS dossier shall be compiled by COMPANY. CONTRACTOR to provide the relevant input and
+approved documents at least six (6) months prior to commencement of offshore works.
 The minimum SIMOPS documents (SIMOPS Dossier) required for the performance of the WORK at SITE shall
 include, but not be limited to, the following:
-i. SIMOPS procedure,
-ii. CONTRACTOR offshore execution plan,
+i. SIMOPS procedure – by COMPANY,
+ii. CONTRACTOR offshore execution plan including Work packs and Job cards,
 iii. CONTRACTOR offshore detailed planning (Level 4),
-iv. CONTRACTOR’s organisation charts and PERSONNEL mobilization plan,
-v. CONTRACTOR bridging documents (logistics, POB management, HSE Matrix, training of PERSONNEL,
+iv. Lifting Plans – approved by COMPANY
+v. CONTRACTOR’s organisation charts and PERSONNEL mobilization plan,
+vi. CONTRACTOR bridging documents (logistics, POB management, HSE Matrix, training of PERSONNEL,
 Permit To Work Management),
-vi. CONTRACTOR Emergency Response Plan (ERP),
-vii. CONTRACTOR Emergency Response Team (ERT),
-viii. CONTRACTOR’s emergency evacuation procedure and MEDEVAC,
-ix. CONTRACTOR temporary equipment laydown (LSA, Firefighting, Electrical equipment, etc),
-x. CONTRACTOR HAZID report,
-xi. CONTRACTOR SIMOPS/Co-activity Matrix,
-xii. MARINE SPREAD certification to work under HC/HS2 fields and marine procedures, including heavy lift
-crane certification,
-xiii. PERSONNEL, materials and equipment registers including certification,
-xiv. Audit report, inspection reports, QRA, actions plan, check lists, and the like,
-xv. All other relevant marine information related to CONTRACTOR’s operations on SITE, taking into
+vii. CONTRACTOR Emergency Response Plan (ERP),
+viii. CONTRACTOR Emergency Response Team (ERT),
+ix. CONTRACTOR’s emergency evacuation procedure and MEDEVAC,
+o CONTRACTOR temporary equipment list and laydown (LSA, Firefighting, Electrical equipment,
+etc),
+o CONTRACTOR HAZID, HIRA and EERA reports,
+o SIMOPS/Co-activity Matrix – by COMPANY,
+o MARINE SPREAD certification to work under HC/H2S fields and marine procedures, including
+heavy lift crane certification,
+x. PERSONNEL, materials and equipment registers including certification,
+xi. Audit report, inspection reports, QRA, actions plan, check lists, and the like,
+xii. All other relevant marine information related to CONTRACTOR’s operations on SITE, taking into
 account all existing SITE facilities, platforms, pipelines, cables other seabed facilities and complying
 with EXHIBIT E (DESIGN DOSSIER) and in particular with COMPANY Standard SD-NOC-MAR-001. A full
 risk assessment study (undertaken by CONTRACTOR) addressing the SIMOPS conditions including
@@ -612,9 +641,17 @@ Preparation of the offshore installation campaign shall start at the engineering
 ensure a good and consistent follow-up from the design up to the execution of the WORK, and shall mobilise in
 due time the team of offshore superintendents and supervisors, who will be involved in engineering, WORK
 preparation and later in the execution of the WORK.
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 15 of 125
+COMPANY Initials
+CONTRACTOR Initials
+
+AL SHAHEEN OIL FIELD – QATAR
+NEW LIVING QUARTER (NLQ) PROJECT
+(EPCIC 10)
+EXHIBIT A Contract No.: 4600000XXX
 CONTRACTOR shall take account of and ensure due provision for the COMPANY objective to minimize and
 optimize the duration of offshore works.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 14 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 16 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -626,7 +663,7 @@ EXHIBIT A Contract No.: 4600000XXX
 During hook-up and SIMOPS, the POB limitation is being determined by the size of the reserved area for
 mustering, the availability of the escape way and the additional tertiary means of evacuation installed on the
 new platform.
-CONTRACTOR shall comply with COMPANY Process CP-NOC-063 and shall provide all additional mitigations
+CONTRACTOR shall comply with COMPANY Standard SD-NOC-FO-173 and shall provide all additional mitigations
 (including, but not limited to, cascade breathing systems, life rafts, etc.) to reach a maximum CONTRACTOR POB.
 The total POB authorized on existing and new platforms will be assessed and developed through a dedicated
 POB control procedure that will be shared on time by COMPANY during EPCIC execution phase
@@ -639,9 +676,10 @@ campaigns is highly dependent upon its preparation from the commencement of deta
 during the upfront construction, hook-up, pre-commissioning and commissioning works.
 CONTRACTOR shall minimise and optimise the duration of offshore works during engineering and construction.
 All offshore works must fulfil the following requirements:
-All the construction documentation (including SIMOPS dossier, procedures, Job Cards, Task Sheets and
-risk analysis) shall be completed by CONTRACTOR and APPROVED by COMPANY before the beginning
-of the offshore campaign as specified in EXHIBIT C.
+All the construction documentation (including SIMOPS dossier, procedures, Work packs, Job Cards, Task
+Sheets and risk analysis) shall be completed by CONTRACTOR and APPROVED by COMPANY before the
+beginning of the offshore campaign as specified in EXHIBIT C. Development of the Work packs shall be
+align with the pre-commissioning and commissioning strategies.
 Preparation of the offshore construction campaign shall start at the beginning of the engineering phase
 and shall be included, defined and detailed on every job card and Task Sheet covering by discipline all
 aspects and constraints of the WORK, and which shall include a detailed description of the WORK with
@@ -663,7 +701,7 @@ When CONTRACTOR considers that a shutdown is necessary for technical reasons, it
 with evidence that no other option is achievable. COMPANY reserves the right to challenge and requests further
 clarification and/or information and CONTRACTOR shall bear the cost of any additional detailed engineering
 related to shutdown optimisations.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 15 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 17 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -714,7 +752,7 @@ conformance with the standards, unsafe, inoperable or un-maintainable, CONTRACTO
 at its own cost such modifications as required in order to correct such defects.
 v. Provide a live database of technical review findings and agreed actions together with current status for
 review at any stage during the execution of the WORK.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 16 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 18 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -737,6 +775,20 @@ The scope of the above-mentioned programs shall address all relevant activities 
 CONTRACTOR throughout the execution of the WORK.
 CONTRACTOR shall develop a Regulatory Compliance Program and carry-out the tasks that are described in
 Appendix A4 to EXHIBIT A.
+4.10 Marine classification, Flag, Authorities
+Requirements related to marine classification and flag state, if required, remain under CONTRACTOR’s scope
+and responsibility at any time and CONTRACTOR shall maintain the PLANT under Class at his own cost as long as
+necessary and in accordance with the APPLICABLE LAWS and associated regulations.
+In the event of any conflict or discrepancy between COMPANY requirements and the requirements of any THIRD
+PARTY — including but not limited to the Classification Society, Flag State, or Qatari Authorities— the most
+stringent requirement shall apply. Where the level of stringency is not immediately evident, CONTRACTOR shall
+promptly notify COMPANY and submit the matter for assessment and resolution with the relevant stakeholders.
+Such notification shall not relieve CONTRACTOR from its obligations under the CONTRACT.
+4.11 Applicable standards for the performance of the WORK.
+CONTRACTOR shall design the PLANT in full compliance with all applicable International Standards and the
+COMPANY specific standards referenced in the Functional Safety Specification (FSS) and the Safety Concept.
+For all other activities to be performed under the CONTRACT, CONTRACTOR shall comply with all applicable
+COMPANY standards identified inas per EXHIBIT E Appendix E3.
 5 WORK BREAKDOWN STRUCTURE
 The WORK is broken down into the following Work Packages (WPs):
 WP 1 MANAGEMENT, PROJECT CONTROL AND ADMINISTRATION
@@ -745,6 +797,14 @@ WP 3 ENGINEERING
 WP 4 PROCUREMENT AND SUPPLY
 WP 5 ONSHORE CONSTRUCTION AND TESTING
 WP 6 TRANSPORTATION, INSTALLATION AT SITE AND OFFSHORE ACCOMMODATION
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 19 of 125
+COMPANY Initials
+CONTRACTOR Initials
+
+AL SHAHEEN OIL FIELD – QATAR
+NEW LIVING QUARTER (NLQ) PROJECT
+(EPCIC 10)
+EXHIBIT A Contract No.: 4600000XXX
 WP 7 SITE CONSTRUCTION WORKS
 WP 8 COMMISSIONING
 WP 9 BROWNFIELD / INTEGRATION WORK
@@ -763,7 +823,7 @@ iii. A reference for calculation of CHANGE ORDER value(s).
 The division of the WORK into Work Packages, Sub Work Package, Work Units and Sub Work Units, as well as
 the related descriptions of WORK given in this EXHIBIT A are to be considered as the minimum content of
 CONTRACTOR's scope of WORK under the CONTRACT.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 17 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 20 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -792,7 +852,7 @@ with Marine Classification and Flag State (if applicable)
 The following entities will be involved at brownfield integration with the WORK:
 i. COMPANY Third Party Contractor, as required, for Inspection, or any other Authority requirement.
 ii. COMPANY or any OTHER CONTRACTOR of COMPANY.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 18 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 21 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -834,7 +894,7 @@ VENDORS as is necessary to fulfil all of the CONTRACT requirements. The CONTRACT
 Team’s (PMT) responsibilities shall include, but is not limited to:
 i. Direction, management, supervision, contracting, coordination, interfacing and administration to
 complete all phases and elements of the WORK.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 19 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 22 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -894,7 +954,7 @@ CONTRACTOR’s organisation and outside CONTRACTOR’s organisation.
 CONTRACTOR shall, throughout the entire duration of the CONTRACT, be responsible for all internal
 coordination between CONTRACTOR's departments involved in the performance of the WORK. CONTRACTOR
 shall initiate and implement appropriate procedures such that the WORK is executed in an efficient manner.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 20 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 23 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -946,7 +1006,7 @@ CONTRACTOR shall develop a Project Quality Plan (PQP) detailing CONTRACTOR’s Q
 activities specific to the contract and complies with the CONTRACT, including EXHIBIT H requirements.
 CONTRACTOR shall also prepare Quality Control Plan (QCP) for all procurement, fabrication and assembly
 activities, and submit the QCPs to COMPANY for review in-line with requirements of EXHIBIT H.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 21 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 24 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1000,7 +1060,7 @@ CONTRACTOR is responsible for the implementation of the APPROVED Quality Control
 Control Procedures and methods within SUBCONTRACTORS and VENDORS organisation to ensure that all
 construction and manufacturing works at SUBCONTRACTOR and VENDOR factories and WORKSITES comply with
 the requirements specified in the CONTRACT.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 22 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 25 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1051,7 +1111,7 @@ preparation of the list of information/documents needed by CONTRACTOR and the da
 information is requested from another interface parties. CONTRACTOR shall also periodically update and keep
 track of the interfaces and shall ensure interface matters are dealt within the stipulated interface review cycle
 and specified in the COMPANY Interface Management Plan.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 23 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 26 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1102,7 +1162,7 @@ CONTRACTOR shall implement a risk management approach throughout the duration of
 to anticipate and control the risks, as well as opportunities. The approach shall be defined in a Risk Management
 Plan submitted for APPROVAL by COMPANY within sixty (60) days of the EFFECTIVE DATE and shall be in
 accordance with COMPANY guidelines, including but not limited to:
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 24 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 27 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1157,7 +1217,7 @@ xi. Handling of all activities necessary to obtain authorisation from the Author
 providing the technological supports, including compliance with requirements and regulations from
 the Authorities and said entities, and payment of all costs, expenses, fees and the like, in any way
 connected therewith or resulting therefrom.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 25 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 28 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1204,7 +1264,7 @@ CONTRACTOR shall submit for APPROVAL the reporting procedures, and shall prepare
 and monthly reports in accordance with the CONTRACT and as specified in EXHIBIT G, Coordination Procedure.
 The reports shall cover all phases of the WORK performed by CONTRACTOR, SUBCONTRACTORS and/or
 VENDORS.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 26 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 29 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1259,7 +1319,7 @@ Obtain all specified certification from the CA or BC.
 iii. Submission to COMPANY of CONTRACTOR’s engineering documents stamped approved by CA or BC.
 To comply with IEC 61508/61511 methodologies, CONTRACTOR shall also organise a dedicated CA for Audit of
 the Functional Safety Assessments (FSA) and SIL Verification.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 27 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 30 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1306,7 +1366,7 @@ to facilitate both the MWS ‘comprehensive and independent assessment’ of the
 approval of the documents.
 No MARINE SPREAD operation identified by Construction All Risks (CAR) policy shall commence without the prior
 written approval of the MWS.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 28 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 31 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1356,7 +1416,7 @@ installation.
 CONTRACTOR shall ensure that the proposed procedures, equipment and structures for the load-out, sea
 fastening, transportation and installation of the PLANT have been duly reviewed and approved by the MWS
 before proceeding with any operation.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 29 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 32 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1407,7 +1467,7 @@ SWU 1.5.1 Services to COMPANY at CONTRACTOR’s Engineering Offices
 SWU 1.5.2 Services to COMPANY at CONTRACTOR’s WORKSITES and WORKSHOPS
 SWU 1.5.3 Services to COMPANY On-board MARINE SPREAD
 SWU 1.5.4 Other Services to COMPANY
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 30 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 33 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1444,7 +1504,7 @@ digital project organization for Engineering phase and shall guarantee continuit
 for each phase of the WORK till the delivery of the FINAL DOCUMENTATION.
 CONTRACTOR shall develop AVEVA database management procedures and AVEVA application end user manual
 (discipline wise). CONTRACTOR could refer to FEED documents available in DESIGN DOSSIER.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 31 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 34 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1497,7 +1557,7 @@ and Supervision PERSONNEL.
 x. Root cause analysis and tool box meeting for any accident or high potential near miss situation.
 xi. Safety Improvement Program, with as a minimum, monitoring by the provision and maintenance of an
 ‘HSE improvement plan’ document as defined in EXHIBIT L.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 32 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 35 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1539,7 +1599,7 @@ duration of the Project will lead to COMPANY specific incentive as detailed in E
 8.4.3 Sub Work Unit 2.3.3 – Workforce HSE Behaviour and Safety Culture mindset (HSE IS3)
 CONTRACTOR shall prepare an HSE Behaviour Incentive program dedicated to the Workforce (Individual and
 Collective awards) covering WORKSITE and SITE activities.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 33 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 36 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1591,7 +1651,7 @@ CONTRACTOR, as appropriate. The minimum requirements for CONTRACTOR DOCUMENTS to
 issued to COMPANY for review or APPROVAL are defined in Appendix A2 and DESIGN DOSSIER.
 All original or amended specifications, procedures and all other documentation produced by CONTRACTOR shall
 be processed in accordance with the requirements of EXHIBIT G.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 34 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 37 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1623,12 +1683,12 @@ performed by COMPANY and all tender bulletin instructions.
 CONTRACTOR shall monitor and control weights and CoG throughout the WORK. For that purpose,
 CONTRACTOR shall obtain from equipment suppliers the required weights data. CONTRACTOR shall provide
 weights, loading and centre of gravity information, evolution and mitigation measures (as necessary) for
-substructure, topside and bridge, and shall report on this issue not less than once a month from EFFECTIVE DATE
-to COMPLETION DATE. CONTRACTOR shall collate and monitor the interaction of the overall weight data
-including elements from all other sources (live loads, identified future module and workover operations) in a
-monthly Weight Control report that includes a load cases analysis whereby the live loads and workover
-operations operating weights and centre of gravity position are tabulated and plotted against the topside and
-substructure design not to exceed Weight and CoG envelope.
+substructure, topside and bridge, and shall report on this issue not less than monthly from EFFECTIVE DATE to
+COMPLETION DATE. CONTRACTOR shall collate and monitor the interaction of the overall weight data including
+elements from all other sources (live loads, identified future module and workover operations) in a monthly
+Weight Control report that includes a load cases analysis whereby the live loads and workover operations
+operating weights and centre of gravity position are tabulated and plotted against the topside and substructure
+design not to exceed Weight and CoG envelope.
 The arrangement of equipment and of its supporting and access structure, service and maintenance provisions
 shall be developed, where necessary, to achieve a safe and efficient working environment. They shall be adjusted
 to suit the actual dimensions of equipment installed by the CONTRACTOR; provision for such design and data
@@ -1648,7 +1708,7 @@ applicable standards, rules and regulations.
 ii. Preparation and issuance of all engineering procedures for the WORK.
 iii. Engineering associated with all phases of the WORK.
 iv. Timely approval required by COMPANY, the Certifying Authorities and the Marine Warranty Surveyor.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 35 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 38 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1702,12 +1762,12 @@ transportation, installation and Hook-up WORK.
 xxiv. Provide engineering support for procurement, transportation, installation, construction, pre-
 commissioning commissioning and assistance to start-up.
 Any modification/correction on any engineering documentation (CONTRACTOR and VENDOR scope) performed
-after ‘Approved for Construction’ (AFC) stage, shall be formally APPROVED by COMPANY, before
-implementation on SITE.
+after ‘Acceptedfor Construction’ (AFC) stage, shall be formally APPROVED by COMPANY, before implementation
+on SITE.
 All detailed engineering shall, as a minimum, be in accordance with the specifications contained in DESIGN
 DOSSIER, GOOD INDUSTRY PRACTICE, recognised international codes & standards and all current legislation and
 regulations.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 36 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 39 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1744,7 +1804,7 @@ As necessary and in order to enable the satisfactory performance of the WORK inc
 integration activities, CONTRACTOR shall carry out detailed SITE surveys of existing host facilities on which the
 PLANT will be integrated, in accordance with Article 14.7.2 of the AGREEMENT.
 CONTRACTOR shall identify overall scope for site survey and required to develop and achieve appropriate design.
-Two (2) months prior to SITE survey(s), CONTRACTOR shall submit for APPROVAL a request containing brief
+Three (3) months prior to SITE survey(s), CONTRACTOR shall submit for APPROVAL a request containing brief
 description and reason for site survey, proposed dates and durations and number of POB.
 Minimum Six (6) weeks prior to SITE survey(s), CONTRACTOR shall submit for APPROVAL an integrated schedule,
 a detailed procedure, Scope of Work of the SITE survey(s), Permit to works and tooling permits and all required
@@ -1755,7 +1815,7 @@ Engineering SITE surveys COMPANY will provide helicopter transfer, accommodation
 The integrated schedule shall include all activities foreseen during the SITE survey. For each activity,
 CONTRACTOR shall provide the planned duration of the activity and the list of PERSONNEL involved, including
 their role. CONTRACTOR shall comply with Permit To Work (PTW) procedure and requirements.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 37 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 40 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1791,7 +1851,7 @@ status.
 ii. Preparation of Material Requisition for each of the equipment items including all the required
 documents, e.g. datasheet, project specification, and other applicable documents. Requisitions shall
 be categorised together for RFQ based on the equipment type, size, design requirements,
-construction/ fabrication requirement, etc. Requisition categorisation for RFQ shall be approved by
+construction/ fabrication requirement, etc. Requisition categorisation for RFQ shall be APPROVED by
 COMPANY.
 iii. Preparation of call for tender packages (RFQ) complete with all attachments, such as requisitions,
 specifications, drawings, VENDOR Documentation Requirement Schedule, requirement for
@@ -1810,7 +1870,7 @@ requirements, and issuing unpriced copies to COMPANY for APPROVAL at the purchas
 subcontract stage.
 vi. Review and approval of VENDOR documents. All VENDOR documents shall be submitted to COMPANY,
 for Information, for review and for APPROVAL as per requirement of Appendix A2.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 38 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 41 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1818,7 +1878,7 @@ AL SHAHEEN OIL FIELD – QATAR
 NEW LIVING QUARTER (NLQ) PROJECT
 (EPCIC 10)
 EXHIBIT A Contract No.: 4600000XXX
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 39 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 42 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1871,7 +1931,7 @@ including:
 • Design change field fabrication and installation
 • Inspection and verification of field execution of the design change
 • Design change closeout
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 40 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 43 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1929,7 +1989,7 @@ f. Building/Architectural:
 4. Furniture, small appliance and equipment schedule.
 5. Interior finishing schedule.
 6. Equipment/device supporting system.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 41 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 44 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -1982,7 +2042,7 @@ z. Calibration of instruments and equipment.
 aa. Anticipation of fabricated asset transfer from construction point to load-out point,
 including all equipment and aids necessary to be integrated/prepared prior, during and
 after fabrication phase.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 42 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 45 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2033,7 +2093,7 @@ SSWU 3.5.1 Onshore Construction Engineering for BI Substructure
 SSWU 3.5.2 Onshore Construction Engineering for BI Topside
 SSWU 3.5.3 Onshore Construction Engineering for BI-BJ Bridge
 SSWU 3.5.4 Onshore Construction Engineering for BI Hook-up loose items to be installed offshore.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 43 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 46 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2056,8 +2116,8 @@ Integration Engineering of the hook-up PLANT component.
 CONTRACTOR shall prepare all calculation notes, detailed specifications and procedures, reports, work plans,
 shop drawings, AFC drawings, and the like necessary for the successful and efficient execution of the offshore
 erection WORK to be performed by CONTRACTOR, SUBCONTRACTORS and VENDORS.
-Each offshore activity shall be subject to COMPANY Permit To Work (PTW) system (per COMPANY CP-NOC-032).
-Each PTW request shall:
+Each offshore activity shall be subject to COMPANY Permit To Work (PTW) system (as per LEVEL 3 – COMPANY
+STANDARD SD-NOC-FO-172) utilising the Electronic Control Of Work (e-COW) software. Each PTW request shall:
 i. Be issued at least 72 hours prior to the start of the WORK.
 ii. Have a limited validity depending on the category of PTW (being re-validated and re-issued anytime
 there is a shift or crew change).
@@ -2084,7 +2144,7 @@ Engineering activities for Hook-up and Integration works shall include as a mini
 - requirements of Appendix A1,
 - shall be in accordance with the DESIGN DOSSIER, good engineering practice, recognised codes and
 all current legislation and regulations.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 44 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 47 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2135,7 +2195,7 @@ ix. Preparation of pre-commissioning dossiers to be filled in during pre-commiss
 x. Prepare and issue the pre-commissioning Management procedures.
 xi. Prepare and issue the pre-commissioning procedures.
 xii. Prepare and issue the pre-commissioning progress report format.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 45 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 48 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2190,7 +2250,7 @@ Preparation of the commissioning procedures.
 Preparation of the operational test procedures.
 Definition of the commissioning spares, temporary equipment, test equipment.
 Prepare and issue the commissioning Engineering progress report.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 46 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 49 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2245,7 +2305,7 @@ Appendix A2:
 a. PLANT components lifting analyses including basic design of lifting aids and temporary
 access,
 b. Jacket floatability analysis,
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 47 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 50 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2306,7 +2366,7 @@ g. Repair procedure, where applicable.
 xxi. Preparation of checklists that will be signed by all parties for each operation.
 xxii. Submission for APPROVAL by Third Party Agency and MWS of any document (calculation notes, reports,
 certificates, drawings, schematics, procedures, equipment lists, etc...) requested by these latter.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 48 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 51 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2363,7 +2423,7 @@ l. Installation aids and rigging details.
 m. Lifting and installation drawings, including COMPANY form lift plans.
 n. Necessary calculation notes for all installation work.
 o. Positioning of the PLANT as per installation tolerances.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 49 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 52 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2422,7 +2482,7 @@ j. Installation Aids/Temporary equipment description,
 k. Installation Vessel Equipment Spread,
 l. Installation/Operations parameters and limitation,
 m. Installation sequence flowchart,
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 50 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 53 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2475,7 +2535,7 @@ xxvii. Installation aids checked.
 xxviii. Positioning and survey equipment checked.
 xxix. Instrumentation / monitoring equipment checked.
 xxx. Handover certificates checked.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 51 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 54 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2526,7 +2586,7 @@ d. Barge or vessel class recertification as the case may be.
 e. Barge or vessel grillage.
 f. Barge or vessel motion and stability (including damaged case).
 xii. All other engineering activities necessary for the transportation of the PLANT.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 52 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 55 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2578,7 +2638,7 @@ v. All parts of the PLANT shall be easily accessible, by PERSONNEL and equipment
 maintenance activities, with a focus on material handling, CP-NOC-057.
 vi. Inspection and monitoring means shall be implemented to follow the aging and wearing of the PLANT
 or parts thereof.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 53 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 56 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2618,7 +2678,7 @@ CONTRACTOR shall prepare and submit to COMPANY for APPROVAL the following docume
 • Level 2/3 (equipment) Operating and Maintenance manual and procedures for the facilities, including
 brownfield integration with existing B location equipment.
 CONTRACTOR shall provide inputs to the RAM analysis and model of the overall field development as required
-to COMPANY. All inputs shall be approved by COMPANY.
+to COMPANY. All inputs shall be APPROVED by COMPANY.
 The RAM studies shall take specific account of the Mean Time to Repair.
 RAM analyses shall take account of actual performance and test data of the PLANT components wherever
 possible (to be provided COMPANY). Failure rate data used within the RAM studies prepared by CONTRACTOR
@@ -2630,7 +2690,7 @@ ii. A summary of the Mean Time to Failure for the total population of each UNIT 
 field configuration.
 Input data to the RAM analysis shall be fully documented either by experience feedback or specific studies or
 testing by CONTRACTOR.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 54 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 57 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2645,7 +2705,7 @@ Component RAM and FMECA studies shall be carried out by the CONTRACTOR sufficien
 engineering process such that the findings of the studies can be used to assist with the project assessment of
 the overall design. The final update of the "System" studies will incorporate the findings of the "Unit" and
 component level studies completed by CONTRACTOR during detailed design.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 55 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 58 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2697,7 +2757,7 @@ said purchase orders and/or subcontracts.
 iii. Expediting and reporting of procurement activities. CONTRACTOR shall be responsible to ensure that
 the related delivery dates are met and take all necessary steps to avoid delay without affecting the
 required quality and compliance with COMPANY standards.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 56 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 59 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2733,7 +2793,7 @@ vi. Preparation and issue of requisitions for enquiries and purchases.
 vii. Clarification and evaluation of tenders (technical and commercial).
 viii. Technical Bid Evaluation.
 ix. Placement of purchase orders.
-x. KOM within 15 days after Contract Awrad and prior to commencement of Vendor activities.
+x. KOM within 15 days after Contract Award and prior to commencement of Vendor activities.
 xi. Quality Surveillance Activities (ITP/QCP).
 xii. Expediting.
 xiii. Arranging and conducting stage and final inspections and tests.
@@ -2756,7 +2816,7 @@ xxvi. Final Inspection before shipment with Punch List, Punch list items to be p
 categories; type A, B, or C.
 xxvii. Release For Shipment upon COMPANY APPROVAL.
 xxviii. Vendor Data Book.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 57 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 60 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2809,7 +2869,7 @@ ii. Inspection shall be performed by qualified CONTRACTOR inspectors.
 iii. Inspection shall be carried out by CONTRACTOR at both the point of manufacture and, where
 necessary, at the source of manufacturers' sub-ordered materials.
 iv. CONTRACTOR shall carry out all quality assurance activities including SUBCONTRACTOR inspection.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 58 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 61 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2861,7 +2921,7 @@ complete forwarding documentation to COMPANY, in accordance with the requirement
 CONTRACTOR shall not ship any CONTRACTOR ITEM until all punch items are all cleared and the Ready For
 Shipment Certificate has been issued by COMPANY. Any derogation from this position requires COMPANY
 APPROVAL.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 59 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 62 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2917,7 +2977,7 @@ vi. Preparation of necessary documents for importation, temporary importation, e
 CONTRACTOR ITEMS and CONTRUCTION EQUIPMENT, and customs clearance.
 vii. Provision of services and in general performance of any activity in any way connected with the
 particulars of this Work Package.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 60 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 63 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -2968,7 +3028,7 @@ Work Unit 4.5 is subdivided into the following Sub Work Units:
 SWU 4.5.1. Spare Parts and Consumables for Pre-Commissioning
 SWU 4.5.2 Spare Parts, tools and Consumables for Commissioning, First Fill and Start-up for BI Platform
 SWU 4.5.3 Special Tools
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 61 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 64 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3016,7 +3076,7 @@ The ready for construction reviews shall be weekly and include plan, status and 
 • Perform audits of WORKSHOPS/WORKSITES and implement / close audits findings before start of
 activities.
 • WORKSITE construction control documents and procedures.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 62 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 65 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3070,7 +3130,7 @@ other associated items.
 xii. Provide and maintain secure storage for radioactive sources.
 xiii. Implement specific safety procedures relating to radioactive sources.
 xiv. Re-performance of all failed qualifications.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 63 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 66 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3119,7 +3179,7 @@ ii. Topside First Steel Cut definition:
 All shop drawings available for fabrication of all welded plate girders for the first deck, All bulk steel
 available for fabrication of all welded plate girders for the first deck, first steel cut for fabrication of
 welded plate girders.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 64 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 67 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3172,7 +3232,7 @@ NDT and dimensional controls.
 Corrosion prevention applications to piping components (such as flanges) and line identifications shall
 be re-applied following welding, or damage caused by any means.
 Painting, Marking and Packaging (with particular care given to flanges) of spools and supports.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 65 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 68 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3227,7 +3287,7 @@ vi. Installation of earthing systems, including earthing cables/bars and connect
 vii. RFID tagging of all outdoor Ex/ATEX Equipment including packages.
 viii. Final as-built surveys for all points of Interfaces with the existing facilities.
 ix. Any and all other electrical work and/or services necessary to complete the WORK.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 66 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 69 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3285,7 +3345,7 @@ iv. Glanding and terminating connections to HVAC equipment and installation of a
 the like for cable identification.
 v. Provision for temporary air conditioning units to protect installed equipment prior to commissioning
 of permanent HVAC installation. Additionally temporary supply and extract fans shall be provided.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 67 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 70 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3335,7 +3395,7 @@ including:
 i. Welding anodes supports onto the structure and related NDT.
 ii. Installation of sacrificial anodes onto Substructure and electrical connection, as specified.
 iii. All other activities required to complete the sacrificial anodes WORK.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 68 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 71 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3370,7 +3430,8 @@ as installed. Weighing shall be performed on completely assembled Units. Weighin
 submitted to COMPANY for APPROVAL. Weighing program shall be in line with SD-NOC-STR-001
 requirements and DESIGN DOSSIER.
 vii. Weighing shall include all tooling.
-CONTRACTOR shall also demonstrate by calculation that the lifted object is stable when lifted in air.
+CONTRACTOR shall also demonstrate by calculation that the lifted/transported object is stable throughout the
+intended movement.
 Based on weighing performed, CONTRACTOR shall then recalculate the position of the Centre of Gravity (CoG).
 11.1.15 Preservation of Equipment and Materials and Warehousing at WORKSITES
 CONTRACTOR shall undertake all measures necessary to prevent deterioration and/or damage of/to equipment
@@ -3388,7 +3449,7 @@ v. Supply of any utilities and equipment required for preservation (e.g. inert g
 gage).
 Activities identified above shall form the index, wherever applicable, of Sub Work Units under Work Units as per
 below.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 69 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 72 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3439,7 +3500,7 @@ Structural and piping loose items prefabrication, pipe and E&I supports and test
 CONTRACTOR shall be responsible for evaluating all PERSONNEL proposed for the WORK to ensure they are
 trained and capable of safely performing the activities assigned. All costs associated to additional training and
 qualifications are deemed to be included in the CONTRACT PRICE.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 70 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 73 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3489,7 +3550,7 @@ SWU 5.2.3 Fabrication of BI-BJ Bridge
 CONTRACTOR shall perform, in accordance with the DESIGN DOSSIER, all activities required to prefabricate all
 items to be integrated on B Location existing host platforms, including, but not limited to construction activities
 listed in Clause 11.1 of EXHIBIT A.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 71 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 74 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3541,7 +3602,7 @@ CONTRACTOR shall install all temporary equipment necessary for this long-term pr
 CONTRACTOR shall supply first fill consumables required for the preservation (such as inert gas, …).
 This long-term preservation plan shall be approved by COMPANY. After set-up of long-term preservation,
 COMPANY will oversee and maintain long term preservation on B-location, if required.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 72 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 75 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3594,7 +3655,7 @@ COMPANY will, upon satisfactory completion of the pre-commissioning activities a
 issue the READY FOR LOAD-OUT CERTIFICATE to CONTRACTOR.
 CONTRACTOR shall provide COMPANY with sufficient advance notification for the performance of such control
 to ensure the attendance by COMPANY and COMPANY’s OTHER CONTRACTORs.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 73 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 76 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3638,7 +3699,7 @@ Work Unit 5.7 is subdivided into the following Sub Work Units:
 SWU 5.7.1 Load-out and Sea Fastening of BI Substructure
 SWU 5.7.2 Load-out and Sea Fastening of BI Topside
 SWU 5.7.3 Load-out and Sea Fastening of BI-BJ Bridge
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 74 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 77 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3653,6 +3714,8 @@ CONTRACTOR shall carry out all activities related to the transportation and inst
 CONTRACTOR is responsible for provision of the associated support vessels for the offshore campaign at SITE
 such as Installation Vessel, Multi Support Vessel, Supply boat and crew boat. Necessary COMPANY PERSONNEL
 shall be accommodated on-board MARINE SPREAD as specified in Appendix A7.
+CONTRACTOR offshore installation campaign shall be independent from COMPANY operations or OTHER
+CONTRACTOR in terms of energy, equipment, personnel and any other resources.
 Work Package 6 is further divided into Work Units as follow:
 Mobilisation and Demobilisation of MARINE SPREAD for Load-out, Transportation to SITE, and
 WU 6.1
@@ -3687,11 +3750,24 @@ i. Detailed technical documentation on all CONSTRUCTION EQUIPMENT and all MARINE
 used for the WORK.
 ii. Certificates for all Vessels of MARINE SPREAD, including the certification of internal reinforcement by
 the classification authority, if applicable.
-iii. COMPANY and Marine Warranty Surveyor inspection reports as well as a detailed status showing how
-all comments from inspection reports have been cleared.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 75 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 78 of 125
 COMPANY Initials
 CONTRACTOR Initials
+
+AL SHAHEEN OIL FIELD – QATAR
+
+NEW LIVING QUARTER (NLQ) PROJECT
+(EPCIC 10)
+EXHIBIT A
+Contract No.: 4600000XXX
+
+iii.  COMPANY and Marine Warranty Surveyor inspection reports as well as a detailed status showing how
+| all comments from inspection reports have been cleared.  |     |     |
+| -------------------------------------------------------- | --- | --- |
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC  Page 79 of 125
+|     | COMPANY Initials      |     |
+| --- | --------------------- | --- |
+|     | CONTRACTOR Initials   |     |
 
 AL SHAHEEN OIL FIELD – QATAR
 NEW LIVING QUARTER (NLQ) PROJECT
@@ -3743,7 +3819,7 @@ issuance by COMPANY. CONTRACTOR shall submit the marine procedures for APPROVAL;
 procedures shall conform to COMPANY marine procedures in force at SITE and provided in the DESIGN DOSSIER.
 CONTRACTOR should note that marine operations will not be permitted to commence without APPROVED
 Marine Procedures.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 76 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 80 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3754,8 +3830,8 @@ EXHIBIT A Contract No.: 4600000XXX
 The MARINE SPREAD to be mobilised by CONTRACTOR shall be fully compliant and equipped for the
 performance of WORKS in an environment subject to potential H S release.
 2
-CONTRACTOR shall follow up and take necessary remedial action for all punch list items as a result of the
-inspection.
+CONTRACTOR shall follow up and take necessary remedial action prior to the start of Marine Operations for all
+punch list items as a result of the inspection.
 Following satisfactory performance of the load-out and sea fastening works described in Work Unit 5.7,
 COMPANY shall issue the READY FOR TRANSPORTATION CERTIFICATE, which shall be signed by COMPANY,
 CONTRACTOR, Certifying Authority and the Marine Warranty Surveyor.
@@ -3789,7 +3865,7 @@ SWU 6.1.2 Mobilisation and Demobilisation of MARINE SPREAD for Installation
 SSWU 6.1.2.1 MARINE SPREAD for Installation of BI Topside
 SSWU 6.1.2.2 MARINE SPREAD for Installation of BI Substructure
 SSWU 6.1.2.3 MARINE SPREAD for Installation of BI-BJ Bridge
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 77 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 81 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3837,7 +3913,7 @@ xxiv. Substructure levelling equipment.
 xxv. Lifting and upending tools for pile handling (if applicable)
 xxvi. Lifting rigging with valid certification and re-test records, as per COMPANY standards.
 xxvii. Any other equipment needed for the performance of the WORK.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 78 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 82 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3885,7 +3961,7 @@ CONTRACTOR shall demobilise his CONSTRUCTION EQUIPMENT following the issuance of
 SPREAD.
 As part of the demobilisation, CONTRACTOR is responsible for removal, scrapping and disposal of Installation
 related debris.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 79 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 83 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3934,7 +4010,7 @@ o Issuance of all documents required for obtaining the working permits on SITE.
 o Mobilization at SITE of a MARINE SPREAD along with all necessary PERSONNEL and EQUIPMENT in
 accordance with COMPANY’s SPECIFICATIONS and CONTRACTOR’s minimum requirements.
 o Provision of accommodation for One (1) CONTRACTOR’s Representative onboard the MARINE SPREAD.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 80 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 84 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -3945,7 +4021,7 @@ EXHIBIT A Contract No.: 4600000XXX
 o Demobilization from SITE of MARINE SPREAD along with all PERSONNEL and EQUIPMENT.
 o Preparation and issuance of survey report.
 CONTRACTOR responsibilities shall cover (but not limited to) the following activities:
-o Attend full duration of pre-installation survey and lead the survey operations.
+o Attend full duration of pre-installation survey and he survey operations.
 o Provision to COMPANY of the exact locations, areas and zones to be surveyed at least One (1) year prior
 to installation.
 o Issuance of all documents required for Offshore mobilization and performance of the survey.
@@ -3983,7 +4059,7 @@ and seafastening pieces shall be properly sea-fastened prior transfer from SITE 
 v. All required MARINE SPREAD movements and operation (including any testing and required
 maintenance) on SITE.
 vi. Clearance of obstacles, removal of debris, soil levelling, as required.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 81 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 85 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4045,7 +4121,7 @@ xxxiii. Implement for each installation vessel the Specific Safety Management Sy
 the engineering phase of the PROJECT and as APPROVED by COMPANY. A Safety Management team
 shall be allocated to each of the main installation vessels, which shall be in place prior to the
 commencement of installation WORK.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 82 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 86 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4100,7 +4176,7 @@ equipped with colour pan and tilt video and cameras, with real time generator ov
 CONTRACTOR shall demonstrate that failure of any mooring line or DP system of the installation MARINE
 SPREAD shall not result in a collision with any facility. CONTRACTOR shall perform a risk assessment assessing
 the need of mitigation measure and/or vessel in case of drift-off (tug boat requirement).
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 83 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 87 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4149,7 +4225,7 @@ Notes:
 1. CONTRACTOR shall submit to COMPANY the relevant as-built survey (preliminary or final), in order
 for COMPANY to assess CONTRACTOR’s performance and identify any quality or compliance issues
 at the earliest.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 84 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 88 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4171,24 +4247,25 @@ digital video shall be in Nexus & VisualSoft compatible formats.
 The data format for the report of the As-Built Documentation shall be APPROVED by COMPANY.
 12.10 Work Unit 6.9 – Requirements associated with Marine Classification and Flag State (if
 applicable)
-Depending on CONTRACTOR’s selected Transportation and Installation methodology, the NLQ may undergo
-marine classification and flag state registration in compliance with the APPLICABLE LAWS and Qatari Authorities.
+Depending on CONTRACTOR’s selected Transportation and Installation methodology, the NLQ PLANT may
+undergo marine classification and flag state registration in compliance with the APPLICABLE LAWS and Qatari
+Authorities.
 In such case, CONTRACTOR shall be responsible at his own cost, to design, procure, fabricate, transport, and
-install the NLQ in compliance with the Class Society regulation and/or Flag state rules including but not limited
-to:
+install the NLQ PLANT in compliance with the Class Society regulation and/or Flag state rules including but not
+limited to:
 • Placement of a contract if required with an APPROVED Classification Society in order to obtain the
-suitable NLQ Class and/or Flag certifications compliant with COMPANY requirement.
+suitable PLANTNLQ Class and/or Flag certifications compliant with COMPANY requirements.
 • Compliance with Class Society and/or Flag state and implementation of all the necessary modifications
 to the WORK during the following phases:
 o Engineering Phase: Performance of the detailed design and engineering in accordance with
 the prescriptions and regulations of the of the Class Society and/or Flag state and COMPANY’s
 regulatory requirements.
 o Procurement Phase: CONTRACTOR shall verify and ensure that all NLQ equipment and
-materials covered by the Flag State and the Class Society are purchased from a VENDOR with
-complete, correct and valid certification in line with the applicable requirements.
-CONTRACTOR shall bear all costs associated with ensuring the VENDOR procured items are
-purchased fully in accordance with applicable Class Society, Flag State and Qatari Authority
-requirements.
+materials CONTRACTOR ITEMS covered by the Flag State and the Class Society are purchased
+from a VENDOR with complete, correct and valid certification in line with the applicable
+requirements. CONTRACTOR shall bear all costs associated with ensuring the VENDOR
+procured items are purchased fully in accordance with applicable Class Society, Flag State and
+Qatari Authority requirements.
 o Construction phase and Onshore Commissioning Phase: wherever required, CONTRACTOR
 shall liaise with the Class Society, Flag State and Qatari Authority during the construction and
 onshore commissioning phases to ensure all statutory survey activities and witness test
@@ -4198,13 +4275,21 @@ punch list items, comments, recommendations raised by the Class Society, Flag St
 Qatari Authorities shall be immediately addressed by CONTRACTOR to ensure the NLQ is Class
 & Flag compliant.
 o Transportation and Installation Phase: CONTRACTOR shall support COMPANY in obtaining
-and maintaining a Flag of the NLQ during the transit up to SITE and ensure compliance with
-the Flag State authorities’ requirements.
-• CONTRACTOR shall maintain the NLQ under Class until completion of Installation phase (i.e.
-COMPLETION CERTIFICATE).
+and maintaining a Flag of the NLQ PLANT during the transit up to SITE and ensure compliance
+with the Flag State authorities’ requirements.
+• CONTRACTOR shall maintain the NLQ PLANT under Class as long as necessary and in accordance with
+the applicable lawsAPPLICABLE LAWS and associated regulations .
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 89 of 125
+COMPANY Initials
+CONTRACTOR Initials
+
+AL SHAHEEN OIL FIELD – QATAR
+NEW LIVING QUARTER (NLQ) PROJECT
+(EPCIC 10)
+EXHIBIT A Contract No.: 4600000XXX
 • After completion of installation at SITE, CONTRACTOR shall proceed with marine declassification of the
-NLQ.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 85 of 116
+NLQPLANT.
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 90 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4218,20 +4303,22 @@ Under this Work Package, CONTRACTOR shall be responsible for performing all cons
 considering the battery limits specified in the Appendix E2 related to Brownfield Integration scope.
 COMPANY shall:
 - Provide for the duration of SITE Construction WORKS and in accordance with EXHIBIT C Offshore
-Accommodation Vessel (OAV) permanently connected to SITE.
-- Approve location plan and relocation sequence in mutual agreement with CONTRACTOR.
+Accommodation Vessel (OAV), either permanently connected to SITE or equipped with active or passive
+heave compensated gangway allowing personnel transfer to and from platform.
+- Approve OAV location plan and relocation sequence, gangway landing platform location in mutual
+agreement with CONTRACTOR
 - Provide to CONTRACTOR the design input for gangway connection to access the PLANT.
-- Provide all associated support services such as catering for PERSONNEL, fuel bunkering, waste
-management (related to OAV; construction waste management is CONTRACTOR’s responsibility), H2S
-cascade system on the OAV, if deemed required.
-- Facilitate COMPANY and CONTRACTOR PERSONNEL crew change, on an established schedule, between
-Port in Qatar and SITE at no cost (note: base case by COMPANY, option by CONTRACTOR).
-- Facilitate the transportation of CONTRACTOR materials and equipment, on an established schedule
-(tentatively twice a week), between Port in Qatar and SITE at no cost (note: base case by COMPANY,
-option by CONTRACTOR).
+- Provide all associated support services such as catering for PERSONNEL, fuel bunkering for OAV, waste
+management (related to OAV; construction waste management is CONTRACTOR’s responsibility), all
+Safety systems onboard the OAV as per COMPANY SPECIFICATIONS (SD-NOC-HIH-006), when deemed
+required.
+- Provide COMPANY and CONTRACTOR PERSONNEL crew change means of transportation by air and/or
+sea, on an established schedule, between Port in Qatar and SITE at no cost. (note: base case by
+COMPANY, option by CONTRACTOR).
+- Provide means of transportation for CONTRACTOR CCUs’, on an established schedule (tentatively twice
+a week), between Port in Qatar and SITE at no cost (note: base case by COMPANY, option by
+CONTRACTOR).
 - Supply fuel for CONTRACTOR Temporary equipment located on Platform topside.
-- Isolate and de-inventory the existing PLANT facilities and PLANT equipment as part of the WORK before
-hand-over to CONTRACTOR.
 - Facilitate Site Survey by providing transportation from Port in Qatar to SITE and bedding offshore.
 - Ensure that COMPANY’s platform cranes are made available to CONTRACTOR as much as operational
 constraints will allow and in compliance with COMPANY SITE OIM authorisation.
@@ -4245,12 +4332,26 @@ study to support the location plan (HSE, SIMOPS, EERA… ).
 o move,
 o relocate,
 o use the OAV for lifting operations, if the OAV is equipped with a compatible crane.
-- Facilitate the installation of the gangway as per the design requirements of the gangway landing
-platform that will be provided by OAV Contractor during execution phase, by providing any engineering,
-construction & materials support as per OAV Charter party requirement.
+- Engineer, procure, fabricate, and install the landing platform for the gangway as per the design
+requirements that will be provided by OAV Contractor during execution phase. CONTRACTOR shall
+demolish any landing platform and restore COMPANY ASSET as per original condition, if required.
+- Supply H2S parat masks and individual H2S detectors in compliance with COMPANY SPECIFICATIONS to
+all project personnel (COMPANY, CONTRACTOR)
+- Factor, in its execution schedule, the potential downtime due to weather (gangway closed to traffic or
+disconnected) and any other unforeseen issues encountered by OAV
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 91 of 125
+COMPANY Initials
+CONTRACTOR Initials
+
+AL SHAHEEN OIL FIELD – QATAR
+NEW LIVING QUARTER (NLQ) PROJECT
+(EPCIC 10)
+EXHIBIT A Contract No.: 4600000XXX
+- Supply all CCUs’ for the execution of the WORK, in compliance with COMPANY SPECIFICATIONS,
+including all wastes generated by CONTRACTOR and their disposal.
 - Inform COMPANY of any early termination of the OAV as well as any extension requirements for
 COMPANY provided MARINE SPREAD as soon as reasonably possible.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 86 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 92 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4281,8 +4382,8 @@ Requests for tags shall be affected through Technical Queries and shall be APPRO
 before final integration into the documentation.
 ➢ CONTRACTOR shall be aware that the requirements listed in WP 5 of this Exhibit are applicable for
 this Work Package.
-To facilitate the management of the brownfield integration for OAV & TMV, CONTRACTOR shall refer to the
-following responsibility matrix:
+To facilitate the execution of the WORK defined in this Work Package supported by OAV & TMV, CONTRACTOR
+shall refer to the following responsibility matrix:
 # Task COMPANY CONTRACTOR
 1 Contract owner & budget owner for OAV & TMV Y
 2 Supply bulk (fuel, water…) to OAV & TMV Y
@@ -4303,7 +4404,7 @@ following responsibility matrix:
 17 Unpack and dispatch material and/or equipment at SITE Y
 18 Notify to COMPANY any backload requirements Y
 19 Administer transport of PERSONNEL to Port Y
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 87 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 93 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4351,7 +4452,7 @@ CONTRACT.
 EQUIPMENT which are found to be unacceptable during the pre-mobilisation certification and testing
 shall be repaired or modified before any item is mobilised. Performance of such repairs or modifications
 shall unconditionally be performed before mobilisation of the CONSTRUCTION EQUIPMENT.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 88 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 94 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4409,7 +4510,7 @@ scaffolders, painting and mechanical, electrical, instrumentation, telecommunica
 operators dully qualified as per SPECIFICATIONS along with proper supervision and tools.
 vi. HSE crew (Firewatcher, First aiders, HSE supervisors, gangway watchers, emergency response
 team) and associated equipment (gas detectors, radio, fire extinguishers).
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 89 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 95 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4445,7 +4546,8 @@ Under this Work Unit, CONTRACTOR shall perform at B Location SITE, all activitie
 A and in accordance with the DESIGN DOSSIER.
 CONTRACTOR shall plan and prepare Integration works (including scheduling up to Job Card level) to ensure that
 all offshore WORK activities are conducted in a safe and efficient manner.
-Each offshore activity shall be subject to COMPANY Permit to Work (PTW) system (per COMPANY CP-NOC-032).
+Each offshore activity shall be subject to COMPANY Permit to Work (PTW) system (per COMPANY CP-NOC-032
+LEVEL 3 – COMPANY STANDARD SD-NOC-FO-172).
 For the purpose of SITE Construction preparation, CONTRACTOR is responsible of:
 iii. Preparation of a Hook-up manual containing all documents and pertinent information related to the
 Hook-up at SITE of BI Topside and Bridge, as well as all equipment, spools and any item for integration
@@ -4461,7 +4563,7 @@ accordance with the Offshore Hook-up and Construction Work Execution Plan, inclu
 commissioning. Note that, when defining the exhaustive list of Work Packs to complete offshore
 Integration works, CONTRACTOR shall minimise offshore works as much as possible by anticipating and
 planning, when possible, onshore prefabrication.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 90 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 96 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4507,7 +4609,7 @@ CONTRACTOR shall perform all works under SIMOPS condition necessary for existing
 objectives listed below and in accordance with the DESIGN DOSSIER.
 CONTRACTOR shall prepare a SIMOPS preparation tracker to report readiness on a weekly basis. Trackers shall
 be approved by COMPANY no later than twelve (12) months prior to start of the offshore campaign.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 91 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 97 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4557,7 +4659,7 @@ condition.
 j. Perform all tie-in works that do not require SHUTDOWN in all disciplines (Piping, Electrical,
 Instrumentation, ICSS including program update).
 k. Performing PWHT, NDT and testing on Integrated Items.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 92 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 98 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4606,7 +4708,7 @@ a. Scaffolding installation and removal, as necessary.
 b. All welding together of subsidiary PLANT structures and supports.
 c. Welding of ladders, stairs and other appurtenances to their supports.
 d. NDT.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 93 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 99 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4654,7 +4756,7 @@ body, boxes, panels, and the like.
 d. Well Head instrumentation hook-up to the PLANT.
 e. Re-installation of cables/tubing trays and ladders, as necessary.
 f. Installation of cables/tubing, as necessary.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 94 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 100 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4702,7 +4804,7 @@ The SITE pre-commissioning WORK shall include all pre-commissioning not performe
 covering the PLANT installed and/or reinstalled on SITE, such as fragile equipment/instrumentation and other
 items which, for transportation/installation purpose, had been dismounted on WORKSITE(S). It shall also cover
 facilities which have been hooked-up on SITE subsequent to installation of the PLANT components.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 95 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 101 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4757,7 +4859,7 @@ CONTRACTOR shall refer to WU 7.3 for the Scope of WORK. This WU is divided into 
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A  Page 96 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC  Page 102 of 125
 |     |     |     | COMPANY Initials      |     |
 | --- | --- | --- | --------------------- | --- |
 |     |     |     | CONTRACTOR Initials   |     |
@@ -4805,7 +4907,7 @@ its obligations and Project schedules.
 At the time of introduction of any product, in particular gas, into the PLANT for commissioning, some additional
 measures subject to APPROVAL and related to organisation of the works and safety systems shall be
 implemented. COMPANY will have the right to AUDIT the application of this Permit To Work (PTW) systems.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 97 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 103 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4855,7 +4957,7 @@ under Purchase Order.
 The current status of equipment being transferred e.g. running, standby, preserved, pressurised.
 The current status of ongoing PTW including status of electrical isolations, inhibits and overrides logs,
 mechanical isolation list (spades, blinds, LO/LC valves etc.).
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 98 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 104 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4896,16 +4998,9 @@ CONTRACTOR shall perform Detailed Engineering, Procurement, Supply, Prefabricati
 Transportation, Integration and Commissioning of all elements (including Structural, Piping, Electrical and
 Instrument (E&I), Telecom, Safety, Integrated Control and Safety System (ICSS)) allowing the integration of BI
 Platform into existing B complex.
-For sake of clarity and at the time of the CFT, the two platforms CPP/BJ and RP/BH are under EPCIC Execution
-phase by OTHER CONTRACTORs.
-After EFFECTIVE DATE, one of the two following scenarios may occur:
-• Either CONTRACTOR will have to carry-out the brownfield integration work with OTHER
-CONTRACTORs,
-• or CONTRACTOR will have to carry-out the Brownfield integration work directly with COMPANY under
-the brownfield scope of WORK.
-In any case, the WORK shall be executed in compliance with the CONTRACT and integration/battery limit is
-defined in EXHIBIT E Appendix E2
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 99 of 116
+CONTRACTOR shall take into account that the WORK under this WORK PACKAGE might be executed under
+SIMOPS and/or COMOPS.
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 105 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4917,12 +5012,12 @@ Existing platforms included in this scope are:
 1. BJ Platform including bridge [BH-BJ Bridge]
 2. BH (RP) Platform (configuration scope of existing ICSS & Telecom system)
 This Work Package is divided into the following Work Unit :
-WU 9.1 Engineering
-WU 9.2 Procurement and Supply
-WU 9.3 Onshore Construction and Testing
-WU 9.4 Transportation to SITE and Installation at SITE
-WU 9.5 SITE Construction WORK
-WU 9.6 SITE Commissioning
+WU 9.1 Integration Works Engineering
+WU 9.2 Integration Works Procurement and Supply
+WU 9.3 Integration Works Onshore Construction and Testing
+WU 9.4 Integration Works Transportation to SITE and Installation at SITE
+WU 9.5 Integration Works SITE Construction WORK
+WU 9.6 Integration Works SITE Commissioning
 15.1 Work Unit 9.1 – Engineering
 This Work Unit consist of the following Sub Work Units:
 SWU 9.1.1 Engineering Site Survey for all locations
@@ -4932,19 +5027,19 @@ SWU 9.1.4 Onshore Construction Engineering for all locations
 SWU 9.1.5 Hook-up and integration Works Engineering for all locations
 SWU 9.1.6 Pre-Commissioning Engineering for all locations
 SWU 9.1.7 Commissioning Engineering for all locations
-15.1.1 Sub Work Unit 9.1.1 – Engineering Site Survey for all locations
+15.1.1 Sub Work Unit 9.1.1 – Engineering Site Survey
 CONTRACTOR shall refer to Work unit 3.1 for Scope of WORK
-15.1.2 Sub Work Unit 9.1.2 – Detail Engineering for all locations
+15.1.2 Sub Work Unit 9.1.2 – Detail Engineering
 CONTRACTOR shall refer to Work Unit 3.2 for Scope of WORK
 SWU 9.1.2.1 Detailed Engineering WORK in BH Platform
 SWU 9.1.2.2 Detailed Engineering WORK in BJ Platform
-15.1.3 Sub Work Unit 9.1.3 – Procurement Engineering for all locations
+15.1.3 Sub Work Unit 9.1.3 – Procurement Engineering
 CONTRACTOR shall refer to Work Unit 3.4 for Scope of WORK.
-15.1.4 Sub Work Unit 9.1.4 – Onshore Construction Engineering for all locations
+15.1.4 Sub Work Unit 9.1.4 – Onshore Construction Engineering
 CONTRACTOR shall refer to Work Unit 3.5 for Scope of WORK.
-15.1.5 Sub Work Unit 9.1.5 – Hook-up and Integration Works Engineering for all locations
+15.1.5 Sub Work Unit 9.1.5 – Hook-up and Integration Works Engineering
 CONTRACTOR shall refer to Work Unit 3.6 for Scope of WORK.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 100 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 106 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -4952,9 +5047,9 @@ AL SHAHEEN OIL FIELD – QATAR
 NEW LIVING QUARTER (NLQ) PROJECT
 (EPCIC 10)
 EXHIBIT A Contract No.: 4600000XXX
-15.1.6 Sub Work Unit 9.1.6 – Pre-Commissioning Engineering for all locations
+15.1.6 Sub Work Unit 9.1.6 – Pre-Commissioning Engineering
 CONTRACTOR shall refer to Work Unit 3.7 for Scope of WORK.
-15.1.7 Sub Work Unit 9.1.7 – Commissioning Engineering for all locations
+15.1.7 Sub Work Unit 9.1.7 – Commissioning Engineering
 CONTRACTOR shall refer to Work Unit 3.8 for Scope of WORK.
 15.2 Work Unit 9.2 – Procurement and Supply
 This Work Unit consist of the following Sub Work Unit:
@@ -4976,7 +5071,7 @@ CONTRACTOR shall refer to Work Unit 4.1 for Scope of WORK.
 SSWU 9.2.1.1 Procurement and Subcontract Activities for all locations
 SSWU 9.2.1.2 Procurement and Subcontract Activities for BH Platform
 SSWU 9.2.1.3 Procurement and Subcontract Activities for BJ Platform
-15.2.2 Sub Work Unit 9.2.2 – Supply of CONTRACTOR ITEMS for all locations
+15.2.2 Sub Work Unit 9.2.2 – Supply of CONTRACTOR ITEMS
 In addition to Scope of WORK as detailed in Work Unit 4.2, CONTRACTOR shall manage and establish
 coordination with the ICSS vendor of existing host platforms (i.e. Siemens and ABB).
 15.2.3 Sub Work Unit 9.2.3 – Supply of CONSTRUCTION EQUIPMENT for all locations
@@ -4988,7 +5083,7 @@ commissioning, Commissioning, Start-up for all locations
 CONTRACTOR shall refer to Work Unit 4.5 for Scope of WORK.
 15.2.6 Sub Work Unit 9.2.6 – Supply of Capital Spare Parts - NOT APPLICABLE
 NOT APPLICABLE
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 101 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 107 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -5034,7 +5129,7 @@ vii. Preparation and issue of related as-built drawings.
 CONTRACTOR shall perform all re-works needed in case pre-fabricated items do not fit on SITE.
 CONTRACTOR shall allow sufficient time ahead of the milestone for the fabrication and testing of integration
 items.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 102 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 108 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -5059,7 +5154,9 @@ Work Unit 9.4 is further subdivided into following Sub and Sub Sub Work Units:
 | SWU 9.4.4  |                                         | Logistic / Transportation Work for all locations  |     |     |
 | SWU 9.4.5  |                                         | As-Built/As-Installed Survey for all locations    |     |     |
 | 15.5       | Work Unit 9.5 – SITE Construction WORK  |                                                   |     |     |
-SITE Construction WORK includes all construction and testing activities defined in Work Package 7.
+SITE Construction WORK includes all construction and testing activities defined in Work Package 7. As
+per base case, COMPANY will support the WORK under this section as defined in Work Package 7 with regards
+to OAV and TMV.
 Work Unit 9.5 is subdivided into the following Sub Work Units:
   Mobilisation,  Demobilisation  and  Transportation  of  CONSTRUCTION
 SWU 9.5.1
@@ -5073,9 +5170,11 @@ tags shall be affected through Technical Queries and shall be APPROVED by COMPAN
 into the documentation.
 When planning Integration works, CONTRACTOR shall allow for sufficient time for the activities to include stand-
 by time due to POB and Field Operations constraints.
+COMPANY shall isolate and de-inventory the existing PLANT facilities and PLANT equipment as part of the WORK
+before hand-over to CONTRACTOR.
 CONTRACTOR is reminded that for existing platform, CONTRACTOR shall take a lead, manage and perform close
-coordination to produce clear split of roles and responsibilities with existing facilities ICSS vendor (ABB and
-SIEMENS). This is to ensure smooth execution of the scope.
+coordination to produce clear split of roles and responsibilities with existing facilities ICSS vendor (ABB,
+YOKOGAWA and SIEMENS). This is to ensure smooth execution of the scope.
 | 15.6  | Work Unit 9.6 – SITE Commissioning  |     |     |     |
 | ----- | ----------------------------------- | --- | --- | --- |
 SITE Commissioning WORK includes all construction and testing activities defined in Work Package 8
@@ -5088,13 +5187,19 @@ SWU 9.6.3  Transfer of Operation and Maintenance Dossier for all locations
 | ---------- | ---------------------------------------------- | --- | --- | --- |
 15.6.1  Sub Work Unit 9.6.1 – Offshore Mobilisation and Demobilisation of Commissioning
 Equipment for all locations
-CONTRACTOR shall refer to Sub Work Unit 8.2 for the Scope of WORK.
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A  Page 103 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC  Page 109 of 125
 |     |     |     | COMPANY Initials      |     |
 | --- | --- | --- | --------------------- | --- |
 |     |     |     | CONTRACTOR Initials   |     |
+
+AL SHAHEEN OIL FIELD – QATAR
+NEW LIVING QUARTER (NLQ) PROJECT
+(EPCIC 10)
+EXHIBIT A Contract No.: 4600000XXX
+CONTRACTOR shall refer to Sub Work Unit 8.2 for the Scope of WORK.
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 110 of 125
+COMPANY Initials
+CONTRACTOR Initials
 
 AL SHAHEEN OIL FIELD – QATAR
 NEW LIVING QUARTER (NLQ) PROJECT
@@ -5121,7 +5226,7 @@ Work Package 10 is subdivided into the following Sub work Package and Work Units
 WU 10.1 Assistance to Start-Up
 WU 10.2 Assistance to PERFORMANCE TESTS
 WU 10.3 Supply of Training for COMPANY’s PERSONNEL
-During the performance of this WORK, CONTRACTOR shall be responsible for transfer of CONTRACTOR or
+During the performance of this WORK, COMPANY shall be responsible for transfer of CONTRACTOR or
 SUBCONTRACTOR PERSONNEL between onshore and SITE.
 16.2 Work Unit 10.1 – Assistance to Start-up
 All operations and maintenance will be executed by COMPANY.
@@ -5141,7 +5246,7 @@ CONTRACTOR, after issuance of TOM Certificates, shall provide assistance for all
 for START-UP of the PLANT by COMPANY.
 PLANT start-up will be performed by COMPANY Field Operations team, jointly with the assistance of the
 CONTRACTOR Commissioning Team.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 104 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 111 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -5190,7 +5295,7 @@ be agreed by COMPANY at least six (6) months prior to commencement of VENDORS an
 training delivery.
 CONTRACTOR shall develop a Training Program and carry-out the training courses that are described in
 Appendix A8 of EXHIBIT A.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 105 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 112 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -5248,7 +5353,7 @@ b. Operating Manual.
 c. Maintenance Manual.
 d. HSE documentation.
 e. Project Close Out Report.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 106 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 113 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -5296,7 +5401,7 @@ achieved, etc.
 • Company levels 1 and 2 planning showing planned vs actual achieved, as built dates
 from pre-project start to ramp-up (refer “Company typical project level 1 schedule”
 attached). Any major variances or milestone adjustments to be explained.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 107 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 114 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -5350,7 +5455,7 @@ with split by Currency ).
 1.11 Risk Management
 Evolution of the Forecasts (cost and schedule) during the project life
 1.12 Lessons Learnt
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 108 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 115 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -5402,7 +5507,7 @@ lost)
 • Environmental plan implemented, philosophy behind adoption
 • Influencing factors and concerns
 • Issues faced and solutions brought
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 109 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 116 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -5452,7 +5557,7 @@ Give assessment of CONTRACTOR(s) performance and his competence in organising,
 coordinating and completing the work. Also provide commentary on his resources i.e.
 manpower availability, yard facilities, CONSTRUCTION EQUIPMENT and SITE facilities,
 comparison of expected manhours vs actual.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 110 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 117 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -5478,7 +5583,7 @@ Format and contents as per 2.1 Major Work Split/Contract A.
 Photographs of work in progress and at completion (these may be distributed throughout the
 document within the other sections if appropriate).
 Any Project publications/brochures/literature.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 111 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 118 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -5496,19 +5601,27 @@ and information.
 The Work Packages related to the NLQ at A-Location will be similar to the above Work Packages 1 to 11 and
 subdivided into the same Work-Units and Sub-Work Units.
 A-Location New Living Quarter
-18.2 WORK UNIT 12.2 – OPTION 2: Logistics and Transportation for SITE Construction WORK
-and COMISSIONING
+18.2 WORK UNIT 12.2 – OPTION 2: Logistics and Transportation between Port in Qatar and
+SITE
 This OPTION will be exercised at COMPANY’s sole discretion. CONTRACTOR shall refer to EXHIBIT C - WORK TIME
 SCHEDULE regarding the notification date.
-CONTRACTOR shall, for the SITE Construction WORK as per the scope defined in Work Packages 7 and 8 :
+CONTRACTOR shall:
 - carry out all activities related to the mobilisation and demobilisation of the optimal number of TMV
 (including assistance vessel(s), including supply boats, tugboats and crew transfer vessels) for all
 offshore campaign at SITE location (required to meet the project schedule).
 - Be in charge of the construction waste management.
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 119 of 125
+COMPANY Initials
+CONTRACTOR Initials
+
+AL SHAHEEN OIL FIELD – QATAR
+NEW LIVING QUARTER (NLQ) PROJECT
+(EPCIC 10)
+EXHIBIT A Contract No.: 4600000XXX
 - Facilitate PERSONNEL crew change, on an established schedule, between Port in Qatar and SITE.
 - Facilitate the transportation of COMPANY’s materials and equipment related to WORK between Port
 in Qatar and SITE.
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 112 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 120 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -5520,11 +5633,13 @@ EXHIBIT A
 Contract No.: 4600000XXX
 
 -  Supply fuel for CONTRACTOR Temporary equipment located on Platform topside.
+-  Facilitate  transportation  of  PERSONNEL  required  for  Site  Survey  from  Port  in  Qatar  to  SITE:
+CONTRACTOR shall comply and issue necessary trainings, passes as required by COMPANY to allow
+CONTRACTOR personnel to travel offshore by air or sea.
 -  Carry-out all transfer of PERSONNEL to, from and at SITE in compliance with COMPANY Standard
 SD-NOC-MAR-202.
--  submit for APPROVAL a PERSONNEL Transfer Plan using heave compensated gangway (subject to
-COMPANY APPROVAL) shall be the preferred option from vessel/crew boat to MARINE SPREAD and
-vice versa when transiting through the existing facility.
+-  Submit for APPROVAL a PERSONNEL Transfer Plan (subject to COMPANY APPROVAL)in compliance with
+COMPANY SPECIFICATIONS.
 -  Be in charge of intra-field transfers using CONTRACTOR’s vessels for the performance and duration of
 the WORK.
 -  Prior to demobilization the TMV, ensure that SITE is restored to its previous status. This includes but
@@ -5539,24 +5654,26 @@ viii.  Removal of any debris or pieces of material/equipment caused by CONTRACTO
 | 1  Contract owner & budget owner for TMV  |       |          | Y           |     |
 | 2  Supply bulk (fuel, water…) to TMV      |       |          | Y           |     |
 3  Facilitate berthing and stevedoring at Port in Qatar    Y
-
-| 4  Supply catering services to OAV  |     | Y   |     |     |
+| 4  Supply catering services to OAV  |     |     | Y   |     |
 | ----------------------------------- | --- | --- | --- | --- |
 5  Define TMV schedule per week / month between Port and SITE    Y
-6  Instruction to collect backload cargoes and/or passengers from port    Y
+6  Instructions to collect backload cargoes and/or passengers from port    Y
 Instruction to deliver their cargoes and/or drop passengers to port in  Y
 | 7   |     |     |     |     |
 | --- | --- | --- | --- | --- |
 Qatar
-| 8  Establish a logistics base in Qatar  |     |     | Y   |     |
-| --------------------------------------- | --- | --- | --- | --- |
-9  Provide CCU’s for the transportation of materials and equipment    Y
+| 8   |     |     | Y   |     |
+| --- | --- | --- | --- | --- |
+Establish a logistics base in Qatar
+| 9   |     |     | Y   |     |
+| --- | --- | --- | --- | --- |
+Provide CCU’s for the transportation of materials and equipment
 10  Tag, pack and secure the materials into these CCU’s    Y
 11  Comply with NOC lifting standards and packing procedures for CCU’s    Y
 12  Provide the transport for all CCU’s to and from Port in Qatar    Y
 13  Comply with all QatarEnergy RLC transport procedures    Y
-| 14  Provide delivery note for all cargoes  |     |     | Y   |     |
-| ------------------------------------------ | --- | --- | --- | --- |
+| 14  Provide delivery notes for all cargoes  |     |     | Y   |     |
+| ------------------------------------------- | --- | --- | --- | --- |
 15  Unpack and dispatch material and/or equipment at SITE    Y
 | 16  Notify to COMPANY any backload requirements  |     |     | Y   |     |
 | ------------------------------------------------ | --- | --- | --- | --- |
@@ -5573,7 +5690,7 @@ SWU 12.2.2  Logistics and Transportation of PERSONNEL from/to Port in Qatar to S
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A  Page 113 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC  Page 121 of 125
 |     |     | COMPANY Initials      |     |     |
 | --- | --- | --------------------- | --- | --- |
 |     |     | CONTRACTOR Initials   |     |     |
@@ -5592,33 +5709,31 @@ Exhibit C.
 The OAV and working facility shall be connected to existing host platform at B Location or new platform of the
 PLANT by a gangway to minimise PERSONNEL travelling time and provide additional means of evacuation in
 case of emergency.
-The OAV and working facility shall allow CONTRACTOR to perform safely and efficiently any adjustments or
-reworks on Integration Items, prior to their installation at SITE.
-The workshop located on the OAV and working facility shall be suitable, as a minimum, for Structural and Piping
-works (cutting, profiling and welding), NDT works (including pressure testing), painting works, mechanical and
-E&I works.
+COMPANY recommends the OAV and working facility allow CONTRACTOR to perform safely and efficiently any
+adjustments or reworks on Integration Items, prior to their installation at SITE.
 In addition to the requirements set forth herein, the minimum requirements for the OAV are as follows:
 i. Vessel/ Barge shall comply with IMO and be classified by ABS, LRS, DNV or BV.
 ii. Vessel/ Barge shall have “Accommodation” notation from its Classification Society.
 iii. Vessel/ Barge manning shall comply with IMO ISM code and IMO-STCW95.
-iv. Equipped with a crane of 100 metric tons minimum capacity.
-v. Crane certified man-riding for personnel basket transfer.
-vi. Barge/ vessel to be equipped with minimum 1 no. Surfer landing in compliance with SD-NOC-
-MAR-202 and SD-NOC-STR-901 for personnel transfer.
-vii. In addition to FRC required by IMO, vessel/ barge shall be equipped with a Work Boat and
-24hour crew suitable for WORKSITE and SITE man-overboard-watch duties.
-viii. Equipped with min. 1 no. Swing Rope Boat Landing.
-ix. Helideck designed to accommodate a helicopter type AW 139 and AW 189 and certified
-accordingly. The helideck and operating procedures shall meet COMPANY’s GROUP and
-COMPANY operator requirements.
-x. Provision of 24hours coverage for key marine bridge and deck personnel on the
-accommodation barge.
-xi. Provision of PERSONNEL transfer gangway with deployment and control system from
-platform side, height adjustable.
+iv. Vessel/ Barge shall be equipped with H2S detection and alarm system, EEBAs and Breathing
+Air Cascade system in compliance with SD-NOC-HIH-006.
+v. If the watercraft is equipped with at least one crane, it shall be certified man-riding for
+personnel basket transfer.
+vi. If watercraft is floating type (excluding jack-up barge), it shall be equipped with minimum 1
+no. Surfer landing in compliance with SD-NOC-MAR-202 and SD-NOC-STR-901 for personnel
+transfer.
+vii. A watercraft only equipped with a life boat acting as rescue boat shall not be accepted unless
+CONTRACTOR do not foresee any overboard activities falling under work at height
+SPECIFICATION, which will require a FRC or rescue boat manned accordingly
+viii. If helideck is providing, helideck shall be designed to accommodate a helicopter type AW 139
+and AW 189 and certified accordingly. The helideck and operating procedures shall meet
+COMPANY’s GROUP and COMPANY operator requirements.
+ix. Provision of any PERSONNEL deemed required by COMPANY to supervise personnel transfer
+and/or landing of gangway on both watercraft side and platform side.
 Work Unit 12.3 is subdivided into the following Sub Work Units:
 SWU 12.3.1 SITE Survey
 SWU 12.3.2 Mobilisation and Demobilisation
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 114 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 122 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -5657,7 +5772,10 @@ The OPTION price shall consider all requirements of Work Package 1 to work Packa
 Sub Work Unit 12.3.2 is subdivided into the following Sub Sub Work Units:
 SSWU 12.3.2.1 Offshore Accommodation Vessel
 SSWU 12.3.2.2 Other Necessary Assistance Vessel
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 115 of 116
+18.4 WORK UNIT 12.4 – OPTION 4: Helicopter refuelling and fuel storage system
+18.4.1 Helifuel Storage package
+The Helifuel Storage Package shall consist of, but not be restricted to, the following main items of equipment:
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 123 of 125
 COMPANY Initials
 CONTRACTOR Initials
 
@@ -5665,6 +5783,50 @@ AL SHAHEEN OIL FIELD – QATAR
 NEW LIVING QUARTER (NLQ) PROJECT
 (EPCIC 10)
 EXHIBIT A Contract No.: 4600000XXX
+• Transfer pump: 2 x 100%
+• Skid base sized 2 x 100 % for 2 portable fuel tanks c/w lifting attachments and bumpers (1 tank capacity:
+2900 litres)
+• Interconnecting pipework, isolation valves, tank connection hoses, supports etc.
+• Control panel to be provided as well as Instrument/electrical cable, cable tray, etc.
+• Deluge pipework including deluge nozzles and frangible detectors
+Accessibility: The station should be designed for easy access.
+Safety Features: CONTRACTOR to integrate any additional safety measures required under this configuration (if
+any).
+18.4.2 Helifuel Dispenser Package
+The Helifuel Dispenser Package shall consist of, but not be restricted to, the following main items of equipment:
+• Filter water separator
+• Flowmeter
+• Hose reel, hose and fuelling nozzle
+• Bonding reel and automatic bonding system
+• Control panel (An amber coloured lamp shall be provided on the unit which shall flash when the pump
+is running).
+• A GRP (Minimum) enclosure c/w lifting attachments and smooth operating roller shutter cover
+incorporating any test kits and suitable tundish drain connections.
+• Interconnecting pipework, isolation valves, supports etc.
+• Instrument/electrical cable, cable tray etc.
+The supplier shall also provide 5 off 2900 Litres capacity portable fuel pods which are to be suitable for offshore
+crane lift, self-bunded as necessary and provided with quick lock couplings.
+Suitable flexible hoses for connection on the storage skid to the transfer pump are also to be provided.
+CONTRACTOR shall ensure that any possible impact induced by the Helifuel system are identified and integrated
+in CONTRACTOR design and option.
+18.5 WORK UNIT 12.5 – OPTION 5: Drinkable water from Potable Water
+CONTRACTOR shall comply with NLQ01-MPEN-ASBII-00-390001, rev00, NLQ FSS section 18.2.
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 124 of 125
+COMPANY Initials
+CONTRACTOR Initials
+
+AL SHAHEEN OIL FIELD – QATAR
+NEW LIVING QUARTER (NLQ) PROJECT
+(EPCIC 10)
+EXHIBIT A Contract No.: 4600000XXX
+CONTRACTOR to assess best solution:
+• A - Portable Water Maker: Steps of water purification such as Reverse Osmosis, UV light
+sterilization treatment and mineral addition are conducted at the terminal dispensers equipped
+with specialized carbon cartridges. Several dispensers to be properly located by CONTRACTOR to
+cover drinkable water need.
+• B - Piping & Tap System: Steps of entire water purification process involving sediment removal,
+filtration, disinfection and mineralization is completed before water is distributed through water
+network to the PLANT. (via drinkable water network + tap system)
 19 Appendices
 Appendix A1: Detailed Engineering
 Appendix A2: Minimum CONTRACTOR Document Requirement Schedule
@@ -5677,6 +5839,6 @@ Appendix A8: Minimum Training Requirements
 Appendix A9: Pre-commissioning and Commissioning Requirements
 Appendix A10: Interface Management - NOT APPLICABLE
 Appendix A11: Digital Asset Requirements
-EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev A Page 116 of 116
+EXHIBIT A – SCOPE OF WORK, Call for Tender, Rev BC Page 125 of 125
 COMPANY Initials
 CONTRACTOR Initials
