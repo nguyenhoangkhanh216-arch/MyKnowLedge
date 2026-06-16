@@ -3,8 +3,8 @@ title: "Chemical Injection System Design"
 type: concept
 tags: [work, science]
 created: 2026-06-03
-updated: 2026-06-10
-sources: 9
+updated: 2026-06-16
+sources: 10
 ---
 
 ## Summary
@@ -86,11 +86,18 @@ Offshore wellhead platforms inject multiple chemicals into produced fluids to pr
 - [[KMDD MEC-006 Chemical Injection Package Status]] — procurement status; vendor landscape for methanol pump
 - [[Flow Assurance Offshore Pipeline]] — flow assurance context: hydrates, wax, corrosion all part of FA scope
 
-### IRCD Power Supply constraint (Jun-2026):
-- IRCD (Injection Rate Control Device) on chemical injection skids requires 24VDC, 80W/unit
-- With 6 units per platform, total 24VDC load = 480W — may exceed platform 24VDC system capacity
-- PTSC querying bidder (PVDT, Jun 3): can IRCDs run on VAC power instead? Is internal AC/DC PSU needed?
-- If only 24VDC is feasible, platform power distribution design may need revision
+### IRCD design evolution (KMDD Jun-2026):
+
+**Power supply (resolved 04-Jun):**
+- IRCD initially specified as remote, 24VDC, 80W/unit; 6 units per platform = 480W total — exceeded platform 24VDC system capacity
+- Resolved 04-Jun MOM-005: IRCD changed to **manual type** (eliminates 24VDC demand)
+
+**Fail-safe philosophy conflict (open 15-Jun):**
+- DKE TBC#2 Rev.D: IRCD = **fail-closed** (valve closes on power loss → injection stops)
+- PVDT TBC#2 Rev.C: IRCD = **fail-last-position** (valve holds last position on power loss → injection continues at last rate)
+- For **continuous injection** chemicals (CI, PPD, SI): fail-last-position is more appropriate — fail-closed interrupts injection during power events, creating corrosion/scale/wax risk
+- For **batch injection** (methanol during start-up): fail-closed is more acceptable
+- Resolution: Hoàng (PTSC) tasked Khoa (Corrosion/Chemical) to clarify correct philosophy and issue question to both DKE and PVDT — pending as of 15-Jun-2026
 
 ### Nitrogen system PCV design (new items 04-Jun-2026):
 - **PCV set pressure in Nitrogen Bottle Racks (item 2.22):** PMC proposed revised upstream pressure for sizing PCVs in Nitrogen Supply Headers — awaiting CPY approval
@@ -108,3 +115,4 @@ Offshore wellhead platforms inject multiple chemicals into produced fluids to pr
 - [[KMDD MEC-006 BCM2 Results 08Jun26]] — combined CIS+MeOH skid decision; Triplex pump confirmed; 12-Jun-2026 deadline
 - [[KMDD MEC-006 BCM PVDT 09Jun26]] — BCM with PVDT 09-Jun: in-line config confirmed; motor adapter action; electrical load list sent
 - [[KMDD TBC Snapshot 10Jun26]] — TBC#3 Rev.C issued to all 3 bidders (PVDT, FHE, VHI); deadline 12-Jun; Methanol Pump Skid width constraint (max 1200mm) introduced
+- [[KMDD MEC-006 IRCD Fail-Safe Dispute 15Jun26]] — DKE fail-closed vs PVDT fail-last-position; conflict with continuous injection requirement; pending resolution 15-Jun-2026

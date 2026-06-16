@@ -3,17 +3,17 @@ title: "KMDD-INS-002 Pressure Relief Valves"
 type: entity
 tags: [work]
 created: 2026-06-13
-updated: 2026-06-15
-sources: 5
+updated: 2026-06-16
+sources: 6
 ---
 
 ## Summary
 
-KMDD-INS-002 is the Pressure Relief Valve (PRV/PSV) package for KM-WHP and DD-WHP. CA Category B. Five bidders active in TBC as of Jun 2026. Scope expanded Jun 3 to include 4 additional HIPPS leakage PSV tags. TBC#2 Rev.C issued to all 5 bidders on 12-Jun-26; responses due COB 15-Jun-26. Open technical flag: An Phu's Italian foundry raised a ferrite spec dispute (45-55% requirement contradicts low-temp toughness).
+KMDD-INS-002 is the Pressure Relief Valve (PRV/PSV) package for KM-WHP and DD-WHP. CA Category B. Five bidders active in TBC as of Jun 2026. Scope expanded Jun 3 to include 4 additional HIPPS leakage PSV tags. TBC#2 Rev.C issued to all 5 bidders on 12-Jun-26; all 5 responded by COB 15-Jun-26. Open technical flag: An Phu's Italian foundry (Technical Srl) continues to dispute the 45-55% ferrite requirement — argues ~40-42% ferrite is metallurgically appropriate for low-temp toughness per NORSOK-M-630.
 
 ## Current Status
 
-TBC#2 Rev.C responses due **COB 15-Jun-2026** from all 5 bidders. As of 14-Jun EOD, no responses yet received. Ferrite spec dispute (An Phu / Technical Srl) remains open | 2026-06-15
+✅ TBC#2 Rev.C responses received from all 5 bidders by COB 15-Jun-2026: Thanh An (12:34), TTE (15:16), An Phu (20:19) confirmed; KLE + ATA also responded. Thanh An confirmed IN17-Rev C (lifting lugs cert) and Q14-Rev C (gasket EN 10204 Type 3.1). TTE submitted Sizing Sheet + Tag List. An Phu ferrite spec dispute (Italian foundry Technical Srl) remains open — PTSC must respond with DTS update or formal clarification | 2026-06-16
 
 ## Timeline
 
@@ -27,6 +27,7 @@ TBC#2 Rev.C responses due **COB 15-Jun-2026** from all 5 bidders. As of 14-Jun E
 - 2026-06-10 — TTE responded TBC#2 + cost impact
 - 2026-06-11 — An Phu (Italian foundry Technical Srl) raised ferrite spec dispute: 45-55% unusual, contradicts low-temp toughness (40-42% ferrite needed for toughness)
 - 2026-06-12 — TBC#2 Rev.C issued to all 5 bidders 07:21-07:24; updated Process DTS + supporting docs; deadline COB 15-Jun-26
+- 2026-06-15 — ✅ All 5 bidders responded TBC#2 Rev.C by COB: Thanh An (12:34, confirmed IN17+Q14), TTE (15:16, Sizing Sheet + Tag List), An Phu (20:19, Calc Sheet R5 + Data Sheet R5 + NORSOK-M-630 material data). Ferrite dispute still open.
 
 ## Vendors
 
@@ -34,13 +35,13 @@ TBC#2 Rev.C responses due **COB 15-Jun-2026** from all 5 bidders. As of 14-Jun E
 - **An Phu Technologies** — sub-supplier: Italian foundry Technical Srl (Lam Van Vu PM); ferrite spec dispute open; deadline COB 15-Jun
 - **KLE (Khanh Linh Co.)** — active; responded TBC#2 Rev.B 08-Jun; TBC#2 Rev.C deadline COB 15-Jun
 - **TTE (Toan Thang / Nguyen Huu Tien)** — responded TBC#2 + cost impact 10-Jun; TBC#2 Rev.C deadline COB 15-Jun
-- **Thanh An + TAD Power** — responded TBC#2 Rev.B 09-Jun; waiting factory data on gasket + lifting lugs (TBC#1 Rev.C open items); deadline COB 15-Jun
+- **Thanh An + TAD Power** (GE & Baker Hughes distributor) — responded TBC#2 Rev.B 09-Jun; TBC#2 Rev.C submitted 15-Jun 12:34; confirmed IN17-Rev C (lifting lugs cert) and Q14-Rev C (gasket EN 10204 Type 3.1) — prior outstanding items now closed
 
 ## Open Items
 
-- [ ] COB 15-Jun-26 — TBC#2 Rev.C responses from all 5 bidders (KLE, TTE, Thanh An, An Phu, ATA)
-- [ ] Open — An Phu ferrite spec dispute: 45-55% vs standard 35-55%; Italian foundry requests Customer clarification; PTSC to respond via updated DTS or formal clarification
-- [ ] Open — Thanh An TBC#1 Rev.C: gasket + lifting lugs items — awaiting factory data
+- [x] COB 15-Jun-26 — TBC#2 Rev.C responses received from all 5 bidders (KLE, TTE, Thanh An, An Phu, ATA)
+- [x] Thanh An TBC#1 Rev.C: lifting lugs cert (IN17) confirmed; gasket EN 10204 Type 3.1 (Q14) confirmed — 15-Jun
+- [ ] Open — An Phu ferrite spec dispute: Italian foundry (Technical Srl) challenges 45-55% spec; standard 35-55%; ~40-42% argued for low-temp toughness (NORSOK-M-630); PTSC must respond with DTS update or formal COMPANY clarification
 
 ## Key Technical Facts
 
@@ -64,3 +65,4 @@ TBC#2 Rev.C responses due **COB 15-Jun-2026** from all 5 bidders. As of 14-Jun E
 - [[KMDD TBC Snapshot 09Jun26]] — TTE responded TBC#2; INS-002 active (2026-06-10)
 - [[KMDD INS-002 PRV TBC2 Rev.C Wave 12Jun26]] — TBC#2 Rev.C to all 5 bidders; ferrite spec dispute (2026-06-13)
 - [[KMDD TBC Snapshot 14Jun26]] — 14-Jun EOD: deadline COB 15-Jun still pending; no responses received on 14-Jun (2026-06-15)
+- [[KMDD INS-002 PRV TBC2 RevC Responses 15Jun26]] — all 5 bidders responded by COB 15-Jun; An Phu ferrite dispute ongoing; Thanh An TBC#1 Rev.C items confirmed (2026-06-16)

@@ -3,8 +3,8 @@ title: "Technical Bid Clarification Process"
 type: concept
 tags: [work]
 created: 2026-06-04
-updated: 2026-06-09
-sources: 11
+updated: 2026-06-16
+sources: 12
 ---
 
 ## Summary
@@ -100,3 +100,4 @@ PTSC engineering disciplines (mechanical, instrument, piping, E&I, process) must
 - [[KMDD TBC Status Jun 4]] — 04-Jun morning snapshot; 7 stale, 14 active; INS-002 TBC#2 due 15:45 same day; MEC-002 at 17 rounds
 - [[KMDD MEC-001 TBC Rev A2 AECC and Jun 4 MEC Actions]] — AECC responded TBC Rev.A2; feedback due Jun 5
 - [[KMDD ELE-008 E&I Miscellaneous Earthing TBC Status]] — 5 bidders, TBC#2 Rev.B; SECONS missing instrument MTO; TAKA cooperative; 30+ emails
+- [[KMDD TBC Snapshot 15Jun26]] — morning 15-Jun: 16 stale / 6 active; INS-002 COB deadline met by all 5 bidders; MEC-006 IRCD fail-safe conflict open

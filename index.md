@@ -1,9 +1,18 @@
 # Wiki Index
-_Last updated: 2026-06-15 | Sources: 103 | Wiki pages: 131_
+_Last updated: 2026-06-16 | Sources: 112 | Wiki pages: 142_
 
 ---
 
 ## Sources
+- [KMDD TBC Snapshot 15Jun26](wiki/sources/KMDD%20TBC%20Snapshot%2015Jun26.md) — 15-Jun morning: 16 stale / 6 active; INS-002 COB deadline met by all 5 bidders; IRCD fail-safe dispute open | 2026-06-16
+- [KMDD Well Slot Swap DD-WHP Jun26](wiki/sources/KMDD%20Well%20Slot%20Swap%20DD-WHP%20Jun26.md) — DD-WHP D3→D1 (CPY initiated 20-May); KM-WHP D2/D3 conductor tags swapped; all disciplines update design + MTO | 2026-06-16
+- [KMDD INS-002 PRV TBC2 RevC Responses 15Jun26](wiki/sources/KMDD%20INS-002%20PRV%20TBC2%20RevC%20Responses%2015Jun26.md) — all 5 bidders responded by COB 15-Jun; Thanh An confirmed IN17+Q14; An Phu ferrite dispute ongoing (NORSOK-M-630) | 2026-06-16
+- [KMDD 3rd Party Studies KOM Invitation 15Jun26](wiki/sources/KMDD%203rd%20Party%20Studies%20KOM%20Invitation%2015Jun26.md) — formal invitation 22-Jun 08:00–11:30; Room 1.07 PTSC M&C; SOG chairs; agenda covers HAZID/HAZOP/SIL/Bow-tie/ALARP/SIMOPS | 2026-06-16
+- [KMDD Master Equipment List IDC 15Jun26](wiki/sources/KMDD%20Master%20Equipment%20List%20IDC%2015Jun26.md) — KDP-KMA/DDA-03-LI-M-0001-D0 issued Code 2 for IDC; tags per KDP-OOO-00-PS-G-0003 Rev B2 | 2026-06-16
+- [KMDD Free Issue VDRL Submission 15Jun26](wiki/sources/KMDD%20Free%20Issue%20VDRL%20Submission%2015Jun26.md) — PTSC submitted VDRL for Crane/HIPPS/DEG free-issue packages to VSP; required dates per attachment | 2026-06-16
+- [KMDD WHCP ICSS EDMS Review Setup 15Jun26](wiki/sources/KMDD%20WHCP%20ICSS%20EDMS%20Review%20Setup%2015Jun26.md) — Nam forwarded package assignment matrix; VSP delivered P&ID/Hydraulic Calc/GA/Naviswork for both platforms | 2026-06-16
+- [KMDD MEC-006 IRCD Fail-Safe Dispute 15Jun26](wiki/sources/KMDD%20MEC-006%20IRCD%20Fail-Safe%20Dispute%2015Jun26.md) — DKE fail-closed vs PVDT fail-last-position; continuous injection conflict; Hoàng→Khoa for clarification | 2026-06-16
+- [KMDD Equipment Tagging Procedure Confirmed 15Jun26](wiki/sources/KMDD%20Equipment%20Tagging%20Procedure%20Confirmed%2015Jun26.md) — PVEP-KM confirmed "01"=KM-WHP, "02"=DD-WHP per KDP-OOO-00-PS-G-0003 Rev B2 | 2026-06-16
 - [KMDD TBC Snapshot 14Jun26](wiki/sources/KMDD%20TBC%20Snapshot%2014Jun26.md) — 14-Jun: 14 stale / 8 active; no movement all day; INS-002 deadline COB 15-Jun; POS MEC-006 expediting | 2026-06-15
 - [KMDD INS-009 Nhan Viet SGS PVT Sampling 14Jun26](wiki/sources/KMDD%20INS-009%20Nhan%20Viet%20SGS%20PVT%20Sampling%2014Jun26.md) — SGS confirmed DBB tracer injection OK; DBBV sampling no quill; 1" NPT fullbore ≥14mm top-mounted; PVT needed at 1st commissioning | 2026-06-15
 - [KMDD CuNi Firewater Stagnation Accepted 13Jun26](wiki/sources/KMDD%20CuNi%20Firewater%20Stagnation%20Accepted%2013Jun26.md) — ✅ CLOSED 12-Jun: PVEP-KM accepted CuNi re-routing; pipe stress to account for sagging added | 2026-06-14
@@ -120,8 +129,9 @@ _Last updated: 2026-06-15 | Sources: 103 | Wiki pages: 131_
 - [Flow Assurance Offshore Pipeline](wiki/concepts/Flow%20Assurance%20Offshore%20Pipeline.md) — hydrates, wax, corrosion, slugging; SS vs transient study; HYSYS/OLGA; KMDD: 11-19 mm/y uninhibited corrosion | 1 source
 - [Piping Layout Design Offshore](wiki/concepts/Piping%20Layout%20Design%20Offshore.md) — gravity line slope constraints at Pig trap area; resolution path for process-piping conflicts | 1 source
 - [HIPPS Overpressure Protection](wiki/concepts/HIPPS%20Overpressure%20Protection.md) — HIPPS vs PSV design philosophy; bleed-off line alternative; SIL requirements; KMDD: CPY agreed PSV removal in principle 04-Jun | 3 sources
-- [Chemical Injection System Design](wiki/concepts/Chemical%20Injection%20System%20Design.md) — PPD/SI/CI/Methanol: dosing rates VSP-accepted 08-Jun; V-Jet pigging; BCM PVDT 09-Jun; TBC#3 Rev.C all 3 bidders 10-Jun | 9 sources
-- [Technical Bid Clarification Process](wiki/concepts/Technical%20Bid%20Clarification%20Process.md) — TBC/TBE procurement workflow: rounds, forms, statuses, failure patterns; KMDD 21 packages Jun-2026 | 11 sources
+- [Chemical Injection System Design](wiki/concepts/Chemical%20Injection%20System%20Design.md) — PPD/SI/CI/Methanol: dosing rates VSP-accepted 08-Jun; IRCD fail-safe conflict (fail-closed vs fail-last) open 15-Jun | 10 sources
+- [Technical Bid Clarification Process](wiki/concepts/Technical%20Bid%20Clarification%20Process.md) — TBC/TBE procurement workflow: rounds, forms, statuses, failure patterns; KMDD 22 packages Jun-2026 | 12 sources
+- [Equipment Tagging and Numbering](wiki/concepts/Equipment%20Tagging%20and%20Numbering.md) — tag format conventions; multi-platform codes; KMDD uses "01"=KM-WHP, "02"=DD-WHP per KDP-OOO-00-PS-G-0003 Rev B2 | 1 source
 - [Cold Vent Design](wiki/concepts/Cold%20Vent%20Design.md) — Joule-Thomson cooling at vent boom; temperature monitoring (INS); structural access stairway (STR); LTCS material implications | 1 source
 - [Offshore Firewater System Design](wiki/concepts/Offshore%20Firewater%20System%20Design.md) — dry ring main, SIPROD supply hierarchy, rig tie-in; CuNi stagnation CLOSED 12-Jun; pipe stress sagging requirement | 4 sources
 - [Technical Query Process](wiki/concepts/Technical%20Query%20Process.md) — TQ workflow (Sub-CTR → CTR/CPY): form structure, numbering, full KMDD TQ register (11+ TQs), LDV-A TQ example | 5 sources
@@ -131,10 +141,10 @@ _Last updated: 2026-06-15 | Sources: 103 | Wiki pages: 131_
 ## Entities
 - [Obsidian](wiki/entities/Obsidian.md) — local-first markdown app; recommended IDE for the LLM Wiki (graph view, Web Clipper, Dataview) | 1 source
 - [Vannevar Bush Memex](wiki/entities/Vannevar%20Bush%20Memex.md) — 1945 vision of private associative knowledge trails; spiritual predecessor to LLM Wiki | 1 source
-- [KMDD Project](wiki/entities/KMDD%20Project.md) — KM-WHP & DD-WHP EPCI; 60% review 06-Jul; SOG KOM 22-Jun; CuNi CLOSED; subcontract open; DE completion 05-Nov-26 | 92 sources
-- [KMDD-INS-002 Pressure Relief Valves](wiki/entities/KMDD-INS-002%20Pressure%20Relief%20Valves.md) — 5 bidders; TBC#2 Rev.C to all 12-Jun; deadline COB 15-Jun; ferrite spec dispute (An Phu / Italian foundry) | 4 sources
+- [KMDD Project](wiki/entities/KMDD%20Project.md) — KM-WHP & DD-WHP EPCI; 60% review 06-Jul; SOG KOM 22-Jun; well slot swap confirmed; MEL IDC issued; tagging confirmed | 103 sources
+- [KMDD-INS-002 Pressure Relief Valves](wiki/entities/KMDD-INS-002%20Pressure%20Relief%20Valves.md) — 5 bidders; all responded TBC#2 Rev.C by COB 15-Jun; ferrite spec dispute (An Phu / Italian foundry) ongoing | 6 sources
 - [KMDD-MEC-004 EODD Pump and Centrifugal Pump](wiki/entities/KMDD-MEC-004%20EODD%20Pump%20and%20Centrifugal%20Pump.md) — 4 bidders; NTT excluded EODD pumps; TBC#01 Rev.C issued 11-Jun (deadline 13-Jun); TK models rejected by CPY | 4 sources
-- [KMDD-MEC-006 Chemical Injection Package](wiki/entities/KMDD-MEC-006%20Chemical%20Injection%20Package.md) — CI Package; 5 bidders; PVDT/DKE responses received 13-Jun; painting matrix re-review in progress | 7 sources
+- [KMDD-MEC-006 Chemical Injection Package](wiki/entities/KMDD-MEC-006%20Chemical%20Injection%20Package.md) — CI Package; 5 bidders; IRCD fail-safe conflict (DKE fail-closed vs PVDT fail-last); Khoa to clarify | 9 sources
 - [KMDD-INS-001 Actuated On-Off Valves and MOVs](wiki/entities/KMDD-INS-001%20Actuated%20On-Off%20Valves%20and%20MOVs.md) — MTO for Purchase issued 04-Jun via KDP-IMO-E-0057; pre-bidder stage | 1 source
 - [NDUM Project](wiki/entities/NDUM%20Project.md) — WHP & Pipeline EPCI for Nam Du-U Minh Field; JSE as COMPANY; PTSC M&C contractor; EDE phase (flexible riser + T&I) | 2 sources
 - [LDV-A Project](wiki/entities/LDV-A%20Project.md) — Block 15-1/05 Lac Da Vang; Murphy Oil as COMPANY; PTSC M&C C&C + T&I phase; CB9 confirmed, topside weighing complete, DEV awaiting MOC approval | 4 sources

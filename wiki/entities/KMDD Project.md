@@ -3,8 +3,8 @@ title: "KMDD Project"
 type: entity
 tags: [work]
 created: 2026-06-03
-updated: 2026-06-15
-sources: 94
+updated: 2026-06-16
+sources: 103
 ---
 
 ## Summary
@@ -78,6 +78,18 @@ KMDD is the KM-WHP (Khanh My Wellhead Platform) and DD-WHP (Dam Doi Wellhead Pla
 - **Grating clip (CONS):** Dương Hồng Thái confirmed FEED design is executable (13-Jun), though not optimal for construction. DE-CONS AFC drawing schedule discrepancy still exists (100+ drawings). [[KMDD Grating Clip CONS Confirmed 13Jun26]]
 - **DCC Transmittals (week of 13-Jun):** PMC→VSP: TRM-00247 through TRM-00255 (Process×1, Instrument×2, Structural×2, Mechanical×1, Telecom×1, Electrical×1, Civil×1). VSP→PMC: TRM-00131 return.
 - **Weekly Report No.10:** Hà Viết Nhân reminder sent 13-Jun — all discipline managers to submit by 10:00 AM Monday 15-Jun-2026.
+
+## Procurement Issues (as of 15-Jun-2026)
+
+- **TBC Snapshot (morning 15-Jun):** 22 packages — **16 stale / 6 active**. Active: INS-002 (COB deadline today), MEC-004, MEC-008, PIP-002, INS-009, MEC-006. Stale worst: INS-005 Fire & Gas (31d), ELE-003 Lighting (30d). [[KMDD TBC Snapshot 15Jun26]]
+- **[[KMDD-INS-002 Pressure Relief Valves]] — ✅ All 5 bidders responded TBC#2 Rev.C by COB 15-Jun:** Thanh An (12:34), TTE (15:16), An Phu (20:19). KLE + ATA also responded. Thanh An confirmed IN17-Rev C (lifting lugs cert) and Q14-Rev C (gasket EN 10204 Type 3.1). TTE submitted Sizing Sheet + Tag List. An Phu ferrite dispute (Italian foundry Technical Srl) still open — 45-55% vs ~40-42% per NORSOK-M-630 low-temp toughness argument. [[KMDD INS-002 PRV TBC2 RevC Responses 15Jun26]]
+- **[[KMDD-MEC-006 Chemical Injection Package]] — IRCD fail-safe conflict:** DKE TBC#2 Rev.D = fail-closed (valve closes on power loss); PVDT TBC#2 Rev.C = fail-last-position. Conflict with continuous injection requirement. Hoàng tasked Khoa to clarify and formulate question for both bidders. POS TBC extended to 16-Jun. [[KMDD MEC-006 IRCD Fail-Safe Dispute 15Jun26]]
+- **3rd Party Safety Studies KOM — formal invitation issued 15-Jun:** Cao Thành Nhật sent formal invitation for 22-Jun-2026, 08:00–11:30 AM, Room 1.07 PTSC M&C, SOG chairs. Agenda covers HAZID/HAZOP/SIL/Bow-tie/ALARP/SIMOPS. [[KMDD 3rd Party Studies KOM Invitation 15Jun26]]
+- **Master Equipment List (MEL) issued for IDC:** KDP-KMA-03-LI-M-0001-D0 (KM-WHP) and KDP-DDA-03-LI-M-0001-D0 (DD-WHP) issued Code 2 for Interdiscipline Check by Nguyễn Sử Trần Hoàng. Tags per KDP-OOO-00-PS-G-0003 Rev B2. [[KMDD Master Equipment List IDC 15Jun26]]
+- **Equipment tagging procedure confirmed by PVEP-KM:** Nguyen Minh Tuan (CPY) confirmed "01" = KM-WHP, "02" = DD-WHP per KDP-OOO-00-PS-G-0003 Rev B2. Two-digit platform code embedded in all tags (e.g., RLR-81-0101 vs RLR-81-0201). [[KMDD Equipment Tagging Procedure Confirmed 15Jun26]]
+- **VDRL for free-issue packages submitted to VSP:** Nguyen Dinh Manh (PTSC) submitted Vendor Data Required List for Crane, HIPPS, and DEG packages to Nguyen Khac Hung (VSP), including required submission dates. [[KMDD Free Issue VDRL Submission 15Jun26]]
+- **WHCP/ICSS EDMS review setup in progress:** Nam forwarded package assignment matrix 15-Jun; VSP previously provided P&ID, Hydraulic Calc, GA/3D Naviswork for both platforms. Internal review assignment underway. [[KMDD WHCP ICSS EDMS Review Setup 15Jun26]]
+- **Well slot swap — action directive confirmed:** RE: email thread on 15-Jun confirms DD-WHP D3→D1 relocation (CPY initiated 20-May) and KM-WHP conductor D2/D3 tag swap (KM-1P/2P ↔ KM-3P/4P; W-1010/1015 ↔ W-1020/1025). All disciplines to update design docs, 3D model, MTO. Change Order basis established. [[KMDD Well Slot Swap DD-WHP Jun26]]
 
 ## Procurement Issues (as of 14-Jun-2026)
 
@@ -159,7 +171,7 @@ KMDD is the KM-WHP (Khanh My Wellhead Platform) and DD-WHP (Dam Doi Wellhead Pla
 
 - **Topside Weight Shedding — OFFICIALLY ACTIONED:** Nguyễn Văn Tây directed all teams to implement weight shedding in design and procurement (10-Jun). Scope: (1) cut cantilever deck (Platform West ~31.8MT) as separate offshore lift; (2) install vent boom offshore; (3) relocate solar panels/equipment to East + install offshore; (4) shift all Main Deck MEC items to East for LO/T&I COG shift; (5) add 30MT counterweight at East. Previously study-only; now official design change.
 - **30% Jacket 3D Model Review (NIPI):** NIPI submitted 30% 3D model for jacket structures. Joint review meeting **11 Jun 2026, 08:00** at NIPI office (Room 203, Building A11, 105 Lê Lợi, Vung Tau). STR/Tín/EMT in person; others online. PVEP-KM confirmed attendance.
-- **60% Model Review KOM:** Preparation meeting held 09:00 AM 13-Jun (Room 3.16). **Workshop target: 06-Jul-2026.** See [[KMDD 60% Model Review Preparation 13Jun26]].
+- **60% Model Review KOM:** Preparation meeting held 09:00 AM 13-Jun (Room 3.16). **Workshop target: 06-Jul-2026.** See [[KMDD 60% Model Review Workshop Jul6]].
 - **FEED Verification:** All disciplines to work with CPY counterparts on action items; EMT to consolidate and raise Change — deadline **13-Jun** (Nguyễn Dinh Manh).
 - **CI Change Order Impact:** All disciplines submit updated design docs + manhour/procurement impact to Mạnh — due **20-Jun-2026**.
 - **Order Precedences:** Nguyen Dinh Manh checking with CPY — due **11-Jun-2026**.

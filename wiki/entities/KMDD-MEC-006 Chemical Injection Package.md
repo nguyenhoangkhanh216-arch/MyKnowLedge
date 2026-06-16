@@ -3,17 +3,17 @@ title: "KMDD-MEC-006 Chemical Injection Package"
 type: entity
 tags: [work]
 created: 2026-06-12
-updated: 2026-06-15
-sources: 8
+updated: 2026-06-16
+sources: 9
 ---
 
 ## Summary
 
-KMDD-MEC-006 is the Chemical Injection Package (CI skid + methanol pump skid) for KM-WHP and DD-WHP. CA Category B. Critical package: covers corrosion inhibitor, PPD, scale inhibitor, and methanol injection systems. Five bidders at varying TBC stages as of Jun-2026. BCM#2 sessions confirmed in-line integrated CI+MeOH configuration feasible (POS, DKE). IRCD power issue resolved (manual type). Key open: VHI TBC#2 Rev.C response due 13-Jun-26.
+KMDD-MEC-006 is the Chemical Injection Package (CI skid + methanol pump skid) for KM-WHP and DD-WHP. CA Category B. Critical package: covers corrosion inhibitor, PPD, scale inhibitor, and methanol injection systems. Five bidders at varying TBC stages as of Jun-2026. BCM#2 sessions confirmed in-line integrated CI+MeOH configuration feasible (POS, DKE). IRCD type changed from remote to manual (04-Jun). New open issue: IRCD fail-safe philosophy conflict — DKE (fail-closed) vs PVDT (fail-last-position), under internal review as of 15-Jun.
 
 ## Current Status
 
-POS still not responded to TBC#2 Rev.B (due 01-Jun — 13d overdue as of 14-Jun); Bùi Lê Lương formally expediting as of 14-Jun 11:19 AM. Painting matrix re-review ongoing. POS extension to 16-Jun confirmed | 2026-06-15
+IRCD fail-safe philosophy conflict identified 15-Jun: DKE TBC#2 Rev.D = fail-closed; PVDT TBC#2 Rev.C = fail-last-position. Hoàng tasked Khoa to clarify correct philosophy and formulate question for both bidders. POS TBC responses extended to 16-Jun. Painting matrix re-review ongoing | 2026-06-16
 
 ## Timeline
 
@@ -27,6 +27,7 @@ POS still not responded to TBC#2 Rev.B (due 01-Jun — 13d overdue as of 14-Jun)
 - 2026-06-12 — PVDT/FHE TBC#3 Rev.C responses expected due today
 - 2026-06-12 — PVDT TBC#3 Rev.C responded: combined CI+MeOH skid confirmed feasible; CI pump rated power 0.25 kW; motor power dispute open (PVDT proposes 0.09/0.18 kW DC vs Milton Roy datasheet); IRCD standby power to be clarified; GAD of combined skid to be provided by 13-Jun. POS requested extension to Mon 16-Jun. DKE no response by 12-Jun.
 - 2026-06-13 — PVDT TBC#2 Rev.C response received; DKE TBC response received and PTSC review sent; painting matrix sent for re-review against KDP-OOO-03-SP-P-0004 D0 (Corrosion team: Lê Đình Khoa)
+- 2026-06-15 — IRCD fail-safe philosophy conflict identified: DKE TBC#2 Rev.D = fail-closed (valve closes on power loss); PVDT TBC#2 Rev.C = fail-last-position; conflicts with continuous injection requirement. Hoàng → Khoa: clarify correct philosophy and formulate TBC question for both bidders.
 
 ## Vendors
 
@@ -47,6 +48,7 @@ POS still not responded to TBC#2 Rev.B (due 01-Jun — 13d overdue as of 14-Jun)
 - [ ] Ongoing — Painting matrix re-review by Corrosion team (Lê Đình Khoa) against KDP-OOO-03-SP-P-0004 D0
 - [ ] Ongoing — PVDT methanol pump skid width: proposed 1300mm, max 1200mm — awaiting resolution (lifting lug modification or detachable lugs post-installation)
 - [ ] Ongoing — PVDT motor coupling adapter — open post-BCM#2
+- [ ] Open — IRCD fail-safe philosophy: DKE=fail-closed vs PVDT=fail-last-position; Khoa to clarify and issue TBC question to both bidders (raised 15-Jun)
 
 ## Key Technical Facts
 
@@ -68,6 +70,7 @@ POS still not responded to TBC#2 Rev.B (due 01-Jun — 13d overdue as of 14-Jun)
 - [[KMDD MEC-006 BCM2 Results 08Jun26]] — BCM#2 results (POS, DKE)
 - [[KMDD MEC-006 BCM PVDT 09Jun26]] — BCM with PVDT 09-Jun
 - [[KMDD Chemical Dosing Rate Finalization]] — dosing rates accepted by VSP 08-Jun
+- [[KMDD MEC-006 IRCD Fail-Safe Dispute 15Jun26]] — fail-safe philosophy conflict (DKE vs PVDT); open for clarification 15-Jun
 
 ## Source References
 
@@ -80,3 +83,4 @@ POS still not responded to TBC#2 Rev.B (due 01-Jun — 13d overdue as of 14-Jun)
 - [[KMDD MEC006 Painting Matrix Review 13Jun26]] — painting matrix re-review requested 13-Jun against spec KDP-OOO-03-SP-P-0004 D0
 - [[KMDD MEC-006 TBC3 Bidder Response 12Jun26]] — PVDT TBC#3 Rev.C confirmed combined skid; CI pump 0.25 kW; motor power dispute; POS extended to 16-Jun
 - [[KMDD TBC Snapshot 14Jun26]] — 14-Jun: POS TBC#2 Rev.B still outstanding (13d overdue); Lương expediting (2026-06-15)
+- [[KMDD MEC-006 IRCD Fail-Safe Dispute 15Jun26]] — DKE fail-closed vs PVDT fail-last-position; Hoàng → Khoa for clarification (2026-06-16)
