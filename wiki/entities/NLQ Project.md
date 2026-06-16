@@ -4,7 +4,7 @@ type: entity
 tags: [work]
 created: 2026-06-16
 updated: 2026-06-16
-sources: 1
+sources: 3
 ---
 
 ## Summary
