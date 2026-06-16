@@ -1,5 +1,5 @@
 # Wiki Index
-_Last updated: 2026-06-16 | Sources: 136 | Wiki pages: 179_
+_Last updated: 2026-06-16 | Sources: 142 | Wiki pages: 185_
 
 ---
 
@@ -140,6 +140,12 @@ _Last updated: 2026-06-16 | Sources: 136 | Wiki pages: 179_
 - [LDV-A TI Weekly MOM-062 10Jun26](wiki/sources/LDV-A%20TI%20Weekly%20MOM-062%2010Jun26.md) — MOM #62 10-Jun; CB9 confirmed replacing CB3; topside weighing completed; flare boom COG >1m discrepancy; offshore campaign < 1 month away | 2026-06-11
 - [LDV-B Bidding Benchmark Preparation](wiki/sources/LDV-B%20Bidding%20Benchmark%20Preparation.md) — EOI Jan-2026; benchmark vs LDV-A; topside 0.8×KLWB; legal EPCIC eligibility risk | 2026-06-11
 - [LDV-B Contract Award and Procurement Plan Jun 2026](wiki/sources/LDV-B%20Contract%20Award%20and%20Procurement%20Plan%20Jun%202026.md) — LDVB-DE group created 09-Jun; PP 10-Jun with ROS dates; DE start being evaluated | 2026-06-11
+- [NLQ - Exhibit H QA QC Main](wiki/sources/NLQ%20-%20Exhibit%20H%20QA%20QC%20Main.md) — Exhibit H Rev A (30 pages); ISO 9001 QMS; PQP 30/60-day deadlines; 90% NCR 60-day KPI; 95% punch at Sail Away; CRA dedicated workshop; PMI 100%; NCR 5-day response; 61-item Quality Dossier | 2026-06-16
+- [NLQ - Exhibit H App H1 Certification](wiki/sources/NLQ%20-%20Exhibit%20H%20App%20H1%20Certification.md) — App H1 Rev A (7 pages); CA/BC/RG conformity assessment levels; safety/lifting equipment CA all phases; Qatar Decree Law No. 4 of 1977; 4 CA certificates required | 2026-06-16
+- [NLQ - Exhibit H App H2 Equipment Certification](wiki/sources/NLQ%20-%20Exhibit%20H%20App%20H2%20Equipment%20Certification.md) — App H2 Rev A (11 pages); Type A–E certification matrix per EN 10204; CRA/sour/First Category = Type A; fire-safe valve API 6FA/607; crane re-NDT after proof load; elevator ISO 8383 | 2026-06-16
+- [NLQ - Exhibit H App H3 Inspection Levels](wiki/sources/NLQ%20-%20Exhibit%20H%20App%20H3%20Inspection%20Levels.md) — App H3 Rev A (9 pages); Level I (full stage) to Level IV (document only); Criticality 1=Level I resident inspector; 15-item equipment inspection allocation table | 2026-06-16
+- [NLQ - Exhibit H App H4 Criticality Rating](wiki/sources/NLQ%20-%20Exhibit%20H%20App%20H4%20Criticality%20Rating.md) — App H4 Rev A (14 pages); 4-rating matrix (1=Highly Critical); ICSS/GTG/EDG = Rating 1; HVAC/switchgear/PSVs/PA system = Rating 2; 200+ equipment items rated | 2026-06-16
+- [NLQ - Exhibit H App H5 Interface Handover](wiki/sources/NLQ%20-%20Exhibit%20H%20App%20H5%20Interface%20Handover.md) — App H5 Rev A (15 pages); Cat A (tagged equipment) vs Cat B (bulk); Dispatch Dossier SAP QC Codes; IRN prerequisite; ED+2 months preliminary list; 2-week FAT invitation notice | 2026-06-16
 
 ## Concepts
 - [LLM Wiki Pattern](wiki/concepts/LLM%20Wiki%20Pattern.md) — three-layer architecture (raw/wiki/schema) with ingest, query, and lint operations | 1 source
@@ -164,7 +170,7 @@ _Last updated: 2026-06-16 | Sources: 136 | Wiki pages: 179_
 - [NLQ Performance Guarantees](wiki/concepts/NLQ%20Performance%20Guarantees.md) — Exhibit D framework: 13-system test programme, HVAC/ICSS/Telecom/electrical/mechanical acceptance criteria, PAC gate, 25-year plant life guarantee | 1 source
 - [NLQ Commercial and Tender Requirements](wiki/concepts/NLQ%20Commercial%20and%20Tender%20Requirements.md) — tender timeline, bid bond (USD 500K), submission packaging rules, evaluation criteria, exceptions templates for NLQ EPCIC 10 ITT | 1 source
 - [NLQ HSE Requirements](wiki/concepts/NLQ%20HSE%20Requirements.md) — HSE Package C submission: 12 categories questionnaire (Att. 12), ISO 45001/14001, HAZID, emergency response, MEDEVAC, Stop Work Authority; WP2 EPCIC execution obligations | 2 sources
-- [NLQ Quality Requirements](wiki/concepts/NLQ%20Quality%20Requirements.md) — QA/QC Package B §12: ISO 9001 certificate, Quality Manual, preliminary Quality Plan per SD-NOC-PJC-501, construction KPI evidence | 1 source
+- [NLQ Quality Requirements](wiki/concepts/NLQ%20Quality%20Requirements.md) — QA/QC Package B §12 + Exhibit H full framework: ISO 9001 QMS, PQP 30/60-day deadlines, 90% NCR KPI, 95% Sail Away punch, CRA dedicated workshop, PMI 100%, NCR 5-day response, criticality ratings 1–4, CA certification matrix, interface handover | 7 sources
 - [NLQ Project Management Requirements](wiki/concepts/NLQ%20Project%20Management%20Requirements.md) — organisation chart, CCM (3 parts), KOM within 2 weeks, weekly Thursday cut-off, Jerome Morin as COMPANY REP, Primavera P6 v19, Deltek Acumen Fuse PSRA, 6×6 risk matrix, COI/COR 7-day response | 9 sources
 - [NLQ Procurement Requirements](wiki/concepts/NLQ%20Procurement%20Requirements.md) — WP4: procurement plan, MTO, TBE, VDRL, vendor KOM, inspection, expediting, capital spares | 1 source
 - [NLQ Construction and Installation Requirements](wiki/concepts/NLQ%20Construction%20and%20Installation%20Requirements.md) — WP5/WP6/WP7: fabrication, OPERCOM pre-commissioning, MARINE SPREAD/SIMOPS requirements, T&I engineering, MWS approvals | 1 source
