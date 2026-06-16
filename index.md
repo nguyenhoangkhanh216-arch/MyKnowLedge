@@ -1,10 +1,13 @@
 # Wiki Index
-_Last updated: 2026-06-16 | Sources: 125 | Wiki pages: 167_
+_Last updated: 2026-06-16 | Sources: 128 | Wiki pages: 170_
 
 ---
 
 ## Sources
-- [NLQ - Exhibit A Scope of Work](wiki/sources/NLQ%20-%20Exhibit%20A%20Scope%20of%20Work.md) — Exhibit A Rev A; 12 Work Packages; full EPCIC scope; 25-year design life; 1 NLQ topside + 1 substructure + 1 bridge (BI-BJ); OPERCOM/ICAPS mandatory | 2026-06-16
+- [NLQ - Exhibit A Scope of Work](wiki/sources/NLQ%20-%20Exhibit%20A%20Scope%20of%20Work.md) — Exhibit A Rev C (updated from Rev A); 12 Work Packages + 5 Options; SIMOPS dossier by COMPANY (6 months prior); new §4.10 Marine Classification; new Option 4 Helifuel; new Option 5 Drinkable Water | 2026-06-16
+- [NLQ - Exhibit E App E1 Technical Documents](wiki/sources/NLQ%20-%20Exhibit%20E%20App%20E1%20Technical%20Documents.md) — App E1 Rev C; 4 TBE documents (NLQ FSS, Safety Concept, A-Location FSS, A-Location Safety Concept); CFT Clarification and Exception registers to be attached prior to EPC award | 2026-06-16
+- [NLQ - Exhibit E App E2 Brownfield Integration](wiki/sources/NLQ%20-%20Exhibit%20E%20App%20E2%20Brownfield%20Integration.md) — App E2 Rev C; B- and A-Location as-builts on iView; CONTRACTOR full scope BH/BJ from ED to CC; two execution scenarios; Attachment 1 doc CPPR1-MDM5-ASBJA-05-273123-0002_rev.04 | 2026-06-16
+- [NLQ - Exhibit E App E4 Additional Technical Documents](wiki/sources/NLQ%20-%20Exhibit%20E%20App%20E4%20Additional%20Technical%20Documents.md) — App E4 Rev B; NTBE rely-upon docs for B- and A-Location; field layout charts, geodetic data, geophysical/geotechnical reports, ENVID, HAZAN, Safety Concepts | 2026-06-16
 - [NLQ - Exhibit A App A1 Detailed Engineering](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A1%20Detailed%20Engineering.md) — Appendix A1 Rev B; 34 pages; 12 engineering disciplines; AVEVA mandatory backbone; approved software table (ETAP, CAESAR 2, PIPENET, PHAST, ICAPS, etc.) | 2026-06-16
 - [NLQ - ITT](wiki/sources/NLQ%20-%20ITT.md) — Instructions to Tenderer for NLQ EPCIC 10 (CFT ref. 10210491); NOC Qatar; 200-bed LQ at B-Location; USD 500K Bid Bond; Technical Close 30-Apr-26; Commercial Close 30-Jun-26 | 2026-06-16
 - [NLQ - Exhibit A App A2 Minimum Contractor Document Requirement Schedule](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A2%20Minimum%20Contractor%20Document%20Requirement%20Schedule.md) — App A2 Rev B; 12 discipline areas; Class 1/2/3 document classification; MDR, PMP, PEP, OPERCOM/ICAPS forms all Class 1 | 2026-06-16
