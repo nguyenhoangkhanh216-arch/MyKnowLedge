@@ -4,7 +4,7 @@ type: concept
 tags: [work, science]
 created: 2026-06-16
 updated: 2026-06-16
-sources: 1
+sources: 2
 ---
 
 ## Summary
@@ -51,6 +51,12 @@ This page captures all Electrical Engineering requirements for the NLQ EPCIC 10 
 - [[NLQ Structural Engineering Requirements]] — electrical equipment support design and MCT layout coordinated with structural (§2.7)
 - [[NLQ Software and Tools Requirements]] — ETAP, AVEVA Electrical, PALADIN/EMTP-RV are mandated electrical software (§3)
 
+### Performance Guarantees (from Exhibit D)
+- Lighting: lux measurement per specification in normal offshore conditions; 1-month performance test — Exhibit D, §4.2.2
+- UPS and Battery: 100% load test onshore with load bank (active and reactive power); operation test offshore; 24 h onshore / 1 month offshore — Exhibit D, §4.2.2
+- Emergency Diesel Generator (EDG): 12-hour site run test per CONTRACTOR DOCUMENTS — Exhibit D, §4.2.2
+
 ## Source References
 
 - [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.8 Electrical section is the governing source for all items on this page
+- [[sources/NLQ - Exhibit D Performance Guarantees]] — Table 4-1: Lighting, UPS/Battery, EDG performance test acceptance criteria and durations

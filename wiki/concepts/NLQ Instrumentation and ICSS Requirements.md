@@ -4,7 +4,7 @@ type: concept
 tags: [work, science]
 created: 2026-06-16
 updated: 2026-06-16
-sources: 1
+sources: 2
 ---
 
 ## Summary
@@ -54,6 +54,11 @@ This page captures all Instrumentation, ICSS, Functional Safety, and Telecommuni
 - CONTRACTOR shall consider subcontracting Telecom Engineering Scope to a Telecom System Integrator — Exhibit A App A1, §2.9
 - CONTRACTOR shall develop Fibre Optic Allocation Drawings, Telecom Cabinet General Arrangement Drawings, Ex Register (RFID) Schedule, Telecom Cable Tray Fill Calculation Report — Exhibit A App A1, §2.9
 
+### Performance Guarantees (from Exhibit D)
+- ICSS must demonstrate 99.9% availability with no major fault for 1 month; major fault defined as failure of controller CPU/PSU/I/O cards, HIS station/network card, or Ethernet switch — Exhibit D, §4.2.2
+- Telecom systems (PA/GA, WIFI network, other telecom devices) must achieve 99.99% availability with no major fault for 1 month — Exhibit D, §4.2.2
+- Fire & Gas detectors: no faulty F&G detection by any gas or fire detector installed; 1-month performance test — Exhibit D, §4.2.2
+
 ## Connections
 
 - [[NLQ Safety Engineering Requirements]] — SIL assignment, HAZOP, and SIS life cycle management jointly managed with safety engineering (§2.2)
@@ -65,3 +70,4 @@ This page captures all Instrumentation, ICSS, Functional Safety, and Telecommuni
 ## Source References
 
 - [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.9 Instrumentation, ICSS, Functional Safety and Telecommunication section is the governing source for all items on this page
+- [[sources/NLQ - Exhibit D Performance Guarantees]] — Table 4-1: ICSS 99.9%, Telecom 99.99%, F&G detector availability performance tests

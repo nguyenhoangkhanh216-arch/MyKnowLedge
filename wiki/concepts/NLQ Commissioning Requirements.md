@@ -4,7 +4,7 @@ type: concept
 tags: [work]
 created: 2026-06-16
 updated: 2026-06-16
-sources: 2
+sources: 3
 ---
 
 ## Summary
@@ -49,6 +49,13 @@ This page captures the pre-commissioning and commissioning requirements for the 
 - Commissioning spare parts and special tools shall be handed over to COMPANY prior to TOMC signature — Exhibit A App A9, §7.2
 - Governing standards: SD-NOC-EC-600, SD-NOC-EC-601, SD-NOC-EC-602, SD-NOC-EC-603 — Exhibit A App A9, §3
 
+### Performance Guarantees (from Exhibit D)
+- PERFORMANCE TESTS are additional to all FATs, SATs, pre-commissioning, commissioning tests, and OTPs; all must complete before PROVISIONAL ACCEPTANCE CERTIFICATE (PAC) — Exhibit D, §2 and §4.1.x
+- PERFORMANCE TEST procedures prepared by CONTRACTOR and APPROVED by COMPANY at least 1 month prior to commissioning start — Exhibit D, §4.1.i
+- COMPANY ensures test throughput within 24 weeks after TOM approval; if system fails test, test restarts from beginning — Exhibit D, §4.1.iv and §4.1.vi
+- CONTRACTOR issues performance test results report within 30 days of receiving analytical data — Exhibit D, §4.2.7
+- Turndown test: 48 hours continuous stable operation at turndown conditions per contract product specifications — Exhibit D, §4.2.4
+
 ## Connections
 
 - [[NLQ Project Management Requirements]] — commissioning planning, ICAPS database, and WTS are managed under WP1 project controls
@@ -60,3 +67,4 @@ This page captures the pre-commissioning and commissioning requirements for the 
 
 - [[sources/NLQ - Exhibit A Scope of Work]] — WP8, WU3.7, WU3.8, and WP10 define all commissioning obligations
 - [[sources/NLQ - Exhibit A App A9 Pre-commissioning and Commissioning Requirements]] — detailed specification: OPERCOM/ICAPS implementation, Ex equipment inspection, punch list categories, TCC, TOM dossier, N2-He leak test, governing standards
+- [[sources/NLQ - Exhibit D Performance Guarantees]] — performance test programme additional to commissioning tests; PAC gate; restart rule; 30-day report obligation

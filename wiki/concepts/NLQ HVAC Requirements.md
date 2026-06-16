@@ -4,7 +4,7 @@ type: concept
 tags: [work, science]
 created: 2026-06-16
 updated: 2026-06-16
-sources: 1
+sources: 2
 ---
 
 ## Summary
@@ -24,6 +24,10 @@ This page captures all HVAC Engineering requirements for the NLQ EPCIC 10 projec
 - 3D model of HVAC system shall include all HVAC equipment and supports, ducting, duct supports, duct in-line equipment, chilled water and refrigerant piping and supports, all HVAC instruments, electrical and instrument cable trays and supports — Exhibit A App A1, §2.5
 - HVAC design deliverable shall comprise all information suitable for operation, maintenance, and troubleshooting — Exhibit A App A1, §2.5
 
+### Performance Guarantee (from Exhibit D)
+- HVAC system must prove cooling capacity, humidity, airflow rate, room pressurisation, and temperature per CONTRACTOR DOCUMENTS — Exhibit D, §4.2.2
+- HVAC performance test duration is 1 month total: 20 days in summer and 10 days in winter, in offshore conditions — Exhibit D, §4.2.2
+
 ## Connections
 
 - [[NLQ Architectural Requirements]] — HVAC design is governed by NLQ room programme and architectural drawings (§2.11)
@@ -34,4 +38,5 @@ This page captures all HVAC Engineering requirements for the NLQ EPCIC 10 projec
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.5 HVAC section is the governing source for all items on this page
+- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.5 HVAC section is the governing source for design requirements
+- [[sources/NLQ - Exhibit D Performance Guarantees]] — Table 4-1 Item 4: HVAC 1-month performance test acceptance criteria

@@ -4,7 +4,7 @@ type: concept
 tags: [work, science]
 created: 2026-06-16
 updated: 2026-06-16
-sources: 1
+sources: 2
 ---
 
 ## Summary
@@ -49,6 +49,15 @@ This page captures all Mechanical Engineering requirements for the NLQ EPCIC 10 
 - [[NLQ Corrosion Management Requirements]] — material selection interfaces with corrosion management philosophy (§2.10)
 - [[NLQ Software and Tools Requirements]] — PVElite/COMPRESS for vessel design; HTRI for heat exchangers are mandated mechanical software
 
+### Performance Guarantees (from Exhibit D)
+- Air Compressor & Dryer: pressure and dew point per datasheet in offshore conditions; noise, vibration, bearing temperatures, oil consumption per spec; 1-week test — Exhibit D, §4.2.2
+- Crane: 133% SWL load tested onshore; re-tested at 100% SWL after transit; certificate required — Exhibit D, §4.2.2
+- NAVAIDS: per CONTRACTOR DOCUMENTS; 1-week test — Exhibit D, §4.2.2
+- Potable Water System: per CONTRACTOR DOCUMENTS; 1-week test — Exhibit D, §4.2.2
+- Sewage Treatment System: per CONTRACTOR DOCUMENTS; 1-week test — Exhibit D, §4.2.2
+- Fire Water Pump: per CONTRACTOR DOCUMENTS; 12-hour site run test — Exhibit D, §4.2.2
+
 ## Source References
 
 - [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.4 Mechanical section is the governing source for all items on this page
+- [[sources/NLQ - Exhibit D Performance Guarantees]] — Table 4-1: air compressor, crane, NAVAIDS, potable water, sewage, firewater pump performance tests
