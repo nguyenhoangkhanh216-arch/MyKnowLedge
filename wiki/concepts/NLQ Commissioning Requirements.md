@@ -4,7 +4,7 @@ type: concept
 tags: [work]
 created: 2026-06-16
 updated: 2026-06-16
-sources: 1
+sources: 2
 ---
 
 ## Summary
@@ -30,6 +30,25 @@ This page captures the pre-commissioning and commissioning requirements for the 
 - CONTRACTOR shall perform Pre-Start-up Safety Review (PSSR) — Exhibit A, §14.6
 - Commissioning organisation structured per OPERCOM methodology with segregation between Construction/Pre-commissioning teams and Commissioning teams — Exhibit A App A1, §2.1 / ITT, §8.2.3.10
 
+### Detailed Requirements from Appendix A9
+
+- OPERCOM® methodology is mandatory; CONTRACTOR shall select an APPROVED SUBCONTRACTOR to develop all Pre-commissioning/Commissioning Procedures, ICAPS database, and Operational Test Procedures — Exhibit A App A9, §3.1
+- ICAPS© software is mandatory for all pre-commissioning and commissioning activities; COMPANY shall have full access at all stages; daily backup on all worksites — Exhibit A App A9, §3.1 & §3.3
+- Commissioning Manager (Key Personnel) shall be mobilised at ED+2 months; must not have participated in Engineering, Construction, or Pre-commissioning operations — Exhibit A App A9, §3.1
+- Pre-commissioning activities shall be planned at least 3 months before execution start; commissioning procedures issued at least 3 months before commissioning execution — Exhibit A App A9, §4.1 & §5.1
+- 100% initial detailed inspection of Ex equipment using COMPANY APPROVED Ex Inspectors prior to RFC issuance; COMPANY APPROVED Third Party Inspector witnesses at least 30% of each Ex equipment type — Exhibit A App A9, §4.2
+- Critical Valve Leak Test: systematic low-pressure passing test on critical valves; tested in closed position both directions at 5 barg N2 — Exhibit A App A9, §4.2
+- N2-He leak test on all SUB-SYSTEMS with hydrocarbon lines: performed onshore AND repeated offshore after hook-up — Exhibit A App A9, §5
+- Punch list categories: A (cleared before RFC); B (cleared before AOC); C (cleared before Completion Certificate); COMPANY approves all category ratings — Exhibit A App A9, §5.2.5
+- CONTRACTOR-Authorised Fluids: Corrosion Inhibitor, Demulsifier, Biocide, Antifoam, Hypochlorite, Nitrogen Bottle Rack, Diesel, Inergen — Exhibit A App A9, §5.1
+- COMPANY-Only Fluids: Purge Gas, Gas Lift, Water Injection, Crude Oil, HP Flare, Wet Gas, High Voltage Electrical Network — Exhibit A App A9, §5.1
+- Functional Tests: carried out on each and every loop; random checks NOT allowed — Exhibit A App A9, §5.2.2
+- Operational Tests: each SUB-SYSTEM subject to at least one OT; COMPANY witnesses with minimum 3 days advance notice — Exhibit A App A9, §5.2.3
+- Transfer of Care and Custody (TCC): PTW management switches from CONTRACTOR to COMPANY at predefined stage; also transfers LOTO Management, Instrument Inhibits/Overrides, Mechanical Isolation Management — Exhibit A App A9, §6
+- CONTRACTOR responsible for operation, care, and maintenance of started-up systems until TOM; must demonstrate facilities are in brand new condition prior to handover — Exhibit A App A9, §7.1
+- Commissioning spare parts and special tools shall be handed over to COMPANY prior to TOMC signature — Exhibit A App A9, §7.2
+- Governing standards: SD-NOC-EC-600, SD-NOC-EC-601, SD-NOC-EC-602, SD-NOC-EC-603 — Exhibit A App A9, §3
+
 ## Connections
 
 - [[NLQ Project Management Requirements]] — commissioning planning, ICAPS database, and WTS are managed under WP1 project controls
@@ -40,3 +59,4 @@ This page captures the pre-commissioning and commissioning requirements for the 
 ## Source References
 
 - [[sources/NLQ - Exhibit A Scope of Work]] — WP8, WU3.7, WU3.8, and WP10 define all commissioning obligations
+- [[sources/NLQ - Exhibit A App A9 Pre-commissioning and Commissioning Requirements]] — detailed specification: OPERCOM/ICAPS implementation, Ex equipment inspection, punch list categories, TCC, TOM dossier, N2-He leak test, governing standards

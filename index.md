@@ -1,5 +1,5 @@
 # Wiki Index
-_Last updated: 2026-06-16 | Sources: 115 | Wiki pages: 163_
+_Last updated: 2026-06-16 | Sources: 125 | Wiki pages: 167_
 
 ---
 
@@ -7,6 +7,16 @@ _Last updated: 2026-06-16 | Sources: 115 | Wiki pages: 163_
 - [NLQ - Exhibit A Scope of Work](wiki/sources/NLQ%20-%20Exhibit%20A%20Scope%20of%20Work.md) — Exhibit A Rev A; 12 Work Packages; full EPCIC scope; 25-year design life; 1 NLQ topside + 1 substructure + 1 bridge (BI-BJ); OPERCOM/ICAPS mandatory | 2026-06-16
 - [NLQ - Exhibit A App A1 Detailed Engineering](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A1%20Detailed%20Engineering.md) — Appendix A1 Rev B; 34 pages; 12 engineering disciplines; AVEVA mandatory backbone; approved software table (ETAP, CAESAR 2, PIPENET, PHAST, ICAPS, etc.) | 2026-06-16
 - [NLQ - ITT](wiki/sources/NLQ%20-%20ITT.md) — Instructions to Tenderer for NLQ EPCIC 10 (CFT ref. 10210491); NOC Qatar; 200-bed LQ at B-Location; USD 500K Bid Bond; Technical Close 30-Apr-26; Commercial Close 30-Jun-26 | 2026-06-16
+- [NLQ - Exhibit A App A2 Minimum Contractor Document Requirement Schedule](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A2%20Minimum%20Contractor%20Document%20Requirement%20Schedule.md) — App A2 Rev B; 12 discipline areas; Class 1/2/3 document classification; MDR, PMP, PEP, OPERCOM/ICAPS forms all Class 1 | 2026-06-16
+- [NLQ - Exhibit A App A3 Project Review](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A3%20Project%20Review.md) — App A3 Rev A; PR3 at 60% engineering; PR4 at 80% construction; 15-person review team for 10 days per review; findings database mandatory | 2026-06-16
+- [NLQ - Exhibit A App A4 Regulatory Compliance](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A4%20Regulatory%20Compliance.md) — App A4 Rev A; Regulatory Compliance Plan (RCP) Class 1; full Qatari permit and law identification; monthly compliance reports | 2026-06-16
+- [NLQ - Exhibit A App A5 Lifting Appliances Documentation](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A5%20Lifting%20Appliances%20Documentation.md) — App A5 Rev A; 18 mandatory crane documentation items; 10 mandatory winch documentation items; submitted before first COMPANY lifting specialist inspection | 2026-06-16
+- [NLQ - Exhibit A App A6 Lifting Operations](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A6%20Lifting%20Operations.md) — App A6 Rev A; 26-question criticality matrix; CPLO designation; 6-month/12-month inspection intervals; personnel basket rules; gap analysis mandatory | 2026-06-16
+- [NLQ - Exhibit A App A7 Services and Facilities to Company](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A7%20Services%20and%20Facilities%20to%20Company.md) — App A7 Rev B; 6 office types; Cisco FPR-1120 firewall; 100 Mbps primary internet; USD 100/month phone credit; Work Unit 1.5 costs | 2026-06-16
+- [NLQ - Exhibit A App A8 Minimum Training Requirements](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A8%20Minimum%20Training%20Requirements.md) — App A8 Rev B; 12 mandatory offshore training sessions; all with vendor attendance; max 10 trainees/session; plan due 6 months post award | 2026-06-16
+- [NLQ - Exhibit A App A9 Pre-commissioning and Commissioning Requirements](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A9%20Pre-commissioning%20and%20Commissioning%20Requirements.md) — App A9 Rev A; OPERCOM/ICAPS mandatory; N2-He leak test onshore+offshore; punch list A/B/C categories; TCC and TOM dossiers | 2026-06-16
+- [NLQ - Exhibit A App A10 Interface Management](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A10%20Interface%20Management.md) — App A10 Rev A; Interface Leader designation; kick-off within 1 month; weekly coordination meetings; all comms channelled through COMPANY | 2026-06-16
+- [NLQ - Exhibit A App A11 Digital Project Requirements](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A11%20Digital%20Project%20Requirements.md) — App A11 Rev B; AVEVA-only platform; MTR weekly; CFIHOS standard; 1D/2D/3D reviews at 30/60/90%; CONTRACTOR Data Manager required | 2026-06-16
 - [KMDD TBC Snapshot 15Jun26](wiki/sources/KMDD%20TBC%20Snapshot%2015Jun26.md) — 15-Jun morning: 16 stale / 6 active; INS-002 COB deadline met by all 5 bidders; IRCD fail-safe dispute open | 2026-06-16
 - [KMDD Well Slot Swap DD-WHP Jun26](wiki/sources/KMDD%20Well%20Slot%20Swap%20DD-WHP%20Jun26.md) — DD-WHP D3→D1 (CPY initiated 20-May); KM-WHP D2/D3 conductor tags swapped; all disciplines update design + MTO | 2026-06-16
 - [KMDD INS-002 PRV TBC2 RevC Responses 15Jun26](wiki/sources/KMDD%20INS-002%20PRV%20TBC2%20RevC%20Responses%2015Jun26.md) — all 5 bidders responded by COB 15-Jun; Thanh An confirmed IN17+Q14; An Phu ferrite dispute ongoing (NORSOK-M-630) | 2026-06-16
@@ -146,7 +156,7 @@ _Last updated: 2026-06-16 | Sources: 115 | Wiki pages: 163_
 - [NLQ Project Management Requirements](wiki/concepts/NLQ%20Project%20Management%20Requirements.md) — organisation chart, split of responsibilities, workload histograms (Att. 9), past experience (Att. 10), PEP, OPERCOM/ICAPS commissioning; AVEVA tagging/database obligations | 2 sources
 - [NLQ Procurement Requirements](wiki/concepts/NLQ%20Procurement%20Requirements.md) — WP4: procurement plan, MTO, TBE, VDRL, vendor KOM, inspection, expediting, capital spares | 1 source
 - [NLQ Construction and Installation Requirements](wiki/concepts/NLQ%20Construction%20and%20Installation%20Requirements.md) — WP5/WP6/WP7: fabrication, OPERCOM pre-commissioning, MARINE SPREAD/SIMOPS requirements, T&I engineering, MWS approvals | 1 source
-- [NLQ Commissioning Requirements](wiki/concepts/NLQ%20Commissioning%20Requirements.md) — WP8: OPERCOM methodology, ICAPS mandatory, PSSR, TOM dossier, onshore and offshore commissioning, 3-month lead time for all procedures | 1 source
+- [NLQ Commissioning Requirements](wiki/concepts/NLQ%20Commissioning%20Requirements.md) — WP8 + App A9: OPERCOM/ICAPS mandatory, N2-He leak test onshore+offshore, punch list A/B/C, TCC/TOM dossiers, Ex equipment 100% inspection | 2 sources
 - [NLQ Safety Engineering Requirements](wiki/concepts/NLQ%20Safety%20Engineering%20Requirements.md) — App A1 §2.2: HAZID/HAZOP/SIL, FRA (PHAST), QRA, EERA, DRA, SECE, firewater hydraulic analysis (PIPENET), F&G coverage (Detect3D) | 1 source
 - [NLQ Process Engineering Requirements](wiki/concepts/NLQ%20Process%20Engineering%20Requirements.md) — App A1 §2.3: design basis, PFDs/P&IDs, equipment sizing, line sizing (FIV), overpressure protection, ESD logic, C&E, philosophies | 1 source
 - [NLQ Mechanical Engineering Requirements](wiki/concepts/NLQ%20Mechanical%20Engineering%20Requirements.md) — App A1 §2.4: Master Equipment List (AVEVA), datasheets, driver sizing, material handling philosophy (E3D), noise/vibration, criticality assessment | 1 source
@@ -159,6 +169,10 @@ _Last updated: 2026-06-16 | Sources: 115 | Wiki pages: 163_
 - [NLQ Architectural Requirements](wiki/concepts/NLQ%20Architectural%20Requirements.md) — App A1 §2.11: full LQ room programme design; fire-rated walls; blast walls; 3D model to as-built; plumbing, furniture, escape routes | 1 source
 - [NLQ Hook-Up Requirements](wiki/concepts/NLQ%20Hook-Up%20Requirements.md) — App A1 §2.12: minimise offshore hot works; Hook-Up Manual; Work Packs to job card level; SIMOPS-aware; PTW 72h notice; in-house work pack database | 1 source
 - [NLQ Software and Tools Requirements](wiki/concepts/NLQ%20Software%20and%20Tools%20Requirements.md) — App A1 §3: AVEVA E3D/INS/Electrical; ETAP; CAESAR 2; PIPENET; PHAST; SACS; ICAPS; ECE.5; BEASY — full approved software table | 1 source
+- [NLQ Services and Facilities Requirements](wiki/concepts/NLQ%20Services%20and%20Facilities%20Requirements.md) — App A7: 6 office types; Cisco IT infrastructure; 100 Mbps internet; vehicles; offshore cabins; USD 100/month phone; Work Unit 1.5 | 1 source
+- [NLQ Training Requirements](wiki/concepts/NLQ%20Training%20Requirements.md) — App A8: 12 mandatory offshore sessions; all with vendor attendance; max 10 trainees; training plan due 6 months post award; Training Close-out Report | 1 source
+- [NLQ Interface Management Requirements](wiki/concepts/NLQ%20Interface%20Management%20Requirements.md) — App A10: Interface Leader designation; kick-off within 1 month of award; weekly technical coordination meetings; COMPANY-provided IT tool mandatory | 1 source
+- [NLQ Digital Project Requirements](wiki/concepts/NLQ%20Digital%20Project%20Requirements.md) — App A11: AVEVA-only platform (E3D ≥3.1, Engineering ≥15.7.3); MTR weekly; CFIHOS; IMP within ED+3 months; 3D reviews at 30/60/90% | 1 source
 
 ## Entities
 - [Obsidian](wiki/entities/Obsidian.md) — local-first markdown app; recommended IDE for the LLM Wiki (graph view, Web Clipper, Dataview) | 1 source
