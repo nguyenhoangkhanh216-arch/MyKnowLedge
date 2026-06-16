@@ -1,9 +1,11 @@
 # Wiki Index
-_Last updated: 2026-06-16 | Sources: 113 | Wiki pages: 148_
+_Last updated: 2026-06-16 | Sources: 115 | Wiki pages: 163_
 
 ---
 
 ## Sources
+- [NLQ - Exhibit A Scope of Work](wiki/sources/NLQ%20-%20Exhibit%20A%20Scope%20of%20Work.md) — Exhibit A Rev A; 12 Work Packages; full EPCIC scope; 25-year design life; 1 NLQ topside + 1 substructure + 1 bridge (BI-BJ); OPERCOM/ICAPS mandatory | 2026-06-16
+- [NLQ - Exhibit A App A1 Detailed Engineering](wiki/sources/NLQ%20-%20Exhibit%20A%20App%20A1%20Detailed%20Engineering.md) — Appendix A1 Rev B; 34 pages; 12 engineering disciplines; AVEVA mandatory backbone; approved software table (ETAP, CAESAR 2, PIPENET, PHAST, ICAPS, etc.) | 2026-06-16
 - [NLQ - ITT](wiki/sources/NLQ%20-%20ITT.md) — Instructions to Tenderer for NLQ EPCIC 10 (CFT ref. 10210491); NOC Qatar; 200-bed LQ at B-Location; USD 500K Bid Bond; Technical Close 30-Apr-26; Commercial Close 30-Jun-26 | 2026-06-16
 - [KMDD TBC Snapshot 15Jun26](wiki/sources/KMDD%20TBC%20Snapshot%2015Jun26.md) — 15-Jun morning: 16 stale / 6 active; INS-002 COB deadline met by all 5 bidders; IRCD fail-safe dispute open | 2026-06-16
 - [KMDD Well Slot Swap DD-WHP Jun26](wiki/sources/KMDD%20Well%20Slot%20Swap%20DD-WHP%20Jun26.md) — DD-WHP D3→D1 (CPY initiated 20-May); KM-WHP D2/D3 conductor tags swapped; all disciplines update design + MTO | 2026-06-16
@@ -139,9 +141,24 @@ _Last updated: 2026-06-16 | Sources: 113 | Wiki pages: 148_
 - [SIL Classification](wiki/concepts/SIL%20Classification.md) — Safety Integrity Level; IEC 61511; SIL study process; Risktec Milestone #2 submitted 09-Jun-2026 | 3 sources
 - [Topside Weight Management](wiki/concepts/Topside%20Weight%20Management.md) — crane lift capacity vs factored topside weight; WCR; weight shedding strategies; KMDD DD-WHP +92.1 MT overrun actioned 10-Jun | 7 sources
 - [NLQ Commercial and Tender Requirements](wiki/concepts/NLQ%20Commercial%20and%20Tender%20Requirements.md) — tender timeline, bid bond (USD 500K), submission packaging rules, evaluation criteria, exceptions templates for NLQ EPCIC 10 ITT | 1 source
-- [NLQ HSE Requirements](wiki/concepts/NLQ%20HSE%20Requirements.md) — HSE Package C submission: 12 categories questionnaire (Att. 12), ISO 45001/14001, HAZID, emergency response, MEDEVAC, Stop Work Authority | 1 source
+- [NLQ HSE Requirements](wiki/concepts/NLQ%20HSE%20Requirements.md) — HSE Package C submission: 12 categories questionnaire (Att. 12), ISO 45001/14001, HAZID, emergency response, MEDEVAC, Stop Work Authority; WP2 EPCIC execution obligations | 2 sources
 - [NLQ Quality Requirements](wiki/concepts/NLQ%20Quality%20Requirements.md) — QA/QC Package B §12: ISO 9001 certificate, Quality Manual, preliminary Quality Plan per SD-NOC-PJC-501, construction KPI evidence | 1 source
-- [NLQ Project Management Requirements](wiki/concepts/NLQ%20Project%20Management%20Requirements.md) — organisation chart, split of responsibilities, workload histograms (Att. 9), past experience (Att. 10), PEP, OPERCOM/ICAPS commissioning | 1 source
+- [NLQ Project Management Requirements](wiki/concepts/NLQ%20Project%20Management%20Requirements.md) — organisation chart, split of responsibilities, workload histograms (Att. 9), past experience (Att. 10), PEP, OPERCOM/ICAPS commissioning; AVEVA tagging/database obligations | 2 sources
+- [NLQ Procurement Requirements](wiki/concepts/NLQ%20Procurement%20Requirements.md) — WP4: procurement plan, MTO, TBE, VDRL, vendor KOM, inspection, expediting, capital spares | 1 source
+- [NLQ Construction and Installation Requirements](wiki/concepts/NLQ%20Construction%20and%20Installation%20Requirements.md) — WP5/WP6/WP7: fabrication, OPERCOM pre-commissioning, MARINE SPREAD/SIMOPS requirements, T&I engineering, MWS approvals | 1 source
+- [NLQ Commissioning Requirements](wiki/concepts/NLQ%20Commissioning%20Requirements.md) — WP8: OPERCOM methodology, ICAPS mandatory, PSSR, TOM dossier, onshore and offshore commissioning, 3-month lead time for all procedures | 1 source
+- [NLQ Safety Engineering Requirements](wiki/concepts/NLQ%20Safety%20Engineering%20Requirements.md) — App A1 §2.2: HAZID/HAZOP/SIL, FRA (PHAST), QRA, EERA, DRA, SECE, firewater hydraulic analysis (PIPENET), F&G coverage (Detect3D) | 1 source
+- [NLQ Process Engineering Requirements](wiki/concepts/NLQ%20Process%20Engineering%20Requirements.md) — App A1 §2.3: design basis, PFDs/P&IDs, equipment sizing, line sizing (FIV), overpressure protection, ESD logic, C&E, philosophies | 1 source
+- [NLQ Mechanical Engineering Requirements](wiki/concepts/NLQ%20Mechanical%20Engineering%20Requirements.md) — App A1 §2.4: Master Equipment List (AVEVA), datasheets, driver sizing, material handling philosophy (E3D), noise/vibration, criticality assessment | 1 source
+- [NLQ HVAC Requirements](wiki/concepts/NLQ%20HVAC%20Requirements.md) — App A1 §2.5: full HVAC detailed design via APPROVED 3rd party; SD-NOC-HVA-802; HAP Carrier/AHH calculations; 3D model integration | 1 source
+- [NLQ Piping and Layout Requirements](wiki/concepts/NLQ%20Piping%20and%20Layout%20Requirements.md) — App A1 §2.6: piping classes, stress analysis (CAESAR 2), GRE vendor-only analysis, pulsation study, brownfield integration in 3D model | 1 source
+- [NLQ Structural Engineering Requirements](wiki/concepts/NLQ%20Structural%20Engineering%20Requirements.md) — App A1 §2.7: in-service/pre-service analyses (SACS/USFOS/MOSES/GRLWEAP), FEA, fire structural response, PFP design, substructure geotechnical | 1 source
+- [NLQ Electrical Engineering Requirements](wiki/concepts/NLQ%20Electrical%20Engineering%20Requirements.md) — App A1 §2.8: ETAP power system studies (load flow, arc-flash, harmonic), black start philosophy, ECS, RFID, brownfield integration | 1 source
+- [NLQ Instrumentation and ICSS Requirements](wiki/concepts/NLQ%20Instrumentation%20and%20ICSS%20Requirements.md) — App A1 §2.9: IEC 61508/61511, AVEVA INS database (SD-NOC-INS-103), ICSS Integrator merge, SIS life cycle, PAGA/CCTV/VHF telecom | 1 source
+- [NLQ Corrosion Management Requirements](wiki/concepts/NLQ%20Corrosion%20Management%20Requirements.md) — App A1 §2.10: 25-year design life; CX superstructure / IM4 immersed painting; cathodic protection; PFP specification; dead leg register | 1 source
+- [NLQ Architectural Requirements](wiki/concepts/NLQ%20Architectural%20Requirements.md) — App A1 §2.11: full LQ room programme design; fire-rated walls; blast walls; 3D model to as-built; plumbing, furniture, escape routes | 1 source
+- [NLQ Hook-Up Requirements](wiki/concepts/NLQ%20Hook-Up%20Requirements.md) — App A1 §2.12: minimise offshore hot works; Hook-Up Manual; Work Packs to job card level; SIMOPS-aware; PTW 72h notice; in-house work pack database | 1 source
+- [NLQ Software and Tools Requirements](wiki/concepts/NLQ%20Software%20and%20Tools%20Requirements.md) — App A1 §3: AVEVA E3D/INS/Electrical; ETAP; CAESAR 2; PIPENET; PHAST; SACS; ICAPS; ECE.5; BEASY — full approved software table | 1 source
 
 ## Entities
 - [Obsidian](wiki/entities/Obsidian.md) — local-first markdown app; recommended IDE for the LLM Wiki (graph view, Web Clipper, Dataview) | 1 source

@@ -4,7 +4,7 @@ type: concept
 tags: [work]
 created: 2026-06-16
 updated: 2026-06-16
-sources: 1
+sources: 2
 ---
 
 ## Summary
@@ -104,6 +104,18 @@ TENDERER must demonstrate and evidence compliance with the following HSE categor
 - [[NLQ Quality Requirements]] — companion submission requirement; QA/QC and HSE are evaluated in the same technical pass/fail gate before commercial evaluation
 - [[NLQ Project]] — entity page providing NLQ project context
 
+### From Exhibit A WP2 — HSE Management
+- CONTRACTOR shall submit a detailed safety plan with all HSE activities defined throughout the CONTRACT duration — Exhibit A, §8.2
+- CONTRACTOR shall organise safety training (OPITO BOSIET and OPITO H2S) for all CONTRACTOR and SUBCONTRACTOR personnel prior to offshore mobilisation — Exhibit A, §8.2
+- CONTRACTOR shall perform minimum 2 safety audits at WORKSITE, and 1 safety audit per MARINE SPREAD vessel by joint CONTRACTOR/COMPANY senior safety engineers — Exhibit A, §8.2
+- CONTRACTOR shall perform emergency drills at least monthly at WORKSITE and weekly on each MARINE SPREAD vessel — Exhibit A, §8.2
+- CONTRACTOR shall provide a medical response capability including a qualified medic and medical supplies on all WORKSITES and on board MARINE SPREAD per SD-NOC-HIH-017 — Exhibit A, §8.2
+- CONTRACTOR shall provide root cause analysis and toolbox meeting for any accident or high potential near miss — Exhibit A, §8.2
+- CONTRACTOR shall prepare a "Ramp Up" plan from Effective Date addressing PERSONNEL mobilisation, HSE induction, equipment inspection and certification — Exhibit A, §8.2
+- HSE Incentive Scheme 1 (HSE IS1): CONTRACTOR shall perform self-audit using IOGP Report 577 (Fabrication site construction safety); findings form the Improvement Action Plan monitored by COMPANY — Exhibit A, §8.4.1
+- HSE Incentive Scheme 2 (HSE IS2): CONTRACTOR shall monitor and report monthly on 17 HSE performance indicators; 100% achievement each month required — Exhibit A, §8.4.2
+
 ## Source References
 
 - [[sources/NLQ - ITT]] — all HSE requirements drawn from §8.2.4, Attachment 8, and Attachment 12
+- [[sources/NLQ - Exhibit A Scope of Work]] — WP2 contractual HSE obligations during EPCIC execution

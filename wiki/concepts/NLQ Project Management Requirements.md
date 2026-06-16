@@ -4,7 +4,7 @@ type: concept
 tags: [work]
 created: 2026-06-16
 updated: 2026-06-16
-sources: 1
+sources: 2
 ---
 
 ## Summary
@@ -91,6 +91,25 @@ TENDERER must detail specific procedures to be used for management and control o
 - [[NLQ Quality Requirements]] — Quality Plan organisation charts interface with the project management organisation; both are evaluated in the technical gate
 - [[NLQ HSE Requirements]] — HSE organisation and SIMOPS experience are companion requirements in Package C
 
+### From Exhibit A §2.1 General (App A1) — Applies Across All Disciplines
+- CONTRACTOR shall perform all detailed engineering necessary for procurement, fabrication, construction, load-out, T&I, pre-commissioning and commissioning per APPROVED procedures — Exhibit A App A1, §2.1
+- CONTRACTOR shall develop a complete project database from AVEVA solution with correct licenses and multi-user access for all disciplines — Exhibit A App A1, §2.1
+- CONTRACTOR shall further develop and complete tagging of equipment, valves, instruments, cables per SD-NOC-EC-106 — Exhibit A App A1, §2.1
+- CONTRACTOR shall issue monthly the tag database to COMPANY for verification and validation of Greenfield tags — Exhibit A App A1, §2.1
+- CONTRACTOR shall give remote safe access from all locations and also give access to COMPANY Representative for follow-up and audit — Exhibit A App A1, §2.1
+
+### From Exhibit A WP1 — Project Management
+- CONTRACTOR shall provide all management, project control and administration services throughout the entire duration of the CONTRACT — Exhibit A, §7.1
+- CONTRACTOR shall implement a risk management approach defined in a Risk Management Plan submitted within 60 days of EFFECTIVE DATE — Exhibit A, §7.2.5
+- CONTRACTOR shall maintain a Material Tracking System (MTS) per Exhibit G and Exhibit H standards — Exhibit A, §7.2.2.3
+- CONTRACTOR shall operate a QMS relevant to the CONTRACT in compliance with ISO 9001:2015 — Exhibit A, §7.2.2
+- CONTRACTOR shall submit daily, weekly and monthly reports per Exhibit G; reports shall cover all phases including subcontractors and vendors — Exhibit A, §7.3.3
+- CONTRACTOR shall submit the MDR for the WORK and operate the document control system per Exhibit G — Exhibit A, §7.3.4
+- CONTRACTOR shall develop AVEVA database management procedures and AVEVA application end user manuals (discipline wise) — Exhibit A, §7.8
+- CONTRACTOR shall nominate one Digital Information Manager responsible for digitalization implementation over each project phase — Exhibit A, §7.8
+
 ## Source References
 
 - [[sources/NLQ - ITT]] — all project management requirements drawn from §8.2.3.2, §8.2.3.3, §8.2.3.4, §8.2.3.10, §8.2.3.11, Attachment 5, Attachment 9, and Attachment 10
+- [[sources/NLQ - Exhibit A Scope of Work]] — WP1 obligations and general engineering management requirements
+- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.1 general engineering framework and AVEVA/tagging requirements
