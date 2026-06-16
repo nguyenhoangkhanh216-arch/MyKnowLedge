@@ -4,7 +4,7 @@ type: concept
 tags: [work, science]
 created: 2026-06-03
 updated: 2026-06-04
-sources: 2
+sources: 5
 ---
 
 ## Summary
@@ -29,6 +29,11 @@ A High Integrity Pressure Protection System (HIPPS) is a SIL-rated safety instru
 - PMC concluded: PSV-1931A/B not required; HIPPS bleed-off via XV at 92 barg retained
 - Go-by: Dai Nguyet WHP uses same configuration
 
+### CPY HAZOP close-out feedback (04-Jun-2026):
+- **Item 1 — PSV-1931A/B removal:** CPY "Agree in principle — PMC to provide full calculation in close-out sheet."
+- **Item 2 — Replace bleed-off XV-1120 with 2×100% PSV downstream HIPPS:** CPY "Agree in principle — PMC to provide mark-up." Setpoints: 92 barg DD-WHP, 105 barg KM-WHP.
+- Both items still require PMC to deliver calculation/mark-up before formal close-out
+
 ## Connections
 
 - [[KMDD HAZOP Items 1 2 9 HIPPS PSV]] — KMDD HAZOP findings on PSV removal and bleed-off line retention
@@ -45,3 +50,6 @@ A High Integrity Pressure Protection System (HIPPS) is a SIL-rated safety instru
 
 - [[KMDD HAZOP Items 1 2 9 HIPPS PSV]] — KMDD dynamic study confirming max 88.2 barg, PSV removal proposal
 - [[KMDD INS-002 HIPPS PSV Base Scope Addition]] — Jun 3 scope change: HIPPS PSV leakage to base scope
+- [[KMDD HAZOP Close-out CPY Feedback]] — CPY "agree in principle" on PSV removal and PSV downstream HIPPS; calculation/mark-up still required
+- [[KM-WHP HAZOP Study Report]] — Rec. 1: HIPPS bleed-off via XV-1100 vs PSV downstream; formal HAZOP origin of the design question
+- [[DD-WHP HAZOP Study Report]] — Rec. 1: PSV-1931A/B sizing review; HIPPS 2-second isolation time may be sufficient without PSV

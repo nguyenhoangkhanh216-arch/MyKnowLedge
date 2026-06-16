@@ -1,0 +1,49 @@
+---
+title: "[KMDD EMDR] Overdue Documents – Structure (Topside) – 07 Jun 2026"
+date: 2026-06-07
+time: "14:26"
+from: "Nguyễn Hoàng Khánh </O=PTSC EXCHANGE SYSTEM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=4FB57E1B12294E738AD0D2186ED16CA7-NGU>"
+to: "Đặng Đức Minh"
+folder: "KMDD"
+tags: [email]
+attachments: []
+---
+
+# [KMDD EMDR] Overdue Documents – Structure (Topside) – 07 Jun 2026
+
+**From:** Nguyễn Hoàng Khánh </O=PTSC EXCHANGE SYSTEM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=4FB57E1B12294E738AD0D2186ED16CA7-NGU>
+**To:** Đặng Đức Minh
+**Date:** 2026-06-07 14:26
+
+---
+
+Dear Structure (Topside) Team,
+
+Please find below the list of **14 overdue document(s)** for **Structure (Topside)** as of **07 June 2026**. Kindly **reply to this email with the forecast submission date** for each delayed document. 
+
+Document Number | Document Title | Milestone | Plan Date | Delay (Days) | Forecast Date (Please Fill)  
+---|---|---|---|---|---  
+KDP-KMA-03-BM-S-2001 | KM-WHP MTO for Topsides Structural Steel | IFR | 29-Apr-26 | 39 |   
+KDP-DDA-03-CA-S-2024 | DD-WHP Topsides Seismic Analysis Report | IFR | 27-Apr-26 | 41 |   
+KDP-DDA-03-BM-S-2001 | DD-WHP MTO for Topsides Structural Steel | IFR | 27-Apr-26 | 41 |   
+KDP-DDA-03-DW-S-2015 | DD-WHP Topsides Standard Details - Heavy Duty Handrail | IFR | 09-May-26 | 29 |   
+KDP-DDA-03-DW-S-2110 | DD-WHP Topsides Main Deck Joint Details Sheet 1 | IFR | 01-Jun-26 | 6 |   
+KDP-DDA-03-DW-S-2111 | DD-WHP Topsides Main Deck Joint Details Sheet 2 | IFR | 01-Jun-26 | 6 |   
+KDP-DDA-03-DW-S-2112 | DD-WHP Topsides Main Deck Joint Details Sheet 3 | IFR | 01-Jun-26 | 6 |   
+KDP-DDA-03-DW-S-2113 | DD-WHP Topsides Main Deck Joint Details Sheet 4 | IFR | 01-Jun-26 | 6 |   
+KDP-DDA-03-DW-S-2114 | DD-WHP Topsides Main Deck Joint Details Sheet 5 | IFR | 01-Jun-26 | 6 |   
+KDP-DDA-03-DW-S-2115 | DD-WHP Topsides Main Deck Joint Details Sheet 6 | IFR | 01-Jun-26 | 6 |   
+KDP-OOO-03-RQ-S-2003 | KM-WHP & DD-WHP Technical Requisition For Topsides Structural Miscellaneous | IFA | 02-Jun-26 | 5 |   
+KDP-OOO-03-RQ-A-9001 | KM-WHP & DD-WHP Technical Requisition For Topsides Architectural Items | IFA | 05-Jun-26 | 2 |   
+KDP-DDA-03-CA-S-0022 | DD-WHP Topsides Weight Control Report | IFA | 05-Jun-26 | 2 |   
+KDP-OOO-03-BD-S-2001 | KM-WHP & DD-WHP Topsides Structural Design Basis and Design Briefs | AFC/IFI | 04-Jun-26 | 3 |   
+  
+* Please reply with the **Forecast Date** for each document above so the schedule can be updated accordingly. 
+
+Please contact the Document Control team if you have any questions.  
+_This is an automated notification generated from the KMDD EMDR master register._
+
+Best regards,  
+**KMDD Engineering Management Team**
+---
+**Links:** [[Nguyễn Hoàng Khánh]] | [[Đặng Đức Minh]] | [[KMDD]] | [[email]]

@@ -1,9 +1,30 @@
 # Wiki Index
-_Last updated: 2026-06-11 | Sources: 76 | Wiki pages: 97_
+_Last updated: 2026-06-15 | Sources: 103 | Wiki pages: 131_
 
 ---
 
 ## Sources
+- [KMDD TBC Snapshot 14Jun26](wiki/sources/KMDD%20TBC%20Snapshot%2014Jun26.md) — 14-Jun: 14 stale / 8 active; no movement all day; INS-002 deadline COB 15-Jun; POS MEC-006 expediting | 2026-06-15
+- [KMDD INS-009 Nhan Viet SGS PVT Sampling 14Jun26](wiki/sources/KMDD%20INS-009%20Nhan%20Viet%20SGS%20PVT%20Sampling%2014Jun26.md) — SGS confirmed DBB tracer injection OK; DBBV sampling no quill; 1" NPT fullbore ≥14mm top-mounted; PVT needed at 1st commissioning | 2026-06-15
+- [KMDD CuNi Firewater Stagnation Accepted 13Jun26](wiki/sources/KMDD%20CuNi%20Firewater%20Stagnation%20Accepted%2013Jun26.md) — ✅ CLOSED 12-Jun: PVEP-KM accepted CuNi re-routing; pipe stress to account for sagging added | 2026-06-14
+- [KMDD Telecom ICSS Scope Meeting 12Jun26](wiki/sources/KMDD%20Telecom%20ICSS%20Scope%20Meeting%2012Jun26.md) — meeting 12-Jun: technical direction agreed (proceed per DE); SoW/SoS commercial alignment still open; Ship Collision deferred | 2026-06-14
+- [KMDD 60% Model Review Workshop Jul6](wiki/sources/KMDD%2060%25%20Model%20Review%20Workshop%20Jul6.md) — preparation meeting 09:00 13-Jun (Room 3.16); all discipline leads; workshop target 06-Jul-2026 | 2026-06-13
+- [KMDD Cold Vent Temperature Monitoring](wiki/sources/KMDD%20Cold%20Vent%20Temperature%20Monitoring.md) — DD-WHP vent boom 21.5m 6.5 MT; INS thermowell + STR stairway; Piping MTO; timeline Apr–Jun-2026 | 2026-06-14
+- [KMDD Telecom ICSS Ship Collision Resolution 12Jun26](wiki/sources/KMDD%20Telecom%20ICSS%20Ship%20Collision%20Resolution%2012Jun26.md) — 12-Jun meeting: Ship Collision 1.5–2 months lead; VSP to issue formal PMT letter; PMC lacks exclusion documentation | 2026-06-13
+- [KMDD MEC-006 TBC3 Bidder Response 12Jun26](wiki/sources/KMDD%20MEC-006%20TBC3%20Bidder%20Response%2012Jun26.md) — PVDT TBC#3: combined skid feasible; CI pump 0.25 kW; motor power dispute; POS/DKE extension to 16-Jun | 2026-06-13
+- [KMDD TBC Snapshot 13Jun26](wiki/sources/KMDD%20TBC%20Snapshot%2013Jun26.md) — EOD 13-Jun: 22 packages, 12 stale / 10 active; MEC-006 only active today (219 emails); INS-002 deadline COB 15-Jun | 2026-06-14
+- [KMDD Safety Studies SOG KOM 22Jun26](wiki/sources/KMDD%20Safety%20Studies%20SOG%20KOM%2022Jun26.md) — KOM confirmed 22-Jun 08:00–11:30; Vijay Chandran (SOG); CPY (Tuấn) confirmed; FEED Assumption Register pre-read | 2026-06-14
+- [KMDD Subcontract Finalization Status Jun26](wiki/sources/KMDD%20Subcontract%20Finalization%20Status%20Jun26.md) — F2F 05-Jun: warranty 30m RFSA agreed; LD RFSA 12-Jul-27 NO GRACE open; Exhibits 3,8 pending; CPY template 13-Jun | 2026-06-14
+- [KMDD ELE001 Solar Panel Support Scope 13Jun26](wiki/sources/KMDD%20ELE001%20Solar%20Panel%20Support%20Scope%2013Jun26.md) — Option 2 confirmed base scope: bidder designs support, PTSC M&C fabricates per vendor GA/MTO | 2026-06-14
+- [KMDD HVAC MEC009 HCP Power Bidders 13Jun26](wiki/sources/KMDD%20HVAC%20MEC009%20HCP%20Power%20Bidders%2013Jun26.md) — MOTEC more complete than DYNAC; ELE team reviewing for platform power load assessment | 2026-06-14
+- [KMDD MEC006 Painting Matrix Review 13Jun26](wiki/sources/KMDD%20MEC006%20Painting%20Matrix%20Review%2013Jun26.md) — Corrosion team re-review of CI Package painting matrix against KDP-OOO-03-SP-P-0004 D0 | 2026-06-14
+- [KMDD Grating Clip CONS Confirmed 13Jun26](wiki/sources/KMDD%20Grating%20Clip%20CONS%20Confirmed%2013Jun26.md) — CONS confirmed FEED grating clip design executable 13-Jun (not optimal); ~100 AFC drawings schedule gap still exists | 2026-06-14
+- [KMDD INS-002 PRV TBC2 Rev.C Wave 12Jun26](wiki/sources/KMDD%20INS-002%20PRV%20TBC2%20Rev.C%20Wave%2012Jun26.md) — TBC#2 Rev.C to all 5 INS-002 bidders 12-Jun; deadline COB 15-Jun; An Phu ferrite spec dispute | 2026-06-13
+- [KMDD MEC-006 POS TBC1 Rev.B 12Jun26](wiki/sources/KMDD%20MEC-006%20POS%20TBC1%20Rev.B%2012Jun26.md) — TBC#1 Rev.B issued to POS 12-Jun 07:10; deadline 13-Jun 11:30 AM | 2026-06-13
+- [KMDD TBC Snapshot 11Jun26](wiki/sources/KMDD%20TBC%20Snapshot%2011Jun26.md) — Morning 11-Jun: 9 stale / 13 active from 22 packages; INS-005 worst at 27d; MEC-004 TBC#01 Rev.C issued same day | 2026-06-13
+- [KMDD Telecom ICSS Ship Collision Scope Dispute](wiki/sources/KMDD%20Telecom%20ICSS%20Ship%20Collision%20Scope%20Dispute.md) — VSP raised Ship Collision SoW exclusion gap + Telecom/ICSS SoW review 11-Jun; PMC contractual risk | 2026-06-13
+- [KMDD DE CONS AFC Drawing Schedule Jun11](wiki/sources/KMDD%20DE%20CONS%20AFC%20Drawing%20Schedule%20Jun11.md) — DE-CONS conflict: CONS wants 25-Jun primary steel AFC; DE committed Jul-Aug; weight shedding root cause | 2026-06-13
+- [NDUM JSE Communication Matrix](wiki/sources/NDUM%20JSE%20Communication%20Matrix.md) — JSE 7-contact matrix 04-Jun-2026; Laybourne=TO for engineering, Falconer=TO for TBC, Korbosky=PM/CC | 2026-06-13
 - [KMDD EPCI Engineering Weekly Meeting Week 8](wiki/sources/KMDD%20EPCI%20Engineering%20Weekly%20Meeting%20Week%208.md) — MOM 02-Jun: well slot relocation + conductor Change Order, PFP/firewall dispute, full TQ register, DE completion 05-Nov-26, BV design appraisal | 2026-06-11
 - [LDV-B Early Engineering Scope of Work](wiki/sources/LDV-B%20Early%20Engineering%20Scope%20of%20Work.md) — MCB-0001-10AA-G-A17-0011 Rev B2; unmanned WHP; 15,000 BOPD; solar/wind power; LDV-A as analogue | 2026-06-09
 - [KMDD Scope of Work HAZID HAZOP SIL](wiki/sources/KMDD%20Scope%20of%20Work%20HAZID%20HAZOP%20SIL.md) — KDP-OOO-03-SW-X-0004-E0; defines study scope, methodology, schedule for both platforms; IFA 01-Jun-2026 | 2026-06-05
@@ -79,6 +100,11 @@ _Last updated: 2026-06-11 | Sources: 76 | Wiki pages: 97_
 - [KMDD ELE-002 Navigational Aids BCM Scheduling](wiki/sources/KMDD%20ELE-002%20Navigational%20Aids%20BCM%20Scheduling.md) — BCM scheduled 11–12 Jun for 3 bidders; MOTEC silent 15+ days; required TBC documents listed | 2026-06-10
 - [KMDD MEC-007 Federal Fire Missing TBC](wiki/sources/KMDD%20MEC-007%20Federal%20Fire%20Missing%20TBC.md) — FFE TBC#1 Rev.B missing despite TBC#2 sent; reminder due 11-Jun; CO2 freezing risk raised | 2026-06-10
 - [KMDD PIP-002 TBC Rev.D3 APDS](wiki/sources/KMDD%20PIP-002%20TBC%20Rev.D3%20APDS.md) — Rev.D3 issued to APDS (COB 11-Jun); 7+ bidders in parallel at Rev.D2 stage | 2026-06-10
+- [LDV-A E&I Cable Tagging Deviation Request](wiki/sources/LDV-A%20E%26I%20Cable%20Tagging%20Deviation%20Request.md) — DEV MCB-0005-11AA-G-B16-0001; 28 E&I punch items on 8 vendor skids (colour coding, tagging, outer sheath); awaiting MOC approval | 2026-06-11
+- [NDUM Early Detail Engineering KOM](wiki/sources/NDUM%20Early%20Detail%20Engineering%20KOM.md) — MOM 03-Jun-2026; flexible riser package EDE scope, EMDR, key technical inputs, procurement schedule (TR IFR 15-Jun → LOA 19-Dec-26) | 2026-06-12
+- [KMDD MEC-004 NTT BCM1 TBC Response](wiki/sources/KMDD%20MEC-004%20NTT%20BCM1%20TBC%20Response.md) — NTT (Nam Tien Thinh) excluded EODD pumps; centrifugal pumps only; 5 items open (VDRL, ITP, Form T5, JB, LCS) | 2026-06-12
+- [KMDD Engineering Execution Plan Rev A0](wiki/sources/KMDD%20Engineering%20Execution%20Plan%20Rev%20A0.md) — KDP-000-03-PS-G-0001 Rev A0; PTSC M&C topsides EE plan; VSP comments received 12-Jun-26; Hold 1 = brownfield sub nomination | 2026-06-12
+- [LDV-A TI Weekly MOM-062 10Jun26](wiki/sources/LDV-A%20TI%20Weekly%20MOM-062%2010Jun26.md) — MOM #62 10-Jun; CB9 confirmed replacing CB3; topside weighing completed; flare boom COG >1m discrepancy; offshore campaign < 1 month away | 2026-06-11
 - [LDV-B Bidding Benchmark Preparation](wiki/sources/LDV-B%20Bidding%20Benchmark%20Preparation.md) — EOI Jan-2026; benchmark vs LDV-A; topside 0.8×KLWB; legal EPCIC eligibility risk | 2026-06-11
 - [LDV-B Contract Award and Procurement Plan Jun 2026](wiki/sources/LDV-B%20Contract%20Award%20and%20Procurement%20Plan%20Jun%202026.md) — LDVB-DE group created 09-Jun; PP 10-Jun with ROS dates; DE start being evaluated | 2026-06-11
 
@@ -90,21 +116,28 @@ _Last updated: 2026-06-11 | Sources: 76 | Wiki pages: 97_
 - [FEED Verification EPCI Contract](wiki/concepts/FEED%20Verification%20EPCI%20Contract.md) — 30-day contractual obligation; missing the window = no Change Order rights for unreported FEED errors | 3 sources
 - [Piping Pressure Temperature Rating](wiki/concepts/Piping%20Pressure%20Temperature%20Rating.md) — ASME P-T rating tables; SS lower than CS at elevated temps; common FEED-to-DE discrepancy source | 1 source
 - [Open Drain System Design](wiki/concepts/Open%20Drain%20System%20Design.md) — inlet oil-in-water content drives vessel sizing; FEED values often overly conservative vs go-by projects | 3 sources
-- [Offshore Piping Material Selection](wiki/concepts/Offshore%20Piping%20Material%20Selection.md) — GRE vs CuNi, HDG vs SS, bolting for CRA flanges; full comparison tables; stagnation constraint | 3 sources
+- [Offshore Piping Material Selection](wiki/concepts/Offshore%20Piping%20Material%20Selection.md) — GRE vs CuNi, HDG vs SS, bolting for CRA flanges; full comparison tables; CuNi stagnation CLOSED 12-Jun | 4 sources
 - [Flow Assurance Offshore Pipeline](wiki/concepts/Flow%20Assurance%20Offshore%20Pipeline.md) — hydrates, wax, corrosion, slugging; SS vs transient study; HYSYS/OLGA; KMDD: 11-19 mm/y uninhibited corrosion | 1 source
 - [Piping Layout Design Offshore](wiki/concepts/Piping%20Layout%20Design%20Offshore.md) — gravity line slope constraints at Pig trap area; resolution path for process-piping conflicts | 1 source
 - [HIPPS Overpressure Protection](wiki/concepts/HIPPS%20Overpressure%20Protection.md) — HIPPS vs PSV design philosophy; bleed-off line alternative; SIL requirements; KMDD: CPY agreed PSV removal in principle 04-Jun | 3 sources
 - [Chemical Injection System Design](wiki/concepts/Chemical%20Injection%20System%20Design.md) — PPD/SI/CI/Methanol: dosing rates VSP-accepted 08-Jun; V-Jet pigging; BCM PVDT 09-Jun; TBC#3 Rev.C all 3 bidders 10-Jun | 9 sources
 - [Technical Bid Clarification Process](wiki/concepts/Technical%20Bid%20Clarification%20Process.md) — TBC/TBE procurement workflow: rounds, forms, statuses, failure patterns; KMDD 21 packages Jun-2026 | 11 sources
-- [Offshore Firewater System Design](wiki/concepts/Offshore%20Firewater%20System%20Design.md) — dry ring main, SIPROD supply hierarchy, rig tie-in; CuNi TQR; stagnation concern resolved via routing | 3 sources
+- [Cold Vent Design](wiki/concepts/Cold%20Vent%20Design.md) — Joule-Thomson cooling at vent boom; temperature monitoring (INS); structural access stairway (STR); LTCS material implications | 1 source
+- [Offshore Firewater System Design](wiki/concepts/Offshore%20Firewater%20System%20Design.md) — dry ring main, SIPROD supply hierarchy, rig tie-in; CuNi stagnation CLOSED 12-Jun; pipe stress sagging requirement | 4 sources
 - [Technical Query Process](wiki/concepts/Technical%20Query%20Process.md) — TQ workflow (Sub-CTR → CTR/CPY): form structure, numbering, full KMDD TQ register (11+ TQs), LDV-A TQ example | 5 sources
 - [SIL Classification](wiki/concepts/SIL%20Classification.md) — Safety Integrity Level; IEC 61511; SIL study process; Risktec Milestone #2 submitted 09-Jun-2026 | 3 sources
+- [Topside Weight Management](wiki/concepts/Topside%20Weight%20Management.md) — crane lift capacity vs factored topside weight; WCR; weight shedding strategies; KMDD DD-WHP +92.1 MT overrun actioned 10-Jun | 7 sources
 
 ## Entities
 - [Obsidian](wiki/entities/Obsidian.md) — local-first markdown app; recommended IDE for the LLM Wiki (graph view, Web Clipper, Dataview) | 1 source
 - [Vannevar Bush Memex](wiki/entities/Vannevar%20Bush%20Memex.md) — 1945 vision of private associative knowledge trails; spiritual predecessor to LLM Wiki | 1 source
-- [KMDD Project](wiki/entities/KMDD%20Project.md) — KM-WHP & DD-WHP EPCI; PTSC M&C contractor; well slot Change Order incoming, weight shedding actioned, DE completion 05-Nov-26 | 74 sources
-- [LDV-A Project](wiki/entities/LDV-A%20Project.md) — Block 15-1/05 Lac Da Vang; Murphy Oil as COMPANY; PTSC M&C contractor; C&C phase; analogue for LDV-B | 2 sources
+- [KMDD Project](wiki/entities/KMDD%20Project.md) — KM-WHP & DD-WHP EPCI; 60% review 06-Jul; SOG KOM 22-Jun; CuNi CLOSED; subcontract open; DE completion 05-Nov-26 | 92 sources
+- [KMDD-INS-002 Pressure Relief Valves](wiki/entities/KMDD-INS-002%20Pressure%20Relief%20Valves.md) — 5 bidders; TBC#2 Rev.C to all 12-Jun; deadline COB 15-Jun; ferrite spec dispute (An Phu / Italian foundry) | 4 sources
+- [KMDD-MEC-004 EODD Pump and Centrifugal Pump](wiki/entities/KMDD-MEC-004%20EODD%20Pump%20and%20Centrifugal%20Pump.md) — 4 bidders; NTT excluded EODD pumps; TBC#01 Rev.C issued 11-Jun (deadline 13-Jun); TK models rejected by CPY | 4 sources
+- [KMDD-MEC-006 Chemical Injection Package](wiki/entities/KMDD-MEC-006%20Chemical%20Injection%20Package.md) — CI Package; 5 bidders; PVDT/DKE responses received 13-Jun; painting matrix re-review in progress | 7 sources
+- [KMDD-INS-001 Actuated On-Off Valves and MOVs](wiki/entities/KMDD-INS-001%20Actuated%20On-Off%20Valves%20and%20MOVs.md) — MTO for Purchase issued 04-Jun via KDP-IMO-E-0057; pre-bidder stage | 1 source
+- [NDUM Project](wiki/entities/NDUM%20Project.md) — WHP & Pipeline EPCI for Nam Du-U Minh Field; JSE as COMPANY; PTSC M&C contractor; EDE phase (flexible riser + T&I) | 2 sources
+- [LDV-A Project](wiki/entities/LDV-A%20Project.md) — Block 15-1/05 Lac Da Vang; Murphy Oil as COMPANY; PTSC M&C C&C + T&I phase; CB9 confirmed, topside weighing complete, DEV awaiting MOC approval | 4 sources
 - [LDV-B Project](wiki/entities/LDV-B%20Project.md) — Block 15-1/05 unmanned WHP; DE team formed Jun-2026 (contract likely awarded); PP ROS dates issued 10-Jun | 3 sources
 
 ## Synthesis

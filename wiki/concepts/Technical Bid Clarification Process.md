@@ -3,8 +3,8 @@ title: "Technical Bid Clarification Process"
 type: concept
 tags: [work]
 created: 2026-06-04
-updated: 2026-06-04
-sources: 10
+updated: 2026-06-09
+sources: 11
 ---
 
 ## Summary
@@ -75,6 +75,8 @@ The Technical Bid Clarification (TBC) process is the structured dialogue between
 - **Deviation dispute**: Vendor claims verbal acceptance of deviations but TBC requires written compliance confirmation — must be formally resolved
 - **Power/utility late discovery**: Late-stage TBC reveals utility requirement (e.g., 24VDC demand) not cross-checked against platform design — triggers re-query and potential scope change
 - **HIPPS PSV scope creep**: Scope items initially classified as Optional re-classified as Base Scope mid-TBC, forcing all bidders to re-size
+- **Cryogenic fluid freezing in TBC**: Bidder raises concern that CO2 pressure drop through PCV will freeze piping/valve (Joule-Thomson effect) — requires piping isometrics to evaluate RO plate vs nozzle discharge options before TBC can close (MEC-007 / FFE, Jun 4)
+- **MTO incompleteness**: Bidder submits response with incomplete MTO (missing instrument scope portion) — PTSC must explicitly request the missing tables before discipline review can proceed (ELE-008 / SECONS)
 
 ### Internal discipline input required before sending TBC:
 PTSC engineering disciplines (mechanical, instrument, piping, E&I, process) must review bidder proposals and provide input questions. Commercial team consolidates and sends. Delays in internal input = stale TBC thread.
@@ -97,3 +99,4 @@ PTSC engineering disciplines (mechanical, instrument, piping, E&I, process) must
 - [[KMDD Methanol Pump Capacity Upgrade]] — TBC for MEC-006 identified only PVD Tech compliant on pump type
 - [[KMDD TBC Status Jun 4]] — 04-Jun morning snapshot; 7 stale, 14 active; INS-002 TBC#2 due 15:45 same day; MEC-002 at 17 rounds
 - [[KMDD MEC-001 TBC Rev A2 AECC and Jun 4 MEC Actions]] — AECC responded TBC Rev.A2; feedback due Jun 5
+- [[KMDD ELE-008 E&I Miscellaneous Earthing TBC Status]] — 5 bidders, TBC#2 Rev.B; SECONS missing instrument MTO; TAKA cooperative; 30+ emails

@@ -15,7 +15,7 @@ Obsidian is a local-first markdown note-taking application built around bidirect
 
 - **Local vault:** All notes are plain markdown files on disk — LLM can read and write them directly with file tools.
 - **Graph view:** Visual map of all pages and their links — shows wiki shape, hubs, and orphans at a glance.
-- **Bidirectional links:** `[[Page Name]]` syntax creates links; Obsidian tracks inbound links automatically.
+- **Bidirectional links:** `[[double bracket]]` syntax creates links; Obsidian tracks inbound links automatically.
 - **Web Clipper:** Browser extension that converts web articles to markdown — primary source ingestion method.
 - **Dataview plugin:** Runs queries over YAML frontmatter — enables dynamic tables from page metadata (type, tags, source counts).
 - **Marp plugin:** Renders markdown as slide decks — useful for generating presentations from wiki content.

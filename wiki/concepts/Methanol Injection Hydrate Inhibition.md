@@ -3,8 +3,8 @@ title: "Methanol Injection Hydrate Inhibition"
 type: concept
 tags: [work, science]
 created: 2026-06-03
-updated: 2026-06-03
-sources: 3
+updated: 2026-06-10
+sources: 5
 ---
 
 ## Summary
@@ -27,6 +27,10 @@ Methanol (or MEG) is injected upstream of choke valves during well start-up to p
 - **Pump technology:** Plunger-type variable-stroke pumps; triplex = 3 plungers → smoother flow, lower peak power vs. simplex
 - **Alternative:** N2 pressurization of flowlines before well start-up (prevents hydrate by excluding water) — uses ~8 bottle racks (16 bottles/rack @ 200 barg) per start-up; operationally inconvenient
 - **Power constraint:** Max 18 kW motor per DEG electrical load list; triplex at 7.5 kW is well within limit
+- **High-pressure wellhead injection pump P-5345 (KM-WHP, TQ-B-0003 approved 01-Jun-2026):**
+  - Type: Reciprocating simplex double; Capacity: 50 LPH; MOP: 195.4 barg; Design pressure: 232 barg (piping class 153410X)
+  - API 20% margin requires 234.5 barg; 232 barg achieves only 18.73% — approved for intermittent service with PSV + PZAHH safeguards
+  - N2 blanket on tote T-5341 at 0.1 barg; tank 2.0 m³ gross / 1.71 m³ working (~30 min per well at 50 LPH)
 
 ## Connections
 
@@ -36,8 +40,16 @@ Methanol (or MEG) is injected upstream of choke valves during well start-up to p
 - [[KMDD Methanol Pump Capacity Upgrade]] — detailed pump sizing study with EDG power constraint analysis
 - [[KMDD Chemical Dosing Rate Decisions]] — methanol TQ issued in same meeting as other chemical decisions
 
+### TQR status (✅ resolved 08-Jun-2026):
+- VSP (Vo Viet Hai) formally accepted methanol rate: **KM 507.8 L/h**, **DD 560 L/h** (triplex, 7.5 kW DOL) on 08-Jun-2026
+- PVEP-KM (Nguyen Khac Hung) formally accepted per letter Ref. 158-2026/DEV/PVEP-KM (05-Jun-2026)
+- Final alignment meeting held: 09-Jun-2026, Room 901 VSP OCD Office
+- Design basis CLOSED: triplex pump, DOL starter, 30% (KM) and 50% (DD) start-up rates confirmed; no further TQ required
+
 ## Source References
 
 - [[KMDD Choke Valve PDS and Methanol Pump Sizing]] — original FEED constraints
 - [[KMDD Methanol Pump Capacity Upgrade]] — full calculation and vendor comparison
 - [[KMDD Chemical Dosing Rate Decisions]] — formal confirmation meeting and TQ issuance
+- [[KMDD External Process Weekly Meeting MOM-009]] — TQR still pending 04-Jun; awaiting discipline inputs
+- [[KMDD Methanol Pump Design Pressure TQ]] — TQ-B-0003; P-5345 simplex double specs; 232 barg design pressure approved 01-Jun-2026

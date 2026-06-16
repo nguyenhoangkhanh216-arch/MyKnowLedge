@@ -1,0 +1,147 @@
+---
+title: "RE: KMDD - FEED Verification CRS"
+date: 2026-06-12
+time: "10:03"
+from: "Nguyễn Hải Nam NV </O=PTSC EXCHANGE SYSTEM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERF3017F25>"
+to: "Nguyen Dinh Manh; Bùi Lê Lương; Cao Thành Nhật; Đặng Đức Minh; Đồng Xuân Long; Hoàng Anh Tú; Nguyễn Thanh Nghĩa; Nguyễn Thanh Sơn; Nguyễn Xuân Tân Bình; Trần Sóng Biển; Trương Minh Hoàng; Võ Nhựt Khánh"
+folder: "KMDD"
+tags: [email]
+attachments: [
+  - "KDP-OOO-03-RP-G-0002-D0 FEED Verification Report_Code 2.pdf"
+  - "image001.png"
+  - "image003.png"
+  - "image002.png"
+]
+---
+
+# RE: KMDD - FEED Verification CRS
+
+**From:** Nguyễn Hải Nam NV </O=PTSC EXCHANGE SYSTEM/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERF3017F25>
+**To:** Nguyen Dinh Manh; Bùi Lê Lương; Cao Thành Nhật; Đặng Đức Minh; Đồng Xuân Long; Hoàng Anh Tú; Nguyễn Thanh Nghĩa; Nguyễn Thanh Sơn; Nguyễn Xuân Tân Bình; Trần Sóng Biển; Trương Minh Hoàng; Võ Nhựt Khánh
+**Date:** 2026-06-12 10:03
+**Attachments:** KDP-OOO-03-RP-G-0002-D0 FEED Verification Report_Code 2.pdf, image001.png, image003.png, image002.png  
+
+---
+
+Dear các anh
+
+ 
+
+Em xin float lại file PDF comment như đính kèm, các disciplines review và trả lời comment qua live link này nhé:
+
+[ KDP-OOO-03-RP-G-0002-D0 FEED Verification Report_CRS.xlsx](https://ptschq-my.sharepoint.com/:x:/g/personal/manhnd1_ptsc_com_vn/IQDtp72A0g1QTqQsDMZZpsBjAeq9mRyB9limuRF_ULUIhXo?e=DGagEY)
+
+ 
+
+ 
+
+Process anh @Truong Minh Hoang PRO PTK , PIP anh @Nguyen Xuan Tan Binh PIP PTK , INS anh @Thanh Sơn INS PTK , ELE anh @Trần Sóng Biển trả lời giúp em nha.
+
+ 
+
+Sincerely
+
+ 
+
+Nguyen Hai **_Nam_** ,
+
+Engineering Department – PTSC M&C
+
+Handphone No. (Zalo/WhatsApp): (84)-94-268-0755
+
+MS Teams & Email: [namnh3@_ptsc.**com.vn**_](mailto:namnh3@ptsc.com.vn)
+
+ 
+
+**From:** Nguyen Dinh Manh <manhnd1@ptsc.com.vn>   
+**Sent:** Tuesday, June 2, 2026 10:26 PM  
+**To:** Bùi Lê Lương <luongbl@ptsc.com.vn>; Cao Thành Nhật <nhatct@ptsc.com.vn>; Đặng Đức Minh <minhdd@ptsc.com.vn>; Đồng Xuân Long <longdong@ptsc.com.vn>; Hoàng Anh Tú <tuanhhoang@ptsc.com.vn>; Nguyễn Thanh Nghĩa <nghiatn@ptsc.com.vn>; Nguyễn Thanh Sơn <sonnt1@ptsc.com.vn>; Nguyễn Xuân Tân Bình <binhnxt@ptsc.com.vn>; Trần Sóng Biển <bientran@ptsc.com.vn>; Trương Minh Hoàng <hoangmtruong@ptsc.com.vn>; Võ Nhựt Khánh <khanhnvo@ptsc.com.vn>  
+**Cc:** Nguyễn Hoàng Khánh <khanhnh@ptsc.com.vn>; Nguyễn Văn Tây <taynguyen@ptsc.com.vn>; Nguyễn Hải Nam NV <namnh3@ptsc.com.vn>; Nguyễn Thị Liên <liennt@ptsc.com.vn>  
+**Subject:** KMDD - FEED Verification CRS
+
+ 
+
+Dear Leaders
+
+ 
+
+PVEP-KM phản hồi FEED Verification như link
+
+[\\\192.168.49.4\kmdd-bda\01.PTSCMC\1.02.Engineering\1.2.02.Detailed](file://192.168.49.4/kmdd-bda/01.PTSCMC/1.02.Engineering/1.2.02.Detailed) Eng\OOO\RP-Reports\G-General\2.KM Returned
+
+ 
+
+[ KDP-OOO-03-RP-G-0002-D0 FEED Verification Report_CRS.xlsx](https://ptschq-my.sharepoint.com/:x:/g/personal/manhnd1_ptsc_com_vn/IQDtp72A0g1QTqQsDMZZpsBjAeq9mRyB9limuRF_ULUIhXo?e=DGagEY)
+
+ 
+
+Team review và phản hồi comment của họ vào CRS link như đính kèm để chiều thứ 5 tuần này sẽ set-up meeting với CPY. Team check item theo assigned ở cột status nha. Điểm nào vướng thì hold và trao đổi với EMT nhé ạ. Cố gắng trong ngày mai, sáng thứ 5 ta sẽ ngồi internal những điểm major. (những điểm nào NIPI team cứ revise lại assignee nha)
+
+ 
+
+ 
+
+BRs.
+
+Mạnh
+
+ 
+
+**From:** Nguyễn Duy Khánh <[khanhdnguyen@ptsc.com.vn](mailto:khanhdnguyen@ptsc.com.vn)>   
+**Sent:** Tuesday, 2 June, 2026 7:48 AM  
+**To:** Nguyen Dinh Manh <[manhnd1@ptsc.com.vn](mailto:manhnd1@ptsc.com.vn)>; Nguyễn Văn Tây <[taynguyen@ptsc.com.vn](mailto:taynguyen@ptsc.com.vn)>; Nguyễn Hoàng Khánh <[khanhnh@ptsc.com.vn](mailto:khanhnh@ptsc.com.vn)>  
+**Cc:** Trần Thanh Tùng <[tungthanhtran@ptsc.com.vn](mailto:tungthanhtran@ptsc.com.vn)>; Vũ Ngọc Tuân <[tuannvu@ptsc.com.vn](mailto:tuannvu@ptsc.com.vn)>; Trương Hoàng Kha <[khath@ptsc.com.vn](mailto:khath@ptsc.com.vn)>; Nguyễn Hải Nam NV <[namnh3@ptsc.com.vn](mailto:namnh3@ptsc.com.vn)>; Bùi Lê Lương <[luongbl@ptsc.com.vn](mailto:luongbl@ptsc.com.vn)>; Trần Văn Thái <[thaitv1@ptsc.com.vn](mailto:thaitv1@ptsc.com.vn)>; Cao Thành Nhật <[nhatct@ptsc.com.vn](mailto:nhatct@ptsc.com.vn)>; Nguyễn Thành Chung EC000010 <[chungnt1@ptsc.com.vn](mailto:chungnt1@ptsc.com.vn)>; Thân Ngọc Miên Thảo <[thaotnm@ptsc.com.vn](mailto:thaotnm@ptsc.com.vn)>; Hoang An MC005722 <[anh1@ptsc.com.vn](mailto:anh1@ptsc.com.vn)>; Vũ Trường Giang MC005751 <[giangvt@ptsc.com.vn](mailto:giangvt@ptsc.com.vn)>; Trần Sóng Biển <[bientran@ptsc.com.vn](mailto:bientran@ptsc.com.vn)>; Lê Phú Cường <[cuonglp@ptsc.com.vn](mailto:cuonglp@ptsc.com.vn)>; Lê Thị Phượng EC000012 <[phuonglt@ptsc.com.vn](mailto:phuonglt@ptsc.com.vn)>; Đặng Đức Minh <[minhdd@ptsc.com.vn](mailto:minhdd@ptsc.com.vn)>; Lê Văn Tâm <[tamlv@ptsc.com.vn](mailto:tamlv@ptsc.com.vn)>; Nguyễn Di Tùng <[tungnd1@ptsc.com.vn](mailto:tungnd1@ptsc.com.vn)>; Đồng Văn Sơn <[sondv@ptsc.com.vn](mailto:sondv@ptsc.com.vn)>; Hoàng Anh Tú <[tuanhhoang@ptsc.com.vn](mailto:tuanhhoang@ptsc.com.vn)>; Bùi Văn Hiền <[hienbv@ptsc.com.vn](mailto:hienbv@ptsc.com.vn)>; Le Hoang Nguyen Lam <[lamlnh@ptsc.com.vn](mailto:lamlnh@ptsc.com.vn)>; Le Huu Duong BD003211 <[duonglh@ptsc.com.vn](mailto:duonglh@ptsc.com.vn)>; Nguyen Anh Khoa PE000011 <[khoana@ptsc.com.vn](mailto:khoana@ptsc.com.vn)>; Nguyễn Hải Đăng ĐKTĐ <[dangnh2@ptsc.com.vn](mailto:dangnh2@ptsc.com.vn)>; Nguyễn Mạnh Thiện <[thiennm@ptsc.com.vn](mailto:thiennm@ptsc.com.vn)>; Nguyễn Quang Gia Bảo <[Baonqg@ptsc.com.vn](mailto:Baonqg@ptsc.com.vn)>; Phạm Minh Hoàng <[hoangpm@ptsc.com.vn](mailto:hoangpm@ptsc.com.vn)>; Phan Nhu Ngoc MC005744 <[ngocpn@ptsc.com.vn](mailto:ngocpn@ptsc.com.vn)>; Trịnh Xuân Cảnh <[canhtx@ptsc.com.vn](mailto:canhtx@ptsc.com.vn)>; Nguyễn Thanh Sơn <[sonnt1@ptsc.com.vn](mailto:sonnt1@ptsc.com.vn)>; Trần Anh Kim <[kimtran@ptsc.com.vn](mailto:kimtran@ptsc.com.vn)>; Trương Minh Hoàng <[hoangmtruong@ptsc.com.vn](mailto:hoangmtruong@ptsc.com.vn)>; Nguyễn Minh Hoàng <[hoangnm1@ptsc.com.vn](mailto:hoangnm1@ptsc.com.vn)>; Ngô Tân Hiếu EC000009 <[hieunt6@ptsc.com.vn](mailto:hieunt6@ptsc.com.vn)>; Nguyễn Hồng Quân <[Quannh2@ptsc.com.vn](mailto:Quannh2@ptsc.com.vn)>; Hoàng Lê Khoa <[khoahl1@ptsc.com.vn](mailto:khoahl1@ptsc.com.vn)>; Nguyễn Ngọc Công <[congnn@ptsc.com.vn](mailto:congnn@ptsc.com.vn)>; Nguyễn Hữu Thịnh <[thinhnh@ptsc.com.vn](mailto:thinhnh@ptsc.com.vn)>; Đồng Xuân Long <[longdong@ptsc.com.vn](mailto:longdong@ptsc.com.vn)>; Võ Nhựt Khánh <[khanhnvo@ptsc.com.vn](mailto:khanhnvo@ptsc.com.vn)>; Vũ Văn Long <[longvv@ptsc.com.vn](mailto:longvv@ptsc.com.vn)>; Trần Trọng Tín <[tintt@ptsc.com.vn](mailto:tintt@ptsc.com.vn)>; Thieu Kieu Anh MC005411 <[anhtk@ptsc.com.vn](mailto:anhtk@ptsc.com.vn)>; Nguyễn Xuân Tân Bình <[binhnxt@ptsc.com.vn](mailto:binhnxt@ptsc.com.vn)>; Nguyễn Thanh Nghĩa <[nghiatn@ptsc.com.vn](mailto:nghiatn@ptsc.com.vn)>; Tạ Văn Sơn <[sonta@ptsc.com.vn](mailto:sonta@ptsc.com.vn)>  
+**Subject:** KDP-VSP-PMC-T-00087: Returned Documents from KM/VSP to PMC - Detailed Engineering (General)
+
+ 
+
+Dear All,
+
+ 
+
+Please find KM/VSP’s comment for your further action.
+
+ 
+
+FTP link (Transmittal): [03.Share\3.02.VSP Area\1.VSP to PMC\KDP-VSP-PMC-T-00087_GENERAL](file://192.168.49.4/KMDD-BDA/03.Share/3.02.VSP%20Area/1.VSP%20to%20PMC/KDP-VSP-PMC-T-00087_GENERAL)
+
+ 
+
+FTP link: [01.PTSCMC\1.02.Engineering\1.2.02.Detailed Eng](file://192.168.49.4/KMDD-BDA/01.PTSCMC/1.02.Engineering/1.2.02.Detailed%20Eng)
+
+ 
+
+**Document Number**| **Rev**| **Title**| **Return Code**  
+---|---|---|---  
+KDP-OOO-03-RP-G-0002| D0| FEED Verification Report| 2  
+  
+ 
+
+ 
+
+Thanks and Best regards,
+
+ 
+
+**Nguyen Duy Khanh**
+
+**Lead****Document Control ler**
+
+**KMDD Project**  
+\-------------------------*\---\----*------\--\---------------
+
+**PTSC Mechanical and Construction Co., Ltd******
+
+No.31, 30/4 Street, Tam Thang Ward, Ho Chi Minh City, S.R. Vietnam
+
+Website: [http://mc.ptsc.com.vn](http://mc.ptsc.com.vn/)
+
+Phone   : +84-2543 577 888 
+
+Fax       : +84-2543 838 170
+
+Mobile phone : +84-987048030
+
+PTSC email address : [khanhdnguyen@ptsc.com.vn](mailto:khanhdnguyen@ptsc.com.vn)
+---
+**Links:** [[Nguyễn Hải Nam Nv]] | [[Nguyen Dinh Manh]] | [[Bùi Lê Lương]] | [[Cao Thành Nhật]] | [[Đặng Đức Minh]] | [[Đồng Xuân Long]] | [[Hoàng Anh Tú]] | [[Nguyễn Thanh Nghĩa]] | [[Nguyễn Thanh Sơn]] | [[Nguyễn Xuân Tân Bình]] | [[Trần Sóng Biển]] | [[Trương Minh Hoàng]] | [[Võ Nhựt Khánh]] | [[KMDD]] | [[email]]

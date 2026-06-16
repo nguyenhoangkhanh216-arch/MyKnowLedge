@@ -4,7 +4,7 @@ type: concept
 tags: [work, science]
 created: 2026-06-03
 updated: 2026-06-04
-sources: 4
+sources: 3
 ---
 
 ## Summary

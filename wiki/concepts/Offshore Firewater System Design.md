@@ -3,8 +3,8 @@ title: "Offshore Firewater System Design"
 type: concept
 tags: [work, science]
 created: 2026-06-04
-updated: 2026-06-04
-sources: 1
+updated: 2026-06-14
+sources: 4
 ---
 
 ## Summary
@@ -24,7 +24,10 @@ Offshore wellhead platform firewater systems protect personnel and equipment dur
 - **Design basis rig:** Must be defined early in detailed engineering — KMDD uses PV Drilling III Jack-Up as basis per MOA DEV/2026/06 (13-Mar-2026)
 - **Control valves:** Motor-operated XV valves at ring main tie-in points; normally closed; opened during SIPROD operation
 - **Monitor orientation:** Locked pointing toward wellbay areas / escape routes to rig (safety design requirement)
-- **Firewater piping material (KMDD):** Changed from GRE → CuNi 90/10 (confirmed May-2026) — see [[Offshore Piping Material Selection]]
+- **Firewater piping material (KMDD):** Changed from GRE → CuNi 90/10 (confirmed May-2026, TQR issued to VSP) — see [[Offshore Piping Material Selection]]
+- **CuNi stagnation constraint:** CuNi must not retain seawater stagnant >6–9 months (pinhole corrosion risk). CPY (PVEP-KM Le Van Dong) raised this concern on the KMDD TQR. PTSC response: routing design already avoids stagnant sections; short presentation provided 04-Jun-2026; **concern CLOSED 12-Jun-2026** — PVEP-KM Le Van Dong formally accepted the re-routing
+- **CPY acceptance conditions (12-Jun-2026):** (1) Fabrication and installation must comply with design requirements to prevent stagnant water; (2) Pipe stress analysis must account for **sagging** of the piping system
+- **TQR process friction (KMDD):** PTSC issued the GRE→CuNi TQR without prior draft review with CPY Sr. Piping Engineer; CPY required this consultation process for future TQRs
 - **Flange design note:** 150# flange rating limits the system to ~16 barg design pressure; if rig system operates at higher pressure, flange upgrade may be required
 
 ## Connections
@@ -37,3 +40,6 @@ Offshore wellhead platform firewater systems protect personnel and equipment dur
 ## Source References
 
 - [[KMDD Firewater Design Pressure TQ]] — TQ KDP-OOO-03-TQ-X-0001-(P); P&ID data for both WHPs; MOA on PVD III rig basis; first Safety TQ on the KMDD project
+- [[KMDD CuNi Firewater Material Justification]] — TQR with CPY stagnation concern; PTSC routing response; process friction on TQR draft review
+- [[KMDD HAZOP Close-out CPY Feedback]] — Item 7: firewater ring main flowrate/pressure to be added to P&ID after TQ KDP-OOO-03-TQ-X-0001-(P) response
+- [[KMDD CuNi Firewater Stagnation Accepted 13Jun26]] — ✅ CLOSED 12-Jun: CPY accepted re-routing; sagging pipe stress requirement added

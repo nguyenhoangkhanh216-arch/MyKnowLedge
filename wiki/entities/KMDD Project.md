@@ -3,9 +3,8 @@ title: "KMDD Project"
 type: entity
 tags: [work]
 created: 2026-06-03
-updated: 2026-06-11
-
-sources: 74
+updated: 2026-06-15
+sources: 94
 ---
 
 ## Summary
@@ -20,7 +19,7 @@ KMDD is the KM-WHP (Khanh My Wellhead Platform) and DD-WHP (Dam Doi Wellhead Pla
 - **Document numbering:** KDP-KMA-xx (KM-WHP documents), KDP-DDA-xx (DD-WHP documents)
 - **FEED Verification obligation:** 30 days after Effective Date to submit IFR; 60 days for final. Missing items = no Change Order rights
 - **Phase:** Detail Engineering (as of 2026)
-- **Key packages:** MEC-001 (Pressure Vessels, CAT A), MEC-002 (Pig Launcher, CAT A), MEC-003 (Closed Drain Pump, CAT C), MEC-004 (EODD/Non-API Pump, CAT B), MEC-005 (Storage Tank, CAT C), MEC-006 (Chemical Injection, CAT B), MEC-007 (CO2 & N2, CAT B), MEC-008 (Handling Equipment, CAT C), MEC-009 (HVAC, CAT C), INS-002 (PRVs), INS-009 (Allocation & Well Test Flowmeters), PIP-001 (Manual Valves)
+- **Key packages:** MEC-001 (Pressure Vessels, CAT A), MEC-002 (Pig Launcher, CAT A), MEC-003 (Closed Drain Pump, CAT C), MEC-004 (EODD/Non-API Pump, CAT B), MEC-005 (Storage Tank, CAT C), MEC-006 (Chemical Injection, CAT B), MEC-007 (CO2 & N2, CAT B), MEC-008 (Handling Equipment, CAT C), MEC-009 (HVAC, CAT C), [[KMDD-INS-001 Actuated On-Off Valves and MOVs|INS-001]] (MTO issued 04-Jun), INS-002 (PRVs), INS-009 (Allocation & Well Test Flowmeters), PIP-001 (Manual Valves)
 - **TBE status (28-May-2026):** IFR under CPY review: MEC-001, MEC-002, MEC-003, MEC-009. Under TBC: MEC-004, MEC-007, MEC-008. HOLD: MEC-006. IDC internal: MEC-005.
 
 ## Resolved Engineering Decisions (as of 04-Jun-2026)
@@ -53,9 +52,59 @@ KMDD is the KM-WHP (Khanh My Wellhead Platform) and DD-WHP (Dam Doi Wellhead Pla
 - **Flow Assurance:** All parties signed off MOM on frozen FA results — **CLOSED**
 - **MTO surplus from BB1:** Firmed items identified for KMDD utilization; customs/tax clearance ongoing
 
+## Procurement Issues (as of 11–12-Jun-2026)
+
+- **TBC Snapshot (morning 11-Jun):** 9 stale / 13 active (22 packages total). Most stale: INS-005 (27d), ELE-003 (26d), INS-003 (17d), MEC-005 (17d), MEC-007 (14d), MEC-003 (7d), PIP-008 (7d), INS-006 (6d), MEC-004 (6d). Active packages include INS-002 (TBC#2 Rev.B — 5 bidders: KLE, ATA, TTE, An Phu, Thanh An), MEC-006 (TBC#3 Rev.C — 3 bidders), INS-009 (TBC#4 — Bao Nghi awaiting reply due same day).
+- **[[KMDD-INS-002 Pressure Relief Valves]] — TBC#2 Rev.C issued to all 5 bidders (12-Jun 07:21-07:24):** KLE, TTE, Thanh An, An Phu, ATA; deadline COB 15-Jun-26; updated Process DTS + supporting docs 11-Jun enclosed. Technical flag: An Phu's Italian foundry (Technical Srl) raised ferrite spec dispute 11-Jun — 45-55% requirement considered unusual (standard 35-55%) and contradicts low-temp toughness; sub-supplier requests CPY clarification. Status of ferrite dispute resolution unclear.
+- **[[KMDD-MEC-006 Chemical Injection Package]] — TBC#1 Rev.B issued to POS (12-Jun 07:10):** Deadline 11:30 AM Saturday 13-Jun-26. PVDT/FHE TBC#3 Rev.C responses also due 12-Jun.
+- **EDMS Overdue Action (Khánh, 12-Jun):** System reminder: KDP-G-PS-OOO-0001 EEP Rev.A0 — task "(2/3) Consolidate Comment" started 08-Jun, target 09-Jun (now 3 days overdue).
+- **Telecom/ICSS/Ship Collision scope dispute (11-Jun):** VSP Engineering Manager Vo Viet Hai raised two unresolved scope items: (1) Ship Collision analysis — VSP cannot find documentation that this was excluded from PMC bidding scope, creating potential PMC contractual obligation; (2) Telecom/ICSS SoW/SoS — review of allocation per original bidding agreement requested. PMC (Nguyễn Văn Tây) facilitated MS Teams meeting same day.
+- **[[KMDD-MEC-004 EODD Pump and Centrifugal Pump]] — 4 bidders identified:** CPY (Bùi Lê Lương 11-Jun) rejected Thai Khuong (TK) diesel transfer + water transfer pump models and flagged Toan Thang (TTE) water pump BEP. NTT curve confirmed passing. KLE diesel pump fails BEP. TBC#01 Rev.C issued to NTT, TK, TTE on 11-Jun-26; responses due **13-Jun-26 11:00 AM**.
+- **[[KMDD-MEC-006 Chemical Injection Package]] — TBC#2 Rev.C to VHI:** TBC#2 Rev.C issued 11-Jun (VHI responded Rev.B on 03-Jun); deadline **13-Jun-26 11:30 AM**. TBC#1 Rev.B issued to POS on 12-Jun. BCM#2 sessions held 08–09-Jun with PVDT, POS, DKE — in-line configuration confirmed; PVDT motor coupling adapter and routing clarifications remain open.
+- **EEP (KDP-000-03-PS-G-0001 Rev A0):** VSP (Nguyễn Tuấn Cường/OCD) sent comments on EEP to Nguyễn Hoàng Khánh (PTSC M&C) on 12-Jun-26; alignment meeting held 12-Jun afternoon. [[KMDD Engineering Execution Plan Rev A0]] tracks the full plan scope.
+- **DCC Transmittals (week of 11-Jun):** PMC→VSP: TRM-00244 (Structural drawings), TRM-00245 (Instrument drawings). VSP→PMC: T-00122 (Returned Process docs), T-00123 (Returned Instrument docs), T-00124 (HSE docs), T-00125 (Company Supplied Data CSD, 11-Jun-26).
+- **DEG Package Handling (60% Model Review):** Mech team (Đào Tuấn Anh) flagged 11-Jun: (1) only 800mm clearance above DEG package for monorail/hoist — vendor must confirm splitTable enclosure panels; (2) GA Drawing needed to verify internal parts fit Manual Trolley (W=1000mm) through Laydown Area (blocked by column). ELE team to pursue with vendor.
+
+## Procurement Issues (as of 13-Jun-2026)
+
+- **Telecom/ICSS meeting outcome (12-Jun):** Meeting held between PMC (Tây) and VSP (Hải). Technical agreement: proceed per DE design. Commercial SoW/SoS alignment between VSP/PMC procurement teams remains open. Ship Collision deferred to separate email. [[KMDD Telecom ICSS Scope Meeting 12Jun26]]
+- **SOG Safety Studies KOM: CONFIRMED 22-Jun-2026, 08:00–11:30 AM.** PMC pushed back from VSP's proposed 18-Jun; SOG countered 24-25 Jun; agreement reached at 22-Jun. Both SOG (Vijay Chandran + Director Puvan) and CPY (Tuấn, PVEP-KM) confirmed. SOG to review FEED Assumption Register in advance. [[KMDD Safety Studies SOG KOM 22Jun26]]
+- **60% Model Review Workshop target: 06-Jul-2026.** Preparation meeting held 09:00 Saturday 13-Jun (Room 3.16). All discipline leads assembled. [[KMDD 60% Model Review Workshop Jul6]]
+- **CuNi Firewater stagnation concern: ✅ CLOSED 12-Jun.** PVEP-KM Le Van Dong formally accepted re-routing design. Conditions: (1) fabrication per design to prevent stagnation; (2) pipe stress analysis to account for sagging. [[KMDD CuNi Firewater Stagnation Accepted 13Jun26]]
+- **MEC-006 TBC responses received 13-Jun:** PVDT TBC#2 Rev.C and DKE TBC responses received. Painting matrix re-review issued to Corrosion team (Lê Đình Khoa) against KDP-OOO-03-SP-P-0004 D0. [[KMDD MEC006 Painting Matrix Review 13Jun26]]
+- **ELE-001 Solar panel support scope confirmed:** Option 2 — bidder designs support, PTSC M&C fabricates — confirmed as base scope by Tây (13-Jun). [[KMDD ELE001 Solar Panel Support Scope 13Jun26]]
+- **HVAC MEC-009 HCP power data:** MOTEC submitted more complete data than DYNAC; ELE team (Phúc) reviewing for platform power load assessment. [[KMDD HVAC MEC009 HCP Power Bidders 13Jun26]]
+- **Cold vent temperature monitoring (DD-WHP):** INS team (Cảnh) tasked to design configuration; STR (Giáp) to provide 3D access way model. Vent boom: 21.5m, 6.5 MT. [[KMDD Cold Vent Temperature Monitoring]]
+- **Grating clip (CONS):** Dương Hồng Thái confirmed FEED design is executable (13-Jun), though not optimal for construction. DE-CONS AFC drawing schedule discrepancy still exists (100+ drawings). [[KMDD Grating Clip CONS Confirmed 13Jun26]]
+- **DCC Transmittals (week of 13-Jun):** PMC→VSP: TRM-00247 through TRM-00255 (Process×1, Instrument×2, Structural×2, Mechanical×1, Telecom×1, Electrical×1, Civil×1). VSP→PMC: TRM-00131 return.
+- **Weekly Report No.10:** Hà Viết Nhân reminder sent 13-Jun — all discipline managers to submit by 10:00 AM Monday 15-Jun-2026.
+
+## Procurement Issues (as of 14-Jun-2026)
+
+- **TBC Snapshot (14-Jun morning + EOD):** 22 packages — **14 stale / 8 active** — no movement across the entire day (Sunday). Full breakdown in [[KMDD TBC Snapshot 14Jun26]].
+- **INS-002 PRVs — deadline COB 15-Jun (Monday):** TBC#2 Rev.C responses outstanding from all 5 bidders (KLE, TTE, Thanh An, An Phu, ATA). No responses received on 14-Jun. Ferrite spec dispute (An Phu / Technical Srl) still open.
+- **MEC-006 / POS — TBC#2 Rev.B overdue 13 days:** Bùi Lê Lương formally expediting as of 14-Jun 11:19 AM. Extension to 16-Jun covers TBC#1 Rev.B, TBC#2 Rev.B, and TBC#3 Rev.C combined.
+- **INS-009 Nhan Viet — SGS PVT config received:** Kate Nguyen (Nhan Viet) forwarded SGS confirmation 14-Jun 23:01. DBB valve for tracer injection acceptable. Sampling DBBV: no quill; 1" NPT fullbore ≥14mm bore; top (12 o'clock) position. PVT data needed for both allocation and well test flowmeters at first commissioning round. [[KMDD INS-009 Nhan Viet SGS PVT Sampling 14Jun26]]
+- **MEC-004 EODD Pump — Khanh Linh deadline 15-Jun 3:00 PM:** TBC#01 Rev.B response expected Monday.
+- **MEC-008 Handling Equipment — MS Time BCM scheduled 15-Jun** (Monday).
+- **MEC-009 HVAC — TBE Approval deadline 15-Jun:** Dynac + MOTEC both awaiting PTSC reply.
+- **EMDR:** Full set of 8 discipline overdue reports issued 14-Jun (Safety, Structure-Topside, Process, Piping, Mechanical, Material, Instrument, Electrical).
+
+## Subcontract Finalization (PTSC M&C ↔ VSP, as of 05–11-Jun-2026)
+
+- **F2F meeting (VSP) 05-Jun-2026** finalized most exhibit terms. Key agreed decisions:
+  - **Warranty:** 30 months from Ready For Sail-Away (RFSA)
+  - **LD:** No grace period; RFSA hard deadline **12-Jul-2027**; RFLO (Ready For Load Out) **30-Jun-2027**
+  - Temporary works for load-out scope split finalized in Exhibit 2 bảng Split SOW
+- **Still pending (as of 13-Jun-2026):** Exhibit 8 (Schedule — subject to key dates); Exhibit 3 (Compensation — VSP to clarify monthly payment); Bank guarantee form review; **LD RFSA milestone (12-Jul-2027, NO GRACE) — VSP holds firm position**
+- **13-Jun update:** Châu (VSP) sent CPY Document Template (KDP PMC Template for Document Rev 1) to Nam (PTSC) for review of 3 points: (1) cover page format, (2) subcontractor wording, (3) Malaysian law reference
+- **Vietnamese law clause (Article 41.1):** Subcontract governed by Vietnamese law; CPY's Malaysian law comments will NOT be incorporated
+- See [[KMDD Subcontract Finalization Status Jun26]] for full details
+
 ## Procurement Issues (as of 10-Jun-2026)
 
 - **TBC Snapshot (morning 10-Jun):** 12 packages stale / 10 active. No overnight change from 09-Jun EOD. New packages explicitly stale today: MEC-004 EODD Pump (5d), ELE-002 Navigational Aids (5d, MOTEC BCM now scheduled).
+- **[[KMDD-MEC-004 EODD Pump and Centrifugal Pump]] (NTT BCM#1):** Nam Tien Thinh excluded EODD pumps from scope (centrifugal pumps only). 5 open items: VDRL mark-up (G11), ITP mark-up (G12), Form T5 native file (G22), Junction Box scope clarification (EE4), LCS support structure (EE5). Motor Zone 2/IP56/Ex ec confirmed.
 - **MEC-006 Chemical Injection:** TBC#3 Rev.C now issued to **all three bidders** — PVDT (deadline 12-Jun 11:30am), FHE (deadline 12-Jun 4:30pm), VHI (12-Jun). New Methanol Pump Skid width constraint: max 1200mm vs PVDT's proposed 1300mm; two options given (lifting lug modification or detachable lugs post-installation).
 - **ELE-002 Navigational Aids:** BCM meetings scheduled for all 3 bidders/manufacturers — **SE–Pharos 11-Jun 2pm**, **MT Corp–Pharos 12-Jun 8am**, **Motec–Orga 12-Jun 10am**. MOTEC remains non-responsive for 15+ days (risk of disqualification).
 - **MEC-007 CO2 & N2:** Federal Fire Engineering (FFE) sent TBC#2 but PTSC realized TBC#1 Rev.B was never received. Reminder sent 10-Jun; deadline **11-Jun**. FFE raised CO2 piping freezing risk (large pressure drop at RO → choking concern).
@@ -102,11 +151,15 @@ KMDD is the KM-WHP (Khanh My Wellhead Platform) and DD-WHP (Dam Doi Wellhead Pla
 - **Document return backlog (02-Jun):** 171 overdue under PVEP-KM, 140 under VSP — flagged as affecting E&P progress.
 - **WHCP HAZOP workshop:** tentative by 20-Jun-2026; VSP must provide vendor data (P&ID, C&E matrix) ≥ 7 weeks before workshop.
 
+## Open Engineering Issues (as of 11-Jun-2026)
+
+- **DE-CONS AFC Drawing Schedule Conflict:** Construction (Dương Hồng Thái) requested primary steel / secondary framing AFC drawings by 25-Jun-26 to support fabrication sequence (sub-cellar deck upward). DE (Nguyễn Hải Nam) committed Jul–Aug dates: sub-cellar deck 20-Jul, main deck 10-Aug, trusses 27-Jul. Gap = 1–6 weeks. Root causes: weight shedding design changes, engineering resource limits, CPY review cycles, and CBE data not yet available. E&I layouts planned Oct–Nov-2026; isometric AFC DD-WHP Jan-Feb 2027, KM-WHP Dec-2026. Fabrication schedule impact unresolved.
+
 ## Open Engineering Issues (as of 10-Jun-2026)
 
 - **Topside Weight Shedding — OFFICIALLY ACTIONED:** Nguyễn Văn Tây directed all teams to implement weight shedding in design and procurement (10-Jun). Scope: (1) cut cantilever deck (Platform West ~31.8MT) as separate offshore lift; (2) install vent boom offshore; (3) relocate solar panels/equipment to East + install offshore; (4) shift all Main Deck MEC items to East for LO/T&I COG shift; (5) add 30MT counterweight at East. Previously study-only; now official design change.
 - **30% Jacket 3D Model Review (NIPI):** NIPI submitted 30% 3D model for jacket structures. Joint review meeting **11 Jun 2026, 08:00** at NIPI office (Room 203, Building A11, 105 Lê Lợi, Vung Tau). STR/Tín/EMT in person; others online. PVEP-KM confirmed attendance.
-- **60% Model Review KOM:** Nguyễn Văn Tây to organize KOM on **Saturday (13 Jun)**.
+- **60% Model Review KOM:** Preparation meeting held 09:00 AM 13-Jun (Room 3.16). **Workshop target: 06-Jul-2026.** See [[KMDD 60% Model Review Preparation 13Jun26]].
 - **FEED Verification:** All disciplines to work with CPY counterparts on action items; EMT to consolidate and raise Change — deadline **13-Jun** (Nguyễn Dinh Manh).
 - **CI Change Order Impact:** All disciplines submit updated design docs + manhour/procurement impact to Mạnh — due **20-Jun-2026**.
 - **Order Precedences:** Nguyen Dinh Manh checking with CPY — due **11-Jun-2026**.
@@ -134,7 +187,7 @@ KMDD is the KM-WHP (Khanh My Wellhead Platform) and DD-WHP (Dam Doi Wellhead Pla
 - **Pipeline corrosion:** Baker Hughes concept to finalize Jun-2026; TOL/BOL treatment options still being assessed
 - **FA transient analysis:** Input provided 30-May-2026; NIPI performing simulations; IFR target 23-Jun-2026
 - **SIL Classification:** Risktec submitted IFR 04-Jun-2026 (with IDC comments from Nhật/Công); official issue target 05-Jun-2026
-- **Safety Studies contract:** CBE complete; TR + Schedule to BD → BOD signature pending; bidders ERM, SOG, TUV
+- **Safety Studies contract:** CBE complete; TR + Schedule to BD → BOD signature pending; bidders ERM, SOG, TUV. **SOG KOM confirmed 22-Jun-2026** (see [[KMDD Safety Studies SOG KOM 22Jun26]])
 - **30% Model Review close-out:** Piping team sent close-out report to CPY 04-Jun; goal close all items before 60% review
 - **HAZOP close-out (04-Jun-2026):** CPY "Agree in principle" on PSV-1931A/B removal and PSV downstream HIPPS config; PMC to provide calculation + mark-up. CPY rejected tarpaulin for water tote tank (wind concern). Item 6 (N2 supply to methanol tote) needs "no-operator" scenario solution from PMC.
 - **GRE→CuNi TQR:** TQR officially issued; CPY raised seawater stagnation concern; PTSC addressed via routing design presentation 04-Jun. CPY required draft review before future TQR issuance.
@@ -239,3 +292,23 @@ KMDD is the KM-WHP (Khanh My Wellhead Platform) and DD-WHP (Dam Doi Wellhead Pla
 - [[KMDD MEC-007 Federal Fire Missing TBC]] — FFE TBC#1 Rev.B missing; reminder sent; due 11-Jun; CO2 freezing risk raised
 - [[KMDD PIP-002 TBC Rev.D3 APDS]] — Rev.D3 issued to APDS; deadline COB 11-Jun; 7+ bidders in parallel
 - [[KMDD EPCI Engineering Weekly Meeting Week 8]] — MOM 02-Jun: well slot relocation + conductor Change Order, PFP/firewall dispute, EM milestone schedule (DE completion 05-Nov-26), BV design appraisal KOM
+- [[KMDD TBC Snapshot 11Jun26]] — morning 11-Jun: 9 stale / 13 active; MEC-004 BCM#1 resolved same day; INS-002 TBC#2 Rev.B 5 bidders active
+- [[KMDD Telecom ICSS Ship Collision Scope Dispute]] — VSP raised Ship Collision + Telecom/ICSS SoW dispute 11-Jun; PMC contractual exposure risk
+- [[KMDD DE CONS AFC Drawing Schedule Jun11]] — DE-CONS conflict: CONS wants 25-Jun AFC primary steel; DE committed Jul-Aug; weight shedding root cause
+- [[KMDD INS-002 PRV TBC2 Rev.C Wave 12Jun26]] — TBC#2 Rev.C to all 5 INS-002 bidders 12-Jun; COB 15-Jun deadline; ferrite spec dispute
+- [[KMDD MEC-006 POS TBC1 Rev.B 12Jun26]] — TBC#1 Rev.B issued to POS 12-Jun 07:10; deadline 13-Jun 11:30 AM
+- [[KMDD CuNi Firewater Stagnation Accepted 13Jun26]] — ✅ CLOSED 12-Jun: PVEP-KM accepted re-routing; sagging stress requirement added
+- [[KMDD Telecom ICSS Scope Meeting 12Jun26]] — meeting outcome 12-Jun: technical direction agreed; SoW/SoS commercial alignment pending; Ship Collision deferred
+- [[KMDD 60% Model Review Workshop Jul6]] — preparation meeting 13-Jun (Room 3.16, all discipline leads); workshop target 06-Jul-2026
+- [[KMDD Cold Vent Temperature Monitoring]] — INS: thermowell design; STR: access way; vent boom 21.5m 6.5 MT DD-WHP
+- [[KMDD Telecom ICSS Ship Collision Resolution 12Jun26]] — Ship Collision: 1.5–2 months lead; VSP to issue formal PMT letter requiring PMC obligation; PMC claims exclusion but lacks documentation
+- [[KMDD MEC-006 TBC3 Bidder Response 12Jun26]] — PVDT confirmed combined CI+MeOH skid; POS extended to 16-Jun; motor power dispute (0.09/0.18 kW PVDT vs Milton Roy datasheet)
+- [[KMDD TBC Snapshot 13Jun26]] — EOD 13-Jun: 22 packages, 12 stale / 10 active; MEC-006 only package active today (219 emails); INS-002 TBC#2 Rev.C deadline COB 15-Jun
+- [[KMDD Safety Studies SOG KOM 22Jun26]] — SOG KOM confirmed 22-Jun 08:00–11:30; Vijay Chandran, Puvan (SOG); FEED Assumption Register pre-read
+- [[KMDD Subcontract Finalization Status Jun26]] — F2F 05-Jun outcome; LD RFSA open (12-Jul-27 NO GRACE); Exhibits 3, 8 open; CPY template review 13-Jun
+- [[KMDD ELE001 Solar Panel Support Scope 13Jun26]] — Option 2 confirmed base scope: bidder designs, PTSC M&C fabricates
+- [[KMDD HVAC MEC009 HCP Power Bidders 13Jun26]] — MOTEC more complete; ELE team reviewing for platform power load assessment
+- [[KMDD MEC006 Painting Matrix Review 13Jun26]] — internal re-review of CI package painting matrix against KDP-OOO-03-SP-P-0004 D0
+- [[KMDD Grating Clip CONS Confirmed 13Jun26]] — CONS confirmed FEED grating clip executable 13-Jun; AFC schedule gap still exists
+- [[KMDD TBC Snapshot 14Jun26]] — 14-Jun: 14 stale / 8 active; no movement; INS-002 deadline COB 15-Jun; POS expediting (2026-06-15)
+- [[KMDD INS-009 Nhan Viet SGS PVT Sampling 14Jun26]] — SGS confirmed DBB injection OK; DBBV sampling must be quill-free 1" NPT fullbore ≥14mm top-mounted (2026-06-15)

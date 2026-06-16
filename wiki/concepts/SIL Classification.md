@@ -3,8 +3,8 @@ title: "SIL Classification"
 type: concept
 tags: [work, science]
 created: 2026-06-04
-updated: 2026-06-04
-sources: 1
+updated: 2026-06-10
+sources: 3
 ---
 
 ## Summary
@@ -25,6 +25,7 @@ Safety Integrity Level (SIL) Classification is a formal process to determine the
 - **Third-party consultant required:** Cannot be done by the engineering contractor alone on offshore EPCI projects — must be an independent certifier (e.g., Risktec, TUV, DNV, ABS, etc.)
 - **Integration with HIPPS:** High-demand HIPPS loops typically require SIL 2 or SIL 3 — drives redundancy design of initiators and final elements
 - **KMDD:** Risktec performing SIL Classification; IFR submitted 04-Jun-2026 incorporating IDC comments from Cao Thành Nhật and Nguyễn Ngọc Công; official issue planned 05-Jun-2026
+- **KMDD Milestone #2 submitted 09-Jun-2026:** Risktec (Andrea Tria) submitted signed completion certificate + IVC-RISKTEC-LS-001 for Milestone #2; requesting client approval for next 20% payment tranche under contract 013-2025/PTSCMC/KM-DD/S-A
 
 ## Connections
 - [[HIPPS Overpressure Protection]] — HIPPS loops are among the most safety-critical SIFs, often requiring SIL 2–3
@@ -33,4 +34,6 @@ Safety Integrity Level (SIL) Classification is a formal process to determine the
 - [[KMDD Safety Studies Contract Pending]] — contract context: CBE done, BOD signature pending; Risktec is performing the study
 
 ## Source References
-- [[KMDD SIL Classification IFR Jun 4]] — KMDD implementation: Risktec submitted IFR 04-Jun-2026
+- [[KMDD SIL Classification IFR Jun 4]] — Risktec submitted IFR 04-Jun-2026
+- [[KMDD Hazid Hazop SIL Milestone 2]] — Milestone #2 completion certificate submitted 09-Jun-2026; 20% payment invoice triggered
+- [[KMDD Scope of Work HAZID HAZOP SIL]] — LOPA methodology per IEC 61508/61511; scope covers all SIFs on KM-WHP and DD-WHP; 3 working days allocated

@@ -3,8 +3,8 @@ title: "Chemical Injection System Design"
 type: concept
 tags: [work, science]
 created: 2026-06-03
-updated: 2026-06-04
-sources: 4
+updated: 2026-06-10
+sources: 9
 ---
 
 ## Summary
@@ -46,11 +46,37 @@ Offshore wellhead platforms inject multiple chemicals into produced fluids to pr
 - Triplex preferred: 3 plungers → lower peak power per plunger, DOL starter sufficient
 - Simplex at high capacity requires soft starter or VFD → higher electrical complexity
 
-### KMDD confirmed values (May-2026):
-- PPD: **500 ppmv** oil rate (↑ from FEED 300; Baker Hughes recommended 300–500)
-- SI: **40 ppmv** total liquid rate, **upstream choke** (rate kept; injection point moved)
-- CI: **50 L/d** base case DD-WHP; **130 L/d** optional (covering commingled KM+DD flow)
-- Methanol: **KM 507.8 L/h** (30% start-up), **DD 560.8 L/h** (50% start-up) — triplex, 7.5 kW DOL
+### KMDD confirmed values (VSP accepted 08-Jun-2026):
+- PPD: **500 ppmv** oil rate (↑ from FEED 300; Baker Hughes PAO82004 product)
+- SI: **40 ppmv** total liquid rate, **upstream choke** (rate kept; injection point moved upstream of choke)
+- CI: **80 L/d KM-WHP**, **130 L/d DD-WHP** (↑ from FEED 50 L/d; confirmed final, not optional; product CRO28022AP)
+- Methanol: **KM 507.8 L/h** (30% start-up), **DD 560 L/h** (50% start-up) — triplex, 7.5 kW DOL; ×10 increase from FEED
+
+### V-Jet Pigging (new scope, 08-Jun-2026):
+- Design updated to accommodate both Double and Single Pig concept (V-Jet)
+- Results in slightly longer pig launcher than conventional design
+- Both pig concepts confirmed by VSP 08-Jun
+- VSP requested PMC to clarify operational/maintenance procedures comparing Single vs Double Pig before final selection — Client (PVEP-KM) and Operator (HML) to make final call
+
+### Formal acceptance chain (08-Jun-2026):
+- **VSP NIPI** (Trương Minh Đức, 09:42): supported PMC/VSP proposal
+- **VSP** (Vo Viet Hai, 09:27 + 11:05): accepted all dosing rates; no technical objection
+- **PVEP-KM** (Nguyen Khac Hung, 10:36): formally accepted per letter Ref. 158-2026/DEV/PVEP-KM (05-Jun-2026); directed VSP to submit CIS design for review/approval
+- **Final alignment meeting**: 09-Jun-2026, 8:00AM, Room 901 VSP OCD Office (called by Nguyen Dinh Manh, PTSC)
+
+### BCM with PVDT (09-Jun-2026):
+- **Meeting:** BCM held between PTSC and PVDT (vendor) on 09-Jun-2026 for MEC-006 Chemical Injection Package
+- **Confirmed:** In-line configuration for part of the CIS system
+- **Open items:** Combined flow routing and piping line routing clarifications still unresolved
+- **Action items (PVDT):** (1) Review detailed drawings/text and verify motor information; (2) Create adapter for motor coupling
+- **Electrical Load List sent:** Utility list + PVDT and POS electrical load lists sent separately to Lê Phú Cường on same day
+
+### Combined CIS + MeOH Skid (post-FEED, 08-Jun-2026):
+- CPY (PVEP-KM) requested combining Chemical Injection Skid and Methanol Injection Skid into a single common skid
+- Rationale: reduced footprint, single lift, simpler operations; also weight reduction
+- BCM#2 held 08-Jun: both POS and DKE confirmed feasible
+- Requires: revised layout, maintenance access, CoG calculation, lifting analysis, updated GAD
+- Response deadline: **12-Jun-2026**
 
 ## Connections
 
@@ -66,9 +92,19 @@ Offshore wellhead platforms inject multiple chemicals into produced fluids to pr
 - PTSC querying bidder (PVDT, Jun 3): can IRCDs run on VAC power instead? Is internal AC/DC PSU needed?
 - If only 24VDC is feasible, platform power distribution design may need revision
 
+### Nitrogen system PCV design (new items 04-Jun-2026):
+- **PCV set pressure in Nitrogen Bottle Racks (item 2.22):** PMC proposed revised upstream pressure for sizing PCVs in Nitrogen Supply Headers — awaiting CPY approval
+- **Design flowrate for N2 system PCVs (item 2.23):** PMC to propose practical purging rate / pressurization rate for CPY review
+- **N2 supply to methanol tote tank T-5381 (HAZOP item 6/13):** Still open — CPY requires a solution to prevent nitrogen loss when no operator is on platform; 2×100% PCVs with staggered setpoints proposed for remote startup mode
+
 ## Source References
 
 - [[KMDD Chemical Dosing Rate Decisions]] — final dosing rates confirmed in 13-May-2026 meeting
 - [[KMDD Pipeline Corrosion Baker Hughes]] — CI design basis from Baker Hughes engagement
 - [[KMDD Methanol Pump Capacity Upgrade]] — methanol pump sizing study with EDG power constraint
 - [[KMDD MEC-006 IRCD Power Supply Issue]] — 24VDC capacity constraint identified Jun-2026
+- [[KMDD External Process Weekly Meeting MOM-009]] — nitrogen PCV items 2.22/2.23; N2 methanol tote HAZOP item
+- [[KMDD Chemical Dosing Rate Finalization]] — VSP accepted all dosing rates 08-Jun-2026; CI 130 L/d DD confirmed; V-Jet pigging approved
+- [[KMDD MEC-006 BCM2 Results 08Jun26]] — combined CIS+MeOH skid decision; Triplex pump confirmed; 12-Jun-2026 deadline
+- [[KMDD MEC-006 BCM PVDT 09Jun26]] — BCM with PVDT 09-Jun: in-line config confirmed; motor adapter action; electrical load list sent
+- [[KMDD TBC Snapshot 10Jun26]] — TBC#3 Rev.C issued to all 3 bidders (PVDT, FHE, VHI); deadline 12-Jun; Methanol Pump Skid width constraint (max 1200mm) introduced

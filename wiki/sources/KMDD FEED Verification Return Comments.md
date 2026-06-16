@@ -10,7 +10,7 @@ raw_file: "E:\\MyVault\\Emails\\KMDD\\2026-06-02 - KMDD - FEED Verification CRS.
 
 ## Summary
 
-PVEP-KM returned the FEED Verification Report (KDP-OOO-03-RP-G-0002-D0) with Return Code 2 (Revise and Resubmit) on 02-Jun-2026. PMC received the comment response sheet (CRS) and needs to review, respond to each comment, and prepare for a meeting with CPY scheduled for Thursday 05-Jun-2026. This is the normal review cycle after the initial IFR submission.
+PVEP-KM returned the FEED Verification Report (KDP-OOO-03-RP-G-0002-D0) with Return Code 2 (Revise and Resubmit) on 02-Jun-2026. PMC received the comment response sheet (CRS) and needs to review, respond to each comment, and prepare for a meeting with CPY. Meeting originally proposed 05-Jun-2026, rescheduled to 09-Jun-2026 (per KMDD FEED Verification Code 2 Return). This is the normal review cycle after the initial IFR submission.
 
 ## Key Points
 
@@ -21,7 +21,7 @@ PVEP-KM returned the FEED Verification Report (KDP-OOO-03-RP-G-0002-D0) with Ret
 - **Next steps:**
   - All discipline leads to review assigned comments in CRS
   - Internal meeting: Thursday morning 04-Jun-2026 to align on major items
-  - Meeting with CPY: Thursday 05-Jun-2026
+  - Meeting with CPY: rescheduled 09-Jun-2026 (originally 05-Jun)
 - **Significance:** FEED Verification Report is the contract-mandated document proving contractor reviewed FEED and flagged all discrepancies. Return Code 2 means PVEP-KM has specific items they want revised/clarified before accepting.
 
 ## Connections

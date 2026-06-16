@@ -28,3 +28,4 @@ Personal Knowledge Management (PKM) is the practice of deliberately collecting, 
 ## Source References
 
 - [[LLM Wiki - A Pattern for Personal Knowledge Bases]] — introduced the LLM Wiki approach as a PKM architecture
+- [[PMP CAPM Memory Sheets]] — PMP/CAPM exam reference; professional PM knowledge accumulation as a PKM use case

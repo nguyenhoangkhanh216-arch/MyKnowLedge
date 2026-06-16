@@ -3,14 +3,14 @@ title: "KMDD Flow Assurance Study Status"
 type: source
 tags: [work, science]
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-05
 sources: 1
 raw_file: "E:\\MyVault\\Emails\\KMDD\\NIPI\\2026-05-20 - RE [Ext] FW KMDD - Interface Channel Setup - Steady state results for ALL CASES.md"
 ---
 
 ## Summary
 
-The Flow Assurance (FA) study for KMDD is conducted by NIPI (VSP subcontractor), using production profiles provided by PVEP-KM and simulation input from PTSC Process team via HYSYS. Steady state results are finalized (as of 19-May-2026). Transient analysis is pending final production profile input from PVEP-KM. Both reports are delayed due to frequent input data changes.
+The Flow Assurance (FA) study for KMDD is conducted by NIPI (VSP subcontractor), using production profiles provided by PVEP-KM and simulation input from PTSC Process team via HYSYS. Steady state results are finalized. **Input data freeze agreed by all parties 29-May-2026 (MOM signed off — CLOSED).** Transient analysis still in progress; IFR deadline 23-Jun-2026. Earlier delays caused by frequent input data changes from PVEP-KM.
 
 ## Key Points
 
