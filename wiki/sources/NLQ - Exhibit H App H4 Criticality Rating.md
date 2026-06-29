@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit H App H4 Criticality Rating"
 type: source
 tags: [work]
@@ -52,5 +52,5 @@ Appendix H4 Rev A (14 pages) defines the Criticality Rating methodology and prov
 
 ## Source References
 
-- [[sources/NLQ - Exhibit H App H3 Inspection Levels]] — App H3 translates criticality ratings into inspection level actions
-- [[sources/NLQ - Exhibit H QA QC Main]] — main Exhibit H §6.3 and §4.3.8 reference App H4 for surveillance intensity
+- [[NLQ - Exhibit H App H3 Inspection Levels]] — App H3 translates criticality ratings into inspection level actions
+- [[NLQ - Exhibit H QA QC Main]] — main Exhibit H §6.3 and §4.3.8 reference App H4 for surveillance intensity

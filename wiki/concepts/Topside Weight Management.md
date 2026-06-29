@@ -1,10 +1,10 @@
----
+﻿---
 title: "Topside Weight Management"
 type: concept
 tags: [work, science]
 created: 2026-06-12
-updated: 2026-06-13
-sources: 7
+updated: 2026-06-18
+sources: 9
 ---
 
 ## Summary
@@ -49,6 +49,16 @@ Topside weight management is the process of controlling the total structural wei
 | MEC | All Main Deck items to Platform East; COG recalculation |
 | SAF | Escape route and Tote Tank rearrangement to platform East |
 
+### SHWT 24VDC Load Overrun Risk (16–17-Jun-2026)
+
+- **Issue:** DD-WHP 24VDC load overrun vs FEED — two components:
+  - **Overall system (excl. ICSS):** PMC calculation shows +33% vs FEED basis — HVAC instrumentation shelter AC basis changed from FEED's 8h/day to 24h/day continuous (not yet validated); communicated by PMC 16-Jun evening
+  - **ICSS load only:** Unofficial estimate 3,045W vs FEED 1,567W (+94%); confirmed 16-Jun; separate from the +33% figure
+- **Drivers:** WHCP, Chemical Injection Package (MEC-006), DEG, Telecom/CCTV scope updates; HVAC operating basis change
+- **Impact if confirmed:** Solar panel array, wind turbine, battery bank, and charge controller may all need upsizing → adds weight and possibly requires platform layout changes
+- **Escalation 17-Jun:** PVEP-KM (Nguyen Khac Hung) formally asked VSP to evaluate PMC's updated 24VDC load list and recommend a fit-for-purpose SHWT solution; meeting requested 18-Jun
+- **Status as of 17-Jun:** Escalated to PVEP-KM level; VSP evaluation and solution recommendation pending
+
 ### Procurement Consequence
 
 - Chemical injection (MEC-006) and other MEC items on Main Deck are affected by relocation to Platform East — skid layout and mounting changes needed
@@ -74,6 +84,8 @@ Topside weight management is the process of controlling the total structural wei
 - [[KMDD 30% Jacket 3D Model Review 11Jun26]] — concurrent jacket review while topside shedding progresses
 - [[Technical Bid Clarification Process]] — weight changes must be incorporated into TBE approvals before finalization
 - [[KMDD DE CONS AFC Drawing Schedule Jun11]] — weight shedding design changes are the root cause of AFC date slippage; structural drawings delayed to Jul-Aug 2026
+- [[KMDD SHWT Load Increase 16Jun26]] — 24VDC load 93% above FEED; SHWT resizing risk
+- [[KMDD SHWT Load Increase 17Jun26]] — PVEP-KM escalation; VSP asked to evaluate; +33% excl. ICSS clarified
 
 ## Source References
 
@@ -84,3 +96,5 @@ Topside weight management is the process of controlling the total structural wei
 - [[KMDD 30% Jacket 3D Model Review 11Jun26]] — jacket review concurrent with topside shedding
 - [[KMDD Project]] — ongoing procurement and design status with weight constraints
 - [[KMDD DE CONS AFC Drawing Schedule Jun11]] — AFC schedule slippage attributed to weight shedding design changes; CONS vs DE gap 1–6 weeks
+- [[KMDD SHWT Load Increase 16Jun26]] — 24VDC load 93% above FEED; SHWT resizing may add further weight (2026-06-17)
+- [[KMDD SHWT Load Increase 17Jun26]] — PVEP-KM escalation; VSP asked to evaluate +33% (excl. ICSS) load list; meeting 18-Jun (2026-06-18)

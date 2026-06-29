@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit A App A1 Detailed Engineering"
 type: source
 tags: [work]
@@ -57,4 +57,4 @@ Appendix A1 Rev B is the 34-page detailed engineering scope within Exhibit A, co
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A Scope of Work]] — parent document that references App A1 for detailed engineering
+- [[NLQ - Exhibit A Scope of Work]] — parent document that references App A1 for detailed engineering

@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Safety Engineering Requirements"
 type: concept
 tags: [work, science]
@@ -63,4 +63,4 @@ This page captures all Safety Engineering requirements for the NLQ EPCIC 10 proj
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.2 Safety section is the governing source for all items on this page
+- [[NLQ - Exhibit A App A1 Detailed Engineering]] — §2.2 Safety section is the governing source for all items on this page

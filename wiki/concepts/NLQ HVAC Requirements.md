@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ HVAC Requirements"
 type: concept
 tags: [work, science]
@@ -38,5 +38,5 @@ This page captures all HVAC Engineering requirements for the NLQ EPCIC 10 projec
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.5 HVAC section is the governing source for design requirements
-- [[sources/NLQ - Exhibit D Performance Guarantees]] — Table 4-1 Item 4: HVAC 1-month performance test acceptance criteria
+- [[NLQ - Exhibit A App A1 Detailed Engineering]] — §2.5 HVAC section is the governing source for design requirements
+- [[NLQ - Exhibit D Performance Guarantees]] — Table 4-1 Item 4: HVAC 1-month performance test acceptance criteria

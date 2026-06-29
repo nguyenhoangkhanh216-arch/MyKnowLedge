@@ -1,10 +1,10 @@
----
+﻿---
 title: "NLQ Project"
 type: entity
 tags: [work]
 created: 2026-06-16
-updated: 2026-06-16
-sources: 10
+updated: 2026-06-27
+sources: 11
 ---
 
 ## Summary
@@ -33,11 +33,12 @@ The New Living Quarter (NLQ) Project is an EPCIC 10 contract issued by North Oil
 
 ## Source References
 
-- [[sources/NLQ - ITT]] — ITT document (CFT ref. 10210491) is the primary source for project-level information
-- [[sources/NLQ - Exhibit G Coordination Procedure]] — identifies Jerome Morin as COMPANY REPRESENTATIVE; defines CCM, meeting, and reporting structure
-- [[sources/NLQ - Exhibit G App G1 Weekly and Monthly Report Format]] — 12 Work Package report structure
-- [[sources/NLQ - Exhibit G App G2 Change Order Procedure]] — COI/COR/CO workflow and standard forms
-- [[sources/NLQ - Exhibit G App G3 Planning Scheduling Progress Control]] — Primavera P6 and Deltek Acumen Fuse requirements; progress scales
-- [[sources/NLQ - Exhibit G App G4 Insurance Claim Procedure]] — insurance claim process
-- [[sources/NLQ - Exhibit G App G5 Risk Management Procedure]] — risk matrix, PSRA, risk workshops
-- [[sources/NLQ - Exhibit G App G6 Project Reporting Calendar]] — reporting calendar structure
+- [[NLQ - ITT]] — ITT document (CFT ref. 10210491) is the primary source for project-level information
+- [[NLQ - Exhibit G Coordination Procedure]] — identifies Jerome Morin as COMPANY REPRESENTATIVE; defines CCM, meeting, and reporting structure
+- [[NLQ - Exhibit G App G1 Weekly and Monthly Report Format]] — 12 Work Package report structure
+- [[NLQ - Exhibit G App G2 Change Order Procedure]] — COI/COR/CO workflow and standard forms
+- [[NLQ - Exhibit G App G3 Planning Scheduling Progress Control]] — Primavera P6 and Deltek Acumen Fuse requirements; progress scales
+- [[NLQ - Exhibit G App G4 Insurance Claim Procedure]] — insurance claim process
+- [[NLQ - Exhibit G App G5 Risk Management Procedure]] — risk matrix, PSRA, risk workshops
+- [[NLQ - Exhibit G App G6 Project Reporting Calendar]] — reporting calendar structure
+- [[NLQ MEC-019 CC Offshore TBC1 RevA1 26Jun26]] — C&C Offshore TBC#1 Rev.A1 for Fixed Foam Package (MEC-019); submitted 26-Jun-2026 on time (2026-06-27)

@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit G App G6 Project Reporting Calendar"
 type: source
 tags: [work]
@@ -26,4 +26,4 @@ Appendix G6 Rev A defines the Project Reporting Calendar for NLQ EPCIC 10. The c
 
 ## Source References
 
-- [[sources/NLQ - Exhibit G Coordination Procedure]] — parent document; reporting calendar at §4.1
+- [[NLQ - Exhibit G Coordination Procedure]] — parent document; reporting calendar at §4.1

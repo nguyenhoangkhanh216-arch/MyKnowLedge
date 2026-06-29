@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Electrical Engineering Requirements"
 type: concept
 tags: [work, science]
@@ -58,5 +58,5 @@ This page captures all Electrical Engineering requirements for the NLQ EPCIC 10 
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.8 Electrical section is the governing source for all items on this page
-- [[sources/NLQ - Exhibit D Performance Guarantees]] — Table 4-1: Lighting, UPS/Battery, EDG performance test acceptance criteria and durations
+- [[NLQ - Exhibit A App A1 Detailed Engineering]] — §2.8 Electrical section is the governing source for all items on this page
+- [[NLQ - Exhibit D Performance Guarantees]] — Table 4-1: Lighting, UPS/Battery, EDG performance test acceptance criteria and durations

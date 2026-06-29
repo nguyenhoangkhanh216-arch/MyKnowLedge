@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Lifting Operations Requirements"
 type: concept
 tags: [work]
@@ -52,5 +52,5 @@ This page consolidates NLQ EPCIC 10 lifting requirements from both Appendix A5 (
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A5 Lifting Appliances Documentation]] — crane and winch documentation requirements
-- [[sources/NLQ - Exhibit A App A6 Lifting Operations]] — management system, planning, criticality, and inspection requirements
+- [[NLQ - Exhibit A App A5 Lifting Appliances Documentation]] — crane and winch documentation requirements
+- [[NLQ - Exhibit A App A6 Lifting Operations]] — management system, planning, criticality, and inspection requirements

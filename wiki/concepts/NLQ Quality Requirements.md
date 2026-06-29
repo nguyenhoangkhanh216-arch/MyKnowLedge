@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Quality Requirements"
 type: concept
 tags: [work]
@@ -172,10 +172,10 @@ Required attachments to Attachment 13: policy statements, QA/QC organisation cha
 
 ## Source References
 
-- [[sources/NLQ - ITT]] — tender QA/QC submission requirements from §8.2.3.12 and Attachment 13
-- [[sources/NLQ - Exhibit H QA QC Main]] — full contractual QA/QC framework (Exhibit H Rev A, 30 pages)
-- [[sources/NLQ - Exhibit H App H1 Certification]] — conformity assessment levels and CA scope
-- [[sources/NLQ - Exhibit H App H2 Equipment Certification]] — material certification types and certification matrix
-- [[sources/NLQ - Exhibit H App H3 Inspection Levels]] — inspection level definitions and equipment allocation
-- [[sources/NLQ - Exhibit H App H4 Criticality Rating]] — criticality rating methodology and pre-populated equipment ratings
-- [[sources/NLQ - Exhibit H App H5 Interface Handover]] — interface item handover process and dispatch dossier requirements
+- [[NLQ - ITT]] — tender QA/QC submission requirements from §8.2.3.12 and Attachment 13
+- [[NLQ - Exhibit H QA QC Main]] — full contractual QA/QC framework (Exhibit H Rev A, 30 pages)
+- [[NLQ - Exhibit H App H1 Certification]] — conformity assessment levels and CA scope
+- [[NLQ - Exhibit H App H2 Equipment Certification]] — material certification types and certification matrix
+- [[NLQ - Exhibit H App H3 Inspection Levels]] — inspection level definitions and equipment allocation
+- [[NLQ - Exhibit H App H4 Criticality Rating]] — criticality rating methodology and pre-populated equipment ratings
+- [[NLQ - Exhibit H App H5 Interface Handover]] — interface item handover process and dispatch dossier requirements

@@ -3,8 +3,8 @@ title: "Open Drain System Design"
 type: concept
 tags: [work, science]
 created: 2026-06-03
-updated: 2026-06-04
-sources: 3
+updated: 2026-06-27
+sources: 6
 ---
 
 ## Summary
@@ -32,6 +32,17 @@ The open drain system collects oily water from equipment drainage (deck drains, 
 | PPS        | 3100               | 1800                  | 2000 (at 10% HC) |
 | FEED basis | 1800               | —                     | 1200             |
 
+- **PPS TBC response (19-Jun-2026) — 4-option breakdown:**
+
+| Option | L × W × H (mm) | Flow basis | Inlet condition | Note |
+|--------|-----------------|------------|-----------------|------|
+| Base | 1800 × 1312 × 1400 | 8 m³/h | 1000 ppmv | Matches FEED footprint |
+| Option 1 | 1930 × 711 × 1732 | 5 m³/h | 10% HC deck washing | Fits within deck with some changes |
+| Option 2 | 1930 × 711 × 1237 | 3 m³/h | 10% HC deck washing | Smaller height vs Option 1 |
+| Option 3 | 3842 × 1348 × 1824 | — | 10% HC continuous | CPI plate pack — **NOT suitable** for continuous 10% HC feed |
+
+  Key findings: CPI plate pack (Option 3) explicitly not recommended for continuous 10% HC. Options 1/2 only viable at reduced flow rates. Base case (1000 ppmv) confirms FEED footprint is achievable. Three other bidders (DKE, AECC, VHI) still awaiting response from their vendors as of 19-Jun.
+
 - **Procurement approach for unresolved inlet value:** Issue PDS IFR with HOLD on oil inlet parameter; prepare base case + optional datasheets; issue TBC to bidders after receiving technical proposals — avoids disrupting bidding process mid-stage
 - **Procurement rule:** Do not send ad-hoc updates to bidders during proposal stage; all changes go via TBC after proposals received (fairness to all bidders)
 - **Outlet spec regulatory basis (KMDD):** Dual requirement — Marpol Annex 1 (international) AND Vietnamese Circular 02/2022/TT-BTNMT (national). Both mandate ≤15 mg/l oil-in-water for overboard discharge.
@@ -41,6 +52,13 @@ The open drain system collects oily water from equipment drainage (deck drains, 
 
 - [[KMDD Project]] — open drain tank oil-in-water sizing dispute between FEED value and go-by data
 - [[KMDD Open Drain Tank Oil-in-Water Content]] — KMDD case details
+
+### 3D model placement issue (18-Jun-2026):
+- **Problem:** OD Tank placed on the same deck as CD (Closed Drain) Vessel in the 3D model → the OD Tank outlet elevation is higher than CD Vessel → gravity drain from CD Vessel to OD Tank is physically impossible
+- **Constraint:** For gravity drain to work, the OD Tank must be on a lower deck than the CD Vessel
+- **PMC clarification pending:** Investigating whether gravity drain from CD Vessel to OD Tank is actually required — if the CD Transfer Pump can evacuate all liquid from the CD Vessel, gravity drain may not be needed
+- **Impact if gravity drain required:** 3D model layout change (OD Tank to lower deck); structural/piping rework
+- **Next step:** PMC to confirm drain philosophy before 3D model adjustment
 
 ### ALARP basis for not using rupture/major leak as sizing case:
 - Sizing a tank for tank rupture or major leak is non-compliant with ALARP: it imposes very high cost for a very low-probability event
@@ -53,3 +71,6 @@ The open drain system collects oily water from equipment drainage (deck drains, 
 - [[KMDD Open Drain Tank Oil-in-Water Content]] — KMDD case: 10% FEED value too high; 1000 ppmv proposed; vendor evidence required
 - [[KMDD Open Drain Tank Sizing Presentation Jun 5]] — 4-bidder comparison; FEED tank (1800 mm) undersized for 10% HC; actual sizing 3050–3600 mm; Change Order basis
 - [[KMDD MEC Weekly Meeting MOM-005]] — Item 6.2: outlet warranty concern; regulatory basis confirmed; CPY deeply concerned
+- [[KMDD 3D Model Open Drain Gravity Issue 18Jun26]] — OD Tank placed same deck as CD Vessel → gravity drain from CD Vessel to OD Tank impossible; PMC clarifying if gravity drain is even required (CD Transfer Pump may handle all liquid) (2026-06-19)
+- [[KMDD Open Drain Tank Options Response 19Jun26]] — PPS 4-option dimensions; CPI unsuitable for continuous 10%HC; DKE/AECC/VHI still awaiting vendor; Base case 1000ppmv confirms FEED footprint (2026-06-20)
+- [[KMDD Internal Process Meeting MOM 23Jun26]] — Item 2.11 OD Tank OIW REOPENED — oil-in-water content design question reopened after being previously closed (2026-06-27)

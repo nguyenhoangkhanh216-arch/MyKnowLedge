@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Brownfield Integration Requirements"
 type: concept
 tags: [work]
@@ -28,6 +28,6 @@ The NLQ EPCIC 10 project requires CONTRACTOR to manage brownfield integration wi
 - [[NLQ Project]] — project entity
 
 ## Source References
-- [[sources/NLQ - Exhibit E App E2 Brownfield Integration]] — App E2 Rev C: primary source for brownfield integration scope and scenarios
-- [[sources/NLQ - Exhibit E Design Dossier]] — parent Exhibit E referencing App E2 brownfield scope
-- [[sources/NLQ - Exhibit E App E4 Additional Technical Documents]] — App E4 Rev B: NTBE technical reference docs (HAZAN, ENVID, geotechnical) for brownfield platforms
+- [[NLQ - Exhibit E App E2 Brownfield Integration]] — App E2 Rev C: primary source for brownfield integration scope and scenarios
+- [[NLQ - Exhibit E Design Dossier]] — parent Exhibit E referencing App E2 brownfield scope
+- [[NLQ - Exhibit E App E4 Additional Technical Documents]] — App E4 Rev B: NTBE technical reference docs (HAZAN, ENVID, geotechnical) for brownfield platforms

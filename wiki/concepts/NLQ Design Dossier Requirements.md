@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Design Dossier Requirements"
 type: concept
 tags: [work]
@@ -30,6 +30,6 @@ The NLQ EPCIC 10 Design Dossier (Exhibit E) defines the complete set of technica
 - [[NLQ Commercial and Tender Requirements]] — TBE endorsement is a contractual obligation per Article 13.4
 
 ## Source References
-- [[sources/NLQ - Exhibit E Design Dossier]] — Exhibit E Rev D + App E1/E2/E4
-- [[sources/NLQ - Exhibit E App E1 Technical Documents]] — App E1 Rev C: TBE document list and CFT Clarification/Exception registers
-- [[sources/NLQ - Exhibit E App E4 Additional Technical Documents]] — App E4 Rev B: NTBE geotechnical, HAZAN, ENVID, and field layout documents for B- and A-Location
+- [[NLQ - Exhibit E Design Dossier]] — Exhibit E Rev D + App E1/E2/E4
+- [[NLQ - Exhibit E App E1 Technical Documents]] — App E1 Rev C: TBE document list and CFT Clarification/Exception registers
+- [[NLQ - Exhibit E App E4 Additional Technical Documents]] — App E4 Rev B: NTBE geotechnical, HAZAN, ENVID, and field layout documents for B- and A-Location

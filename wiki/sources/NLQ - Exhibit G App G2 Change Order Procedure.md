@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit G App G2 Change Order Procedure"
 type: source
 tags: [work]
@@ -33,4 +33,4 @@ Appendix G2 Rev A defines the Change Order procedure for NLQ EPCIC 10 per Articl
 
 ## Source References
 
-- [[sources/NLQ - Exhibit G Coordination Procedure]] — parent document; Change Order obligations originate in §4.4
+- [[NLQ - Exhibit G Coordination Procedure]] — parent document; Change Order obligations originate in §4.4

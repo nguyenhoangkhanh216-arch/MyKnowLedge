@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit H App H2 Equipment Certification"
 type: source
 tags: [work]
@@ -53,4 +53,4 @@ Appendix H2 Rev A (11 pages) defines the material and equipment certification re
 
 ## Source References
 
-- [[sources/NLQ - Exhibit H QA QC Main]] — App H2 is listed as Appendix in §11; applies through the procurement phases
+- [[NLQ - Exhibit H QA QC Main]] — App H2 is listed as Appendix in §11; applies through the procurement phases

@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Interface Management Requirements"
 type: concept
 tags: [work]
@@ -41,4 +41,4 @@ This page captures the NLQ EPCIC 10 interface management obligations (Appendix A
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A10 Interface Management]] — primary source for interface management obligations, process, and deliverables
+- [[NLQ - Exhibit A App A10 Interface Management]] — primary source for interface management obligations, process, and deliverables

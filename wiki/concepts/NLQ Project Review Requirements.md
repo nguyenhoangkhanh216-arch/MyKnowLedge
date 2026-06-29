@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Project Review Requirements"
 type: concept
 tags: [work]
@@ -40,4 +40,4 @@ This page captures the NLQ EPCIC 10 Project Review requirements (Appendix A3). T
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A3 Project Review]] — primary source for PR3 and PR4 scope and CONTRACTOR obligations
+- [[NLQ - Exhibit A App A3 Project Review]] — primary source for PR3 and PR4 scope and CONTRACTOR obligations

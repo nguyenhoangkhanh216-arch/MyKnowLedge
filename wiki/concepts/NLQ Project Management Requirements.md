@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Project Management Requirements"
 type: concept
 tags: [work]
@@ -145,12 +145,12 @@ TENDERER must detail specific procedures to be used for management and control o
 
 ## Source References
 
-- [[sources/NLQ - ITT]] — all project management requirements drawn from §8.2.3.2, §8.2.3.3, §8.2.3.4, §8.2.3.10, §8.2.3.11, Attachment 5, Attachment 9, and Attachment 10
-- [[sources/NLQ - Exhibit A Scope of Work]] — WP1 obligations and general engineering management requirements
-- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.1 general engineering framework and AVEVA/tagging requirements
-- [[sources/NLQ - Exhibit G Coordination Procedure]] — CCM structure, meeting cadence, reporting, document control, communication protocols
-- [[sources/NLQ - Exhibit G App G1 Weekly and Monthly Report Format]] — detailed report content by all 12 Work Packages
-- [[sources/NLQ - Exhibit G App G2 Change Order Procedure]] — COI/COR/CO forms and timelines
-- [[sources/NLQ - Exhibit G App G3 Planning Scheduling Progress Control]] — Primavera P6, schedule levels, progress scales
-- [[sources/NLQ - Exhibit G App G4 Insurance Claim Procedure]] — insurance incident reporting process
-- [[sources/NLQ - Exhibit G App G5 Risk Management Procedure]] — risk matrix, PSRA, Top-15 reporting, Deltek Acumen Fuse
+- [[NLQ - ITT]] — all project management requirements drawn from §8.2.3.2, §8.2.3.3, §8.2.3.4, §8.2.3.10, §8.2.3.11, Attachment 5, Attachment 9, and Attachment 10
+- [[NLQ - Exhibit A Scope of Work]] — WP1 obligations and general engineering management requirements
+- [[NLQ - Exhibit A App A1 Detailed Engineering]] — §2.1 general engineering framework and AVEVA/tagging requirements
+- [[NLQ - Exhibit G Coordination Procedure]] — CCM structure, meeting cadence, reporting, document control, communication protocols
+- [[NLQ - Exhibit G App G1 Weekly and Monthly Report Format]] — detailed report content by all 12 Work Packages
+- [[NLQ - Exhibit G App G2 Change Order Procedure]] — COI/COR/CO forms and timelines
+- [[NLQ - Exhibit G App G3 Planning Scheduling Progress Control]] — Primavera P6, schedule levels, progress scales
+- [[NLQ - Exhibit G App G4 Insurance Claim Procedure]] — insurance incident reporting process
+- [[NLQ - Exhibit G App G5 Risk Management Procedure]] — risk matrix, PSRA, Top-15 reporting, Deltek Acumen Fuse

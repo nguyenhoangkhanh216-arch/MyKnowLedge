@@ -3,8 +3,8 @@ title: "KMDD-INS-002 Pressure Relief Valves"
 type: entity
 tags: [work]
 created: 2026-06-13
-updated: 2026-06-16
-sources: 6
+updated: 2026-06-19
+sources: 8
 ---
 
 ## Summary
@@ -13,7 +13,7 @@ KMDD-INS-002 is the Pressure Relief Valve (PRV/PSV) package for KM-WHP and DD-WH
 
 ## Current Status
 
-✅ TBC#2 Rev.C responses received from all 5 bidders by COB 15-Jun-2026: Thanh An (12:34), TTE (15:16), An Phu (20:19) confirmed; KLE + ATA also responded. Thanh An confirmed IN17-Rev C (lifting lugs cert) and Q14-Rev C (gasket EN 10204 Type 3.1). TTE submitted Sizing Sheet + Tag List. An Phu ferrite spec dispute (Italian foundry Technical Srl) remains open — PTSC must respond with DTS update or formal clarification | 2026-06-16
+✅ TBC#2 Rev.C responses received from all 5 bidders by COB 15-Jun-2026 (ATA submitted 3d late at 22:37 on 18-Jun). An Phu submitted supplemental response 16-Jun (data sheet rev05). ATA manufacturer confirmed as Trillium Flow-France; submission includes updated PSV sizing calculations and datasheets for both platforms. Ferrite spec dispute with Italian foundry (Technical Srl) is the remaining open technical item | 2026-06-19
 
 ## Timeline
 
@@ -28,6 +28,8 @@ KMDD-INS-002 is the Pressure Relief Valve (PRV/PSV) package for KM-WHP and DD-WH
 - 2026-06-11 — An Phu (Italian foundry Technical Srl) raised ferrite spec dispute: 45-55% unusual, contradicts low-temp toughness (40-42% ferrite needed for toughness)
 - 2026-06-12 — TBC#2 Rev.C issued to all 5 bidders 07:21-07:24; updated Process DTS + supporting docs; deadline COB 15-Jun-26
 - 2026-06-15 — ✅ All 5 bidders responded TBC#2 Rev.C by COB: Thanh An (12:34, confirmed IN17+Q14), TTE (15:16, Sizing Sheet + Tag List), An Phu (20:19, Calc Sheet R5 + Data Sheet R5 + NORSOK-M-630 material data). Ferrite dispute still open.
+- 2026-06-16 — An Phu supplemental submission: data sheet rev05 + Reply to TBC#2 Rev.C XLS + Technical Serial 20000.pdf. Ferrite dispute remains open pending PTSC DTS update or COMPANY formal clarification.
+- 2026-06-18 — ATA submitted TBC#2 Rev.C at 22:37 (3d late; deadline COB 15-Jun). Manufacturer: Trillium Flow-France. Submission includes updated PSV sizing calculations and datasheets for KM-WHP and DD-WHP. All 5 bidders now done.
 
 ## Vendors
 
@@ -66,3 +68,4 @@ KMDD-INS-002 is the Pressure Relief Valve (PRV/PSV) package for KM-WHP and DD-WH
 - [[KMDD INS-002 PRV TBC2 Rev.C Wave 12Jun26]] — TBC#2 Rev.C to all 5 bidders; ferrite spec dispute (2026-06-13)
 - [[KMDD TBC Snapshot 14Jun26]] — 14-Jun EOD: deadline COB 15-Jun still pending; no responses received on 14-Jun (2026-06-15)
 - [[KMDD INS-002 PRV TBC2 RevC Responses 15Jun26]] — all 5 bidders responded by COB 15-Jun; An Phu ferrite dispute ongoing; Thanh An TBC#1 Rev.C items confirmed (2026-06-16)
+- [[KMDD INS-002 An Phu TBC2 RevC Update 16Jun26]] — An Phu supplemental data sheet rev05 on 16-Jun; ferrite dispute verbatim Italian foundry text (2026-06-17)

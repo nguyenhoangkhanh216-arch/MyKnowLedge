@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Process Engineering Requirements"
 type: concept
 tags: [work, science]
@@ -50,4 +50,4 @@ This page captures all Process Engineering requirements for the NLQ EPCIC 10 pro
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.3 Process section is the governing source for all items on this page
+- [[NLQ - Exhibit A App A1 Detailed Engineering]] — §2.3 Process section is the governing source for all items on this page

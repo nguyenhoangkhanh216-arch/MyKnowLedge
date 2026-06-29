@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Construction and Installation Requirements"
 type: concept
 tags: [work]
@@ -54,4 +54,4 @@ This page captures the onshore construction, fabrication, load-out, transportati
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A Scope of Work]] — WP5, WP6, WP7 and §4.4–§4.6 define all construction and installation obligations
+- [[NLQ - Exhibit A Scope of Work]] — WP5, WP6, WP7 and §4.4–§4.6 define all construction and installation obligations

@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Performance Guarantees"
 type: concept
 tags: [work]
@@ -69,4 +69,4 @@ Exhibit D defines the contractual performance guarantee framework for the NLQ EP
 
 ## Source References
 
-- [[sources/NLQ - Exhibit D Performance Guarantees]] — Exhibit D Rev A; full performance guarantee framework and 13-item test programme
+- [[NLQ - Exhibit D Performance Guarantees]] — Exhibit D Rev A; full performance guarantee framework and 13-item test programme

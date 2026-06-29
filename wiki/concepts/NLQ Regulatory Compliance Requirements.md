@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Regulatory Compliance Requirements"
 type: concept
 tags: [work]
@@ -50,4 +50,4 @@ This page captures the NLQ EPCIC 10 Regulatory Compliance obligations (Appendix 
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A4 Regulatory Compliance]] — primary source for RCP content and CONTRACTOR compliance obligations
+- [[NLQ - Exhibit A App A4 Regulatory Compliance]] — primary source for RCP content and CONTRACTOR compliance obligations

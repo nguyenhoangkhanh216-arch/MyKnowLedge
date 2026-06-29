@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Procurement Requirements"
 type: concept
 tags: [work]
@@ -36,4 +36,4 @@ This page captures the procurement and supply requirements for the NLQ EPCIC 10 
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A Scope of Work]] — WP4 and WU3.4 define all procurement obligations
+- [[NLQ - Exhibit A Scope of Work]] — WP4 and WU3.4 define all procurement obligations

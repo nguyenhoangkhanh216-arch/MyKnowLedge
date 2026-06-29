@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit A Scope of Work"
 type: source
 tags: [work]
@@ -48,4 +48,4 @@ Exhibit A Rev C is the primary Scope of Work for the NLQ EPCIC 10 contract (Al S
 
 ## Source References
 
-- [[sources/NLQ - ITT]] — ITT provides the bidding framework; Exhibit A governs the contract scope CONTRACTOR must fulfil
+- [[NLQ - ITT]] — ITT provides the bidding framework; Exhibit A governs the contract scope CONTRACTOR must fulfil

@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Software and Tools Requirements"
 type: concept
 tags: [work, tech]
@@ -88,4 +88,4 @@ This page captures the COMPANY-approved software suite mandated for the NLQ EPCI
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §3 Approved COMPANY Software (Table 3-1) is the governing source for all items on this page
+- [[NLQ - Exhibit A App A1 Detailed Engineering]] — §3 Approved COMPANY Software (Table 3-1) is the governing source for all items on this page

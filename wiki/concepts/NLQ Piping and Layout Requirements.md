@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Piping and Layout Requirements"
 type: concept
 tags: [work, science]
@@ -58,4 +58,4 @@ This page captures all Piping, Layout, and 3D Modelling requirements for the NLQ
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.6 Layout, Piping and 3D Modelling section is the governing source for all items on this page
+- [[NLQ - Exhibit A App A1 Detailed Engineering]] — §2.6 Layout, Piping and 3D Modelling section is the governing source for all items on this page

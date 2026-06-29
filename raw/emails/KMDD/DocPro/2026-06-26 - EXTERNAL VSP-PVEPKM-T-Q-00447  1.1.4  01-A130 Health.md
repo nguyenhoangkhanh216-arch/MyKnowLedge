@@ -1,0 +1,43 @@
+---
+title: "EXTERNAL: VSP-PVEPKM-T-Q-00447 / 1.1.4 / 01-A130: Health"
+date: 2026-06-26
+time: "13:50"
+from: "Khánh Mỹ Đầm Dơi <km.app.docpro@pvep.com.vn>"
+to: "hanhpth@pvep.com.vn"
+folder: "KMDD/DocPro"
+tags: [email]
+attachments: [
+  - "VSP-PVEPKM-T-Q-00447_Transmittal Cover Sheet.xlsm"
+]
+---
+
+# EXTERNAL: VSP-PVEPKM-T-Q-00447 / 1.1.4 / 01-A130: Health
+
+**From:** Khánh Mỹ Đầm Dơi <km.app.docpro@pvep.com.vn>
+**To:** hanhpth@pvep.com.vn
+**Date:** 2026-06-26 13:50
+**Attachments:** VSP-PVEPKM-T-Q-00447_Transmittal Cover Sheet.xlsm  
+
+---
+
+**CAUTION: This email originated from outside your organization. Exercise caution when opening attachments or on clicking links from unknown senders.**   
+
+
+Dear All,
+
+Please find the transmittal No. **VSP-PVEPKM-T-Q-00447** on DOC PRO for your review / approval & further action as the link below:
+
+[VSP-PVEPKM-T-Q-00447](http://10.32.5.50:8090/Controls/Document/OwnerTransmittalList.aspx?TransNoContractor=VSP-PVEPKM-T-Q-00447)
+
+  
+No.| Doc. / DWG. No.| Rev.| Description| Remark  
+---|---|---|---|---  
+1| KDP-OOO-04-PS-Q-1205| E0| KM-WHP & DD-WHP ACCIDENT INVESTIGATION AND REPORTING PROCEDURE|   
+2| KDP-OOO-04-PS-Q-1209| E0| KM-WHP & DD-WHP HEAVY LIFTING PROCEDURE|   
+| -End-| | |   
+  
+
+
+_Thanks & Best Regards_
+---
+**Links:** [[Khánh Mỹ Đầm Dơi]] | [[KMDD]] | [[DocPro]] | [[email]]

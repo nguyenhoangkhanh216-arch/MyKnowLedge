@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Mechanical Engineering Requirements"
 type: concept
 tags: [work, science]
@@ -59,5 +59,5 @@ This page captures all Mechanical Engineering requirements for the NLQ EPCIC 10 
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.4 Mechanical section is the governing source for all items on this page
-- [[sources/NLQ - Exhibit D Performance Guarantees]] — Table 4-1: air compressor, crane, NAVAIDS, potable water, sewage, firewater pump performance tests
+- [[NLQ - Exhibit A App A1 Detailed Engineering]] — §2.4 Mechanical section is the governing source for all items on this page
+- [[NLQ - Exhibit D Performance Guarantees]] — Table 4-1: air compressor, crane, NAVAIDS, potable water, sewage, firewater pump performance tests

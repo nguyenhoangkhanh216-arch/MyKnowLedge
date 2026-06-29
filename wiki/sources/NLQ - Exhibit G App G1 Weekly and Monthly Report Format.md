@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit G App G1 Weekly and Monthly Report Format"
 type: source
 tags: [work]
@@ -38,4 +38,4 @@ Appendix G1 Rev A defines the mandatory structure and content for CONTRACTOR's w
 
 ## Source References
 
-- [[sources/NLQ - Exhibit G Coordination Procedure]] — parent document; reporting obligations originate in §4.3
+- [[NLQ - Exhibit G Coordination Procedure]] — parent document; reporting obligations originate in §4.3

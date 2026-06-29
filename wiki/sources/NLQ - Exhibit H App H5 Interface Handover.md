@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit H App H5 Interface Handover"
 type: source
 tags: [work]
@@ -48,5 +48,5 @@ Appendix H5 Rev A (15 pages) defines the Interface Items Handover process for ma
 
 ## Source References
 
-- [[sources/NLQ - Exhibit H QA QC Main]] — App H5 listed in §11; governs physical handover of materials procured under the contract
-- [[sources/NLQ - Exhibit A App A10 Interface Management]] — interface management framework referenced by App H5
+- [[NLQ - Exhibit H QA QC Main]] — App H5 listed in §11; governs physical handover of materials procured under the contract
+- [[NLQ - Exhibit A App A10 Interface Management]] — interface management framework referenced by App H5

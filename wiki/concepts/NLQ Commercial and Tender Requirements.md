@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Commercial and Tender Requirements"
 type: concept
 tags: [work]
@@ -83,4 +83,4 @@ This page captures the commercial and tender requirements for the NLQ EPCIC 10 C
 
 ## Source References
 
-- [[sources/NLQ - ITT]] — full extraction of timeline, bid bond, exceptions, evaluation, and submission format requirements
+- [[NLQ - ITT]] — full extraction of timeline, bid bond, exceptions, evaluation, and submission format requirements

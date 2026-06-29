@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Hook-Up Requirements"
 type: concept
 tags: [work, science]
@@ -44,5 +44,5 @@ This page captures all Hook-Up Engineering requirements for the NLQ EPCIC 10 pro
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.12 Hook-Up section is the primary engineering source for all items on this page
-- [[sources/NLQ - Exhibit A Scope of Work]] — WU3.6 Hook-up and Integration Works Engineering provides contractual framework
+- [[NLQ - Exhibit A App A1 Detailed Engineering]] — §2.12 Hook-Up section is the primary engineering source for all items on this page
+- [[NLQ - Exhibit A Scope of Work]] — WU3.6 Hook-up and Integration Works Engineering provides contractual framework

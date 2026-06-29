@@ -3,8 +3,8 @@ title: "Equipment Tagging and Numbering"
 type: concept
 tags: [work]
 created: 2026-06-16
-updated: 2026-06-16
-sources: 1
+updated: 2026-06-24
+sources: 3
 ---
 
 ## Summary
@@ -41,6 +41,27 @@ Where a single project covers multiple platforms, the tag numbering procedure mu
   - `RLR-81-0201` → DD-WHP, Relief Valve, item 01
 - This allows all instruments and equipment across both platforms to share one numbering space while remaining unique and platform-identifiable
 
+### Train A/B suffix for identical equipment
+
+Where identical equipment units appear on the same platform (e.g., two identical life rafts, two escape ladder assemblies), a **Train A / Train B** suffix is needed to uniquely identify each:
+
+```
+[Equipment Type]-[System Number]-[Item Number]-A / -B
+e.g.,  LR-9001-A  /  LR-9001-B  (Life Raft, port vs starboard)
+```
+
+**KMDD case (19-Jun-2026, resolved 23-Jun-2026):** SAF discipline raised this for identical life-saving equipment on KM-WHP and DD-WHP. CPY (Nguyen Minh Tuan, PVEP-Khanh My, Process Safety Engineer) formally approved the A/B suffix on 23-Jun-2026.
+
+**Approved SAF equipment variants (23-Jun-2026):**
+
+| Equipment | Tag Prefix | Variant A | Variant B |
+|---|---|---|---|
+| Lifebuoy | RLB | With lifeline + light + smoke signal (e.g., RLB-81-0201-A) | With lifeline + light only (e.g., RLB-81-0202-B) |
+| Safety Shower / Eyewash | RSS | Plumbed (permanent) shower + eyewash (e.g., RSS-81-0202-A) | Portable eyewash station (e.g., RSS-81-0201-B) |
+| Lifejacket | RLJ | 1 lifejacket on crane cabin (e.g., RLJ-81-0201-A) | 15 lifejackets in cabinet (e.g., RLJ-81-0202-B) |
+
+This is distinct from the "01/02" platform code (which distinguishes KM-WHP vs DD-WHP). Both conventions co-exist: platform code in the item number + A/B suffix on the end.
+
 ### Why confirmation matters
 - Equipment tags propagate into ALL engineering deliverables: P&IDs, datasheets, MEL, instrument index, cable schedules, hazardous area classifications
 - Tags issued before COMPANY confirmation may need mass revision — impacts schedule and introduces error risk
@@ -64,3 +85,5 @@ Where a single project covers multiple platforms, the tag numbering procedure mu
 ## Source References
 
 - [[KMDD Equipment Tagging Procedure Confirmed 15Jun26]] — PVEP-KM confirmed "01"=KM-WHP, "02"=DD-WHP per KDP-OOO-00-PS-G-0003 Rev B2 (2026-06-15)
+- [[KMDD SAF Equipment Tagging Train ID 19Jun26]] — A/B train suffix issue raised 19-Jun for identical SAF equipment; CPY feedback due 22-Jun-2026 (2026-06-20)
+- [[KMDD SAF Equipment Tagging AB Train CPY Approval 23Jun26]] — CPY (Nguyen Minh Tuan) formally approved A/B suffix for RLB/RSS/RLJ SAF equipment variants on 23-Jun-2026 (2026-06-24)

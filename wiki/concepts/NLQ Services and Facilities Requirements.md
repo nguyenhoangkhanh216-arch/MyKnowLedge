@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Services and Facilities Requirements"
 type: concept
 tags: [work]
@@ -73,4 +73,4 @@ This page captures the NLQ EPCIC 10 services and facilities obligations (Appendi
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A7 Services and Facilities to Company]] — primary source for all services and facilities obligations
+- [[NLQ - Exhibit A App A7 Services and Facilities to Company]] — primary source for all services and facilities obligations

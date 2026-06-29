@@ -3,8 +3,8 @@ title: "KMDD Project"
 type: entity
 tags: [work]
 created: 2026-06-03
-updated: 2026-06-16
-sources: 103
+updated: 2026-06-27
+sources: 172
 ---
 
 ## Summary
@@ -90,6 +90,90 @@ KMDD is the KM-WHP (Khanh My Wellhead Platform) and DD-WHP (Dam Doi Wellhead Pla
 - **VDRL for free-issue packages submitted to VSP:** Nguyen Dinh Manh (PTSC) submitted Vendor Data Required List for Crane, HIPPS, and DEG packages to Nguyen Khac Hung (VSP), including required submission dates. [[KMDD Free Issue VDRL Submission 15Jun26]]
 - **WHCP/ICSS EDMS review setup in progress:** Nam forwarded package assignment matrix 15-Jun; VSP previously provided P&ID, Hydraulic Calc, GA/3D Naviswork for both platforms. Internal review assignment underway. [[KMDD WHCP ICSS EDMS Review Setup 15Jun26]]
 - **Well slot swap — action directive confirmed:** RE: email thread on 15-Jun confirms DD-WHP D3→D1 relocation (CPY initiated 20-May) and KM-WHP conductor D2/D3 tag swap (KM-1P/2P ↔ KM-3P/4P; W-1010/1015 ↔ W-1020/1025). All disciplines to update design docs, 3D model, MTO. Change Order basis established. [[KMDD Well Slot Swap DD-WHP Jun26]]
+
+## Procurement Issues (as of 16-Jun-2026)
+
+- **TBC Snapshot (16-Jun morning + EOD):** 22 packages — **16 stale / 6 active** — no change from morning to EOD; same count as 15-Jun EOD. Stale leaders: INS-005 (32d), ELE-003 (31d), INS-003 (22d), MEC-005 (22d), MEC-007 (19d), MEC-003 (12d), PIP-008 (12d). [[KMDD TBC Snapshot 16Jun26]]
+- **[[KMDD-MEC-006 Chemical Injection Package]] — TBC#3 Rev.C all bidder responses received 16-Jun:** POS submitted TBC#1 Rev.B + TBC#3 Rev.C Update#1 (one day late); FHE submitted TBC#3 Rev.C at 14:04; VHI submitted TBC#3 Rev.C. PTSC internal team review deadline: **11:30 AM 18-Jun-26**. IRCD fail-safe dispute (DKE fail-closed vs PVDT fail-last-position) remains open. [[KMDD MEC-006 Bidder TBC3 Responses 16Jun26]]
+- **[[KMDD-INS-009 Allocation Flowmeter]] — 4 items due 17:00 16-Jun from both bidders.** Bao Nghi: V-Cone turndown ratio letter (McMenon) + 3rd party wet lab letter + lab booking commitment + TBC#4. Nhan Viet: same 4 items; additionally provided McCrometer guidance that factory calibration + wet gas correction = sufficient (no 3rd party wet lab needed per McCrometer). CEESI cannot commit without test plan. [[KMDD INS-009 TBC4 Deadline 16Jun26]]
+- **CRITICAL — SHWT 24VDC Load Increase:** ELE engineer Mạnh alerted VSP and PVEP-KM: DD-WHP 24VDC load estimated 3,045W vs FEED basis 1,567W (**+93%**). Drivers: WHCP, MEC-006, DEG, Telecom/CCTV. Risk: SHWT system (solar panels, wind turbine, battery bank) may need major resizing, impacting platform layout and weight. Alignment meeting requested with VSP/PVEP-KM afternoon of 16-Jun. **Load is preliminary and unofficial pending ICSS vendor confirmation.** [[KMDD SHWT Load Increase 16Jun26]]
+- **Interface Status (16-Jun):** 47 open / **35 overdue** (up from 30 overdue on 09-Jun). PIP, MEC, PRO at 100% overdue. STR: 15 open / 8 overdue. [[KMDD Weekly Interface Status 16Jun26]]
+- **FEED Verification — NIPI update cycle:** Master Register sent to NIPI for Jacket/Pipeline items. NIPI to update Action Status by **18-Jun-26**; PMC to issue to CPY by **20-Jun-26**. [[KMDD FEED Verification NIPI CRS 16Jun26]]
+- **Safety Studies (SOG) KOM logistics:** SOG Vietnam focal point Nguyen Ba Hoang Nhan introduced 16-Jun; requested MDR for Information Request List preparation. KOM remains confirmed 22-Jun at PTSC MC premises. [[KMDD Safety Studies SOG KOM Logistics 16Jun26]]
+- **HAZID/HAZOP/SIL — MLS.02 payment:** Thảo submitted 2nd Milestone Completion Certificate (MLS.02) to cost controller Ninh 16-Jun for payment processing. Cert covers draft report issuance milestone. [[KMDD HAZID HAZOP SIL MLS2 Payment 16Jun26]]
+- **PIP-002 Steel Piping Bulks — Velocity TBC D3:** Velocity Energy submitted TBC#1 Rev.D3 response on 16-Jun (4th revision since TBC issued 07-May). HASSE also responded 15-Jun. [[KMDD PIP-002 Velocity TBC D3 16Jun26]]
+
+## Procurement Issues (as of 17-Jun-2026)
+
+- **Overall status:** 52 packages; 51 overdue milestones; 18 packages affected; 24 critical. [[KMDD Procurement Status 17Jun26]]
+- **PIP-002 Steel Piping Bulks:** LOA and PO issuance due today (17-Jun) — most urgent commercial action.
+- **CRITICAL — SHWT escalation:** PVEP-KM (Nguyen Khac Hung) formally asked VSP to evaluate PMC's updated 24VDC load list (+33% vs FEED, excl. ICSS) and recommend a fit-for-purpose solution; meeting requested 18-Jun. [[KMDD SHWT Load Increase 17Jun26]]
+- **MEC-002 Scope Change:** KDP-IMO-E-0064 issued — Pig Launcher & Receiver Package changed from Optional → Base Scope. MTO for Purchase due 20-Jun. [[KMDD MEC-002 Base Scope Change 17Jun26]]
+- **FEED Verification:** NIPI (Nguyen Bao Hoa) submitted updated FV Register Master ahead of 18-Jun deadline. PMC to issue to CPY by 20-Jun. [[KMDD FEED Verification NIPI Update 17Jun26]]
+- **INS-002 PRVs — KLE submitted TBC#2 Rev.C 17-Jun** (2 days late); remaining documents to follow same week. All 5 bidders have now responded. [[KMDD INS-002 KLE TBC2 RevC 17Jun26]]
+- **INS-009 Allocation Flowmeter — Nhan Viet TBC#4 submitted 17-Jun** + McCrometer turndown ratio confirmation letter delivered. New flag: McCrometer has never supplied V-Cone on wet gas with Diaphragm remote seal DPT. MTO for Purchase due 23-Jun. [[KMDD INS-009 Nhan Viet TBC4 Response 17Jun26]]
+- **MEC-007 CO2+N2 — TBC#2 Rev.A sent to TTE post-BCM**, deadline 19-Jun. Only 1/5 bidders acceptable (TTE); DKE, FFE, PPL, Mermaid all Not Acceptable. [[KMDD MEC-007 TBC2 Post BCM 17Jun26]]
+- **MEC-008 Handling Equipment — TBC#1 Rev.B sent to MS Time** post-BCM (BCM was 15-Jun); deadline 25-Jun; focus: 8MT chain hoist, power pusher, portable platform height (2000→1600mm). [[KMDD MEC-008 MS Time TBC1 RevB 17Jun26]]
+- **60% Model Review Workshop target: 06-Jul-2026.** Trần Trọng Tín issued 30% close-out report 17-Jun with two categories: OPEN findings (CPY did not agree — priority items; PTSC must propose solution + update model) and CLOSED findings (CPY agreed; model update still required). [[KMDD 60% Model Review Prep 17Jun26]]
+- **Upcoming milestones next 7 days:** MEC-002 MTO for Purchase 20-Jun; INS-009 MTO for Purchase 23-Jun; MEC-003 MTO for Purchase 23-Jun.
+
+## Procurement Issues (as of 18-Jun-2026)
+
+- **TBC Snapshot (18-Jun morning):** 22 packages — **15 stale / 7 active**. Worst stale: INS-005 (34d), ELE-003 (33d). Active: SAF-001 (NEW TBC#1 opened), INS-004, MEC-006, INS-009, INS-002, PIP-002 (10d stale, being chased). [[KMDD TBC Snapshot 18Jun26]]
+- **Engineering progress (COD 12-May-2026):** 46 total packages; 42 TR issued; 38 bid evaluating; 14 TBE issued for review; 7 TBE approved. [[KMDD Weekly Engineering Progress 18Jun26]]
+- **[[KMDD-SAF-001 Fire Fighting Equipment]] — TBC#1 opened 18-Jun:** 5 bidders: Binh Minh Co (BMC), Federal Fire, Hasse, Mermaid, Do Le Vu; deadline COB 22-Jun-2026. [[KMDD SAF-001 Fire Fighting TBC1 18Jun26]]
+- **[[KMDD-SAF-002 Life Saving Equipment]] — Hasse Vietnam submitted supplementary letter** (LALIZAS-Alexander supporting Hasse's offer); PTSC requested GAD and catalogue by COB 18-Jun. [[KMDD SAF-002 Hasse LALIZAS Supplementary 18Jun26]]
+- **[[KMDD-INS-002 Pressure Relief Valves]] — ATA submitted TBC#2 Rev.C at 22:37 on 18-Jun** (3 days late; deadline COB 15-Jun). Manufacturer confirmed: Trillium Flow-France. Includes updated PSV sizing calcs + datasheets for both platforms. All 5 bidders now responded. [[KMDD INS-002 ATA TBC2 RevC 18Jun26]]
+- **[[KMDD-INS-004 Restriction Orifices and Pressure Regulators]] — PTSC sent TBC1 Rev2 to both KVA and MOTEC on 18-Jun; deadline 23-Jun.** Tag discrepancies flagged (missing PCV tags in some documents). File naming error: says "INS-001" instead of "INS-004". Yoshitake still waiting factory — threatened withdrawal on 3-Jun; deviation markup sent 4-Jun; chased 9+15-Jun; stale 34d (longest on KMDD). [[KMDD INS-004 Yoshitake Deviation Ongoing 18Jun26]] [[KMDD INS-004 KVA MOTEC TBC1 Rev2 18Jun26]]
+- **[[KMDD-INS-009 Allocation Flowmeter]] — Bao Nghi submitted TBC#4 on 18-Jun** (2d late; deadline 16-Jun). McMenon cannot provide separate V-Cone turndown letter. TÜV SÜD NEL still undergoing internal procedures; wet lab commitment letter outstanding. Unpriced commercial proposal forwarded to Nguyễn Thanh Sơn (INS) for technical acceptability review. [[KMDD INS-009 Bao Nghi TBC4 18Jun26]]
+- **[[KMDD-MEC-006 Chemical Injection Package]] — DKE submitted TBC#3 Rev.B at 15:58 on 18-Jun** (6 days late; deadline 12-Jun). GAD Rev.D confirms Exakta pumps (Nexa/Triplex series, API 674). PVDT submitted updated sub-supplier list (Form T3) + PTSC requested isometric view of GAD. PTSC internal review comments for POS/FHE/VHI TBC#3 Rev.C due 11:30 AM 18-Jun — outcome unconfirmed. [[KMDD MEC-006 DKE TBC3 RevB 18Jun26]] [[KMDD MEC-006 PVDT Sub-Supplier 18Jun26]]
+- **[[KMDD-PIP-002 Steel Piping Bulks]] — BMC not responding to TBC#1 RevD3** (sent 10-Jun, deadline 11-Jun); PTSC chased on 18-Jun. Package at 10d stale. [[KMDD PIP-002 BMC Chase 18Jun26]]
+- **[[KMDD-ELE-008 E&I Miscellaneous and Earthing]] — P/N discrepancy raised by Duprex Offshore (18-Jun):** DD-WHP Instrument MTO Rows 84–87 insert length 12mm but P/N = CEF7508F (8mm); correct P/N = CEF7512F; PTSC to confirm which governs. [[KMDD ELE-008 P-N Discrepancy MTO 18Jun26]]
+- **SHWT Load Increase — PVEP-KM P&IDs clarify IRCD:** New CI P&IDs issued by PVEP-KM on 16-Jun show PPD Pump IRCD = remote (24VDC); SI Pump IRCD = local only. IRCD loads NOT yet in platform load list. Electrical team (Biển/Cường) to confirm and update. This partially reverts the 04-Jun IRCD → manual type resolution. [[KMDD SHWT Load Increase 18Jun26]]
+- **FEED Verification — Safety discipline submitted 18-Jun:** Cao Thành Nhật (PTSC Safety) submitted IFR comment feedback. Sequence: NIPI 17-Jun → Safety 18-Jun → CPY issue due 20-Jun. [[KMDD FEED Verification SAF Update 18Jun26]]
+- **Physical Scope Confirmed — Greenfield only:** PTSC execution scope = KM & DD WHPs Topsides ONLY (Greenfield); Brownfield modifications excluded. ICSS/Telecom may need joint coordination. [[KMDD Physical Scope Split Greenfield Brownfield 18Jun26]]
+- **MEC Weekly Meeting MOM-006:** Actions from MEC meeting 18-Jun: CPY Phan to check HVAC (MEC-009) TBE status; Đào Tuấn Anh to arrange internal 3D model review next Friday. 3D model open drain issue raised: OD Tank placed on same deck as CD Vessel → gravity drain from CD Vessel to OD Tank impossible; PMC to clarify if CD Transfer Pump alone suffices. [[KMDD MEC Weekly Meeting MOM-006 18Jun26]]
+- **Hydraulic Manifold — MTO action:** Each platform has 3 manifolds (6-way, 10-way, 12-way); Piping team to produce MTO for WHCP-to-manifold connections; Process team to revise WHCP tie-in per new P&IDs. [[KMDD Hydraulic Manifold MTO 18Jun26]]
+
+## Procurement Issues (as of 22-Jun-2026)
+
+- **[[KMDD-MEC-011 Pedestal Crane]] — GAD Rev D0 internal review (22-Jun-2026):** Trần Văn Thái circulated vendor data document KDP-005-D01-001-D0 (General Arrangement Drawing, Rev D0) to the KMDD discipline team for review of Interface/Connection/Scope of Supply. Feedback due COB 26-Jun-2026. [[KMDD MEC-011 Pedestal Crane GAD Review 22Jun26]]
+
+## Procurement Issues (as of 25–26 Jun 2026)
+
+- **TBC Snapshot (EOD 25-Jun):** 24 packages — **16 stale / 8 active**. Worst stale: INS-005 Fire & Gas (41d). Active packages: INS-009, PIP-002, SAF-001, SAF-002, INS-004, MEC-006, INS-002, MEC-008. [[KMDD TBC End of Day 25 Jun 2026]]
+- **Overall procurement status (26-Jun):** 52 packages; 47 overdue milestones; 19 packages affected; 24 critical. Worst overdue TBE: MEC-005 Open Drain Tank (35d). INS-004 Restriction Orifices flagged as single-source risk. [[KMDD Procurement Status 26 Jun 2026]]
+- **[[KMDD-MEC-006 Chemical Injection Package]] — bidder updates 25-Jun:** POS submitted TBC#3 Rev.C Update#2 (25-Jun); PVDT submitted full bundle of all outstanding TBC responses (25-Jun). PTSC policy formally established: vendor P&ID proposals are NOT confirmed at TBC stage — only technical compliance is reviewed; P&ID alignment will occur post-award. CBE due 28-Jun-2026. TBE overdue 15d. [[KMDD MEC-006 POS TBC3 RevC Update 25Jun26]] [[KMDD MEC-006 PVDT All TBC Responses 25Jun26]] [[KMDD MEC-006 PTSC PID Non-Confirmation 25Jun26]]
+- **[[KMDD-MEC-004 EODD Pump and Centrifugal Pump]] — Form T3 + cost impact 26-Jun:** TKT and TTE revised Form T3 per CPY comments (morning 26-Jun). Advance cost impact summaries for TKT and TTE sent to Commercial (Nguyễn Hoàng Phúc) at 10:37 26-Jun. TBE overdue 10d. [[KMDD MEC-004 Form T3 Revision 26Jun26]] [[KMDD MEC-004 Cost Impact Summary 26Jun26]]
+- **[[KMDD-MEC-005 Open Drain Tank]] — cost impact 26-Jun:** DKE and PPS both passed technical evaluation. Advance cost impact sent to Commercial 26-Jun. TBE 35d overdue — worst performer on project. [[KMDD MEC-005 Cost Impact Summary 26Jun26]]
+- **[[KMDD-MEC-007 CO2 Snuffing and Nitrogen Bottle]] — cost impact 26-Jun:** Advance cost impact for DKE, FFE, and TTE sent to Commercial (Ngân) 26-Jun. TBE due 28-Jun-2026. [[KMDD MEC-007 Cost Impact Summary 26Jun26]]
+- **[[KMDD-INS-004 Restriction Orifices and Pressure Regulators]] — all bidders in 25-Jun:** HAPCO submitted TBC1 Rev2 25-Jun (1d late; deadline 24-Jun); KVA submitted 25-Jun 23:16 (2d late). All 3 bidders now submitted. File naming error: attachments mislabeled "INS-001" (recurring template issue). Single-source risk noted in procurement dashboard. [[KMDD INS-004 HAPCO TBC1 Rev2 25Jun26]] [[KMDD INS-004 KVA TBC1 Rev2 25Jun26]]
+- **[[KMDD-INS-009 Allocation Flowmeter]] — DBBV result confirmed 26-Jun:** Final alignment meeting with Bao Nghi/McMenon held 26-Jun 14:00. SGS confirmed: (1) 3-o'clock DBBV for tracer injection OK (accessibility must be ensured); (2) 10mm DBBV with 1/2" NPT(F) NOT compatible with SGS retractable probe — SGS recommends 6-o'clock installation (risk: sand clogging if well produces sand). [[KMDD INS-009 Bao Nghi Alignment Meeting 25Jun26]] [[KMDD INS-009 Bao Nghi DBBV Clarification 26Jun26]]
+- **60% MDR Workshop — CONFIRMED 01-Jul-2026:** Invitation issued 25-Jun; venue PTSC M&C Yard, Meeting Room MR 5.09; all discipline leads attending. (Previous target was 06-Jul-2026 — moved earlier.) [[KMDD 60pct MDR Workshop Invitation 25Jun26]]
+- **P&ID Rev IFA MOM (24-Jun):** SIPROD P&ID split confirmed (KM-3P/4P vs KM-5P/6P won't be installed simultaneously — P&IDs to be issued as 2 separate documents). IDC comments on P&ID Rev IFA due 04-Jul-2026. [[KMDD PID IFA Discussion MOM 24Jun26]]
+- **Internal Process Meeting MOM (23-Jun):** Item 2.3 PSV on KM FWS CLOSED; Item 2.10 CD pump NPSHa ongoing; Item 2.11 OD Tank OIW content — REOPENED. [[KMDD Internal Process Meeting MOM 23Jun26]]
+- **FERA Study — pipeline lengths submitted:** KM Pipeline: 6.7 km × 20"; DD Pipeline: 25.4 km × 20" + 5.8 km × 22". Data sent to VSP by COB 26-Jun-2026 deadline. [[KMDD FERA Pipeline Length Request 25Jun26]]
+- **EDMS TBE CAT2 workflow (WF03B) clarified 26-Jun:** Steps 3/4 = Package Engineer (PIC); Step 8 = Package Engineer for AFP status; Steps 1/5 = Discipline Lead; EM and DCC are default. Applies to TBE Category 2 documents under WF03B flow. [[KMDD EDMS TBE CAT2 Workflow 26Jun26]]
+- **ELE-003 Lighting Fixtures — Updated MTO for Purchase 26-Jun:** KDP-IMO-E-0075 issued to Nguyễn Chí Nghĩa for Purchase. Package had been 40d stale; MTO update reactivates procurement. [[KMDD ELE-003 Lighting MTO Update 26Jun26]]
+- **Weekly Report No.12:** All discipline managers to submit by 10:00 AM Monday 29-Jun-2026.
+
+## Procurement Issues (as of 19-Jun-2026)
+
+- **TBC Snapshot (19-Jun morning):** **23 packages** (SAF-002 added as 23rd) — **16 stale / 7 active**. Worst stale: MEC-005 Open Drain Tank (35d). Active packages: INS-009, MEC-004, MEC-006, MEC-008, PIP-002, SAF-001, SAF-002. [[KMDD TBC Morning Digest 19Jun26]]
+- **Overall procurement status (19-Jun):** 52 packages; 63 overdue milestones; 29 packages affected; 24 critical packages. [[KMDD Procurement Status 19Jun26]]
+- **30% Model Review close-out deadline:** CPY (Lê Văn Đông) issued formal demand: KM-WHP + DD-WHP 30% model review close-out reports due **23-Jun-2026**. 60% review workshop target remains **06-Jul-2026**. [[KMDD 30% Model Review Closeout Deadline 19Jun26]]
+- **Equipment Tagging — A/B train suffix issue:** SAF discipline raised need for A/B train identifier to distinguish identical safety equipment on each platform. CPY feedback requested; response due **22-Jun-2026**. [[KMDD SAF Equipment Tagging Train ID 19Jun26]]
+- **[[KMDD-INS-004 Restriction Orifices and Pressure Regulators]] — TBC1 Rev2 issued to all 3 bidders 19-Jun:** HAPCO (deadline 24-Jun), Yoshitake (deadline 24-Jun), TTE (deadline 24-Jun). Package moves from 34d stale to active. Yoshitake still pending factory confirmation but file name error ("INS-001" instead of "INS-004") is a recurring template issue. [[KMDD INS-004 TBC1 Rev2 All Bidders 19Jun26]]
+- **[[KMDD-SAF-001 Fire Fighting Equipment]] — Bid evaluation complete 19-Jun:** HASSE Vietnam=GOOD; Mermaid/Federal Fire/Binh Minh=ADEQUATE; Do Le Vu=POOR (missing VDRL+ITP, did not quote Firewater Monitor). TBC proceeding; proposals to DCC for COMPANY transmittal. [[KMDD SAF-001 Fire Fighting Bid Evaluation 19Jun26]]
+- **[[KMDD-SAF-002 Life Saving Equipment]] — TBC#1 Rev.A opened 19-Jun:** 5 bidders: Binh Minh, Federal Fire (no documents yet from either), Hasse, Mermaid, Do Le Vu. ELE support (Biển) assigned for life raft + electrical safety kit items. Nguyễn Thành Chung coordinating. [[KMDD SAF-002 Life Saving TBC1 RevA 19Jun26]]
+- **[[KMDD-MEC-004 EODD Pump and Centrifugal Pump]] — TBC responses distributed 19-Jun:** TBC responses from NTT/TKT/TTE distributed to all discipline leads for review. Internal feedback from all leads due **20-Jun-2026 11:00 AM**. [[KMDD MEC-004 TBC Discipline Input 19Jun26]]
+- **[[KMDD-MEC-005 Open Drain Tank]] — TBC#02 Rev.A issued to VHI 19-Jun:** Deadline 23-Jun. DKE has 3 open technical items. China/India supplier restriction applies. Three other bidders (DKE, AECC, VHI) still awaiting vendor dimension responses for 10%HC scenarios. PPS first to respond with 4-option dimensions (Base @1000ppmv + 3 deck washing options). [[KMDD MEC-005 Tank TBC2 RevA VHI 19Jun26]] [[KMDD Open Drain Tank Options Response 19Jun26]]
+- **[[KMDD-ELE-008 E&I Miscellaneous and Earthing]] — Duprex unpriced quotation 19-Jun:** Duprex submitted unpriced quotation; Remarks column addresses CEF7508F vs CEF7512F P/N discrepancy. MCT issue: Roxtec brand not available from Duprex → pending PTSC confirmation if Hawke MCT acceptable. [[KMDD ELE-008 MTO Unpriced Quotation 19Jun26]]
+- **[[KMDD-INS-009 Allocation Flowmeter]] — DBBV sampling config follow-up (19-Jun):** SGS confirmed tracer injection at 3-o'clock OK; DBBV sampling needs 1" NPT fullbore min 14mm at 12-o'clock; current 10mm design NOT suitable for retractable probe. Nguyễn Thanh Sơn raised 2 follow-up questions. [[KMDD INS-009 Nhan Viet DBBV Config 19Jun26]]
+- **[[KMDD-STR-004 Topsides Architectural]] — TBC status (19-Jun):** 2/5 bidders responded; PE Nguyễn Ngọc Tây Ninh on personal leave until 19-Jun. TBE target revised to **29-Jun-2026** (revised from 12-Jun). Đặng Đức Minh asked Khánh to update tracking file and procurement plan. [[KMDD STR-004 Architectural TBC Status 19Jun26]]
+- **[[KMDD-PIP-002 Steel Piping Bulks]] — Velocity revised Form T7 (19-Jun):** Velocity Energy corrected error in their 18-Jun RevD3 submission; China mill supporting documents provided via Google Drive. [[KMDD PIP-002 Velocity T7 Revised 19Jun26]]
+- **Hydraulic manifold scope dispute (19-Jun):** INS (Thiện) asked PIP (Võ Nhựt Khánh/Bình) to produce MTO and execute WHCP→manifold piping for all 3 manifolds per platform; Khánh pushed back citing earlier INS commitment. Valve scope ownership also unclear. Tú/Sơn (INS) to clarify. [[KMDD Hydraulic Manifold Scope Dispute 19Jun26]]
+- **DCC/DocPro/NIPI batch (19-Jun):** 11 DCC transmittals (TRM-00276 to TRM-00282 issued PMC→VSP; TRM-00278 = F&G TBE to VSP for review); VSP returned T-00142/143; 19 DocPro external notifications for PVEP-KM review chain; 1 NIPI A3 template request. [[KMDD DCC DocPro Batch 19Jun26]]
 
 ## Procurement Issues (as of 14-Jun-2026)
 
@@ -324,3 +408,23 @@ KMDD is the KM-WHP (Khanh My Wellhead Platform) and DD-WHP (Dam Doi Wellhead Pla
 - [[KMDD Grating Clip CONS Confirmed 13Jun26]] — CONS confirmed FEED grating clip executable 13-Jun; AFC schedule gap still exists
 - [[KMDD TBC Snapshot 14Jun26]] — 14-Jun: 14 stale / 8 active; no movement; INS-002 deadline COB 15-Jun; POS expediting (2026-06-15)
 - [[KMDD INS-009 Nhan Viet SGS PVT Sampling 14Jun26]] — SGS confirmed DBB injection OK; DBBV sampling must be quill-free 1" NPT fullbore ≥14mm top-mounted (2026-06-15)
+- [[KMDD MEC-011 Pedestal Crane GAD Review 22Jun26]] — GAD Rev D0 (KDP-005-D01-001-D0) circulated 22-Jun; team feedback due COB 26-Jun
+- [[KMDD TBC End of Day 25 Jun 2026]] — EOD 25-Jun: 24 packages, 16 stale / 8 active; INS-005 41d worst stale; active list
+- [[KMDD Procurement Status 26 Jun 2026]] — 52 packages; 47 overdue milestones; MEC-005 TBE 35d worst; INS-004 single-source risk
+- [[KMDD MEC-006 POS TBC3 RevC Update 25Jun26]] — POS TBC#3 Rev.C Update#2 submitted 25-Jun (2026-06-27)
+- [[KMDD MEC-006 PVDT All TBC Responses 25Jun26]] — PVDT submitted full outstanding TBC bundle 25-Jun (2026-06-27)
+- [[KMDD MEC-006 PTSC PID Non-Confirmation 25Jun26]] — PTSC policy: P&ID proposals not confirmed at TBC stage; CBE due 28-Jun (2026-06-27)
+- [[KMDD MEC-004 Form T3 Revision 26Jun26]] — TKT and TTE revised Form T3 per CPY comments; deadline morning 26-Jun (2026-06-27)
+- [[KMDD MEC-004 Cost Impact Summary 26Jun26]] — cost impact for TKT and TTE sent to Commercial 26-Jun (2026-06-27)
+- [[KMDD MEC-005 Cost Impact Summary 26Jun26]] — DKE and PPS passed; cost impact sent to Commercial 26-Jun (2026-06-27)
+- [[KMDD MEC-007 Cost Impact Summary 26Jun26]] — cost impact for DKE/FFE/TTE sent to Commercial 26-Jun; TBE due 28-Jun (2026-06-27)
+- [[KMDD INS-004 HAPCO TBC1 Rev2 25Jun26]] — HAPCO TBC1 Rev2 submitted 25-Jun (1d late); updated PR sizings (2026-06-27)
+- [[KMDD INS-004 KVA TBC1 Rev2 25Jun26]] — KVA TBC1 Rev2 submitted 25-Jun 23:16 (2d late); file mislabeled "INS-001" (2026-06-27)
+- [[KMDD INS-009 Bao Nghi Alignment Meeting 25Jun26]] — final alignment meeting arranged 26-Jun 14:00; McMenon turndown within TBC#4 (2026-06-27)
+- [[KMDD INS-009 Bao Nghi DBBV Clarification 26Jun26]] — DBBV: 10mm bore incompatible with SGS probe; 6-o'clock recommended; sand risk (2026-06-27)
+- [[KMDD PID IFA Discussion MOM 24Jun26]] — SIPROD P&ID split confirmed; IDC comments due 04-Jul-2026 (2026-06-27)
+- [[KMDD Internal Process Meeting MOM 23Jun26]] — PSV KM FWS CLOSED; CD pump NPSHa ongoing; OD Tank OIW REOPENED (2026-06-27)
+- [[KMDD 60pct MDR Workshop Invitation 25Jun26]] — 60% MDR Workshop confirmed 01-Jul-2026 at PTSC M&C Yard MR 5.09 (2026-06-27)
+- [[KMDD EDMS TBE CAT2 Workflow 26Jun26]] — WF03B TBE CAT2 workflow: PIC = Package Engineer; AFP status; EM/DCC default (2026-06-27)
+- [[KMDD ELE-003 Lighting MTO Update 26Jun26]] — KDP-IMO-E-0075 issued for Purchase; 40d stale package reactivated (2026-06-27)
+- [[KMDD FERA Pipeline Length Request 25Jun26]] — KM 6.7km 20", DD 25.4km 20" + 5.8km 22"; sent to VSP COB 26-Jun (2026-06-27)

@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Instrumentation and ICSS Requirements"
 type: concept
 tags: [work, science]
@@ -69,5 +69,5 @@ This page captures all Instrumentation, ICSS, Functional Safety, and Telecommuni
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — §2.9 Instrumentation, ICSS, Functional Safety and Telecommunication section is the governing source for all items on this page
-- [[sources/NLQ - Exhibit D Performance Guarantees]] — Table 4-1: ICSS 99.9%, Telecom 99.99%, F&G detector availability performance tests
+- [[NLQ - Exhibit A App A1 Detailed Engineering]] — §2.9 Instrumentation, ICSS, Functional Safety and Telecommunication section is the governing source for all items on this page
+- [[NLQ - Exhibit D Performance Guarantees]] — Table 4-1: ICSS 99.9%, Telecom 99.99%, F&G detector availability performance tests

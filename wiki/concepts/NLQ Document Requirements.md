@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Document Requirements"
 type: concept
 tags: [work]
@@ -57,4 +57,4 @@ This page captures the NLQ EPCIC 10 Minimum Contractor Document Requirement Sche
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A2 Minimum Contractor Document Requirement Schedule]] — primary source for document classification and deliverable list
+- [[NLQ - Exhibit A App A2 Minimum Contractor Document Requirement Schedule]] — primary source for document classification and deliverable list

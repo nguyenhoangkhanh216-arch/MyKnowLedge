@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit E App E3 NOC Company Standards"
 type: source
 tags: [work]
@@ -25,4 +25,4 @@ App E3 (Rev B) lists all 610 NOC Company Standards (SD-NOC-*) and guidelines (GM
 - [[NLQ HVAC Requirements]] — SD-NOC-HVA-802 referenced as key deliverable standard
 
 ## Source References
-- [[sources/NLQ - Exhibit E App E3 NOC Company Standards]] — complete 610-standard register
+- [[NLQ - Exhibit E App E3 NOC Company Standards]] — complete 610-standard register

@@ -1,4 +1,4 @@
----
+﻿---
 title: "NOC Company Standards Library"
 type: entity
 tags: [work]
@@ -25,5 +25,5 @@ The North Oil Company (NOC/NOC Qatar) maintains a library of ~610 Company Standa
 - [[NLQ Commissioning Requirements]] — SD-NOC-EC-600/601/602/603 govern pre-comm/comm execution
 
 ## Source References
-- [[sources/NLQ - Exhibit E App E3 NOC Company Standards]] — full 610-standard register
-- [[sources/NLQ - Exhibit A App A1 Detailed Engineering]] — cross-references key SD-NOC standards by discipline
+- [[NLQ - Exhibit E App E3 NOC Company Standards]] — full 610-standard register
+- [[NLQ - Exhibit A App A1 Detailed Engineering]] — cross-references key SD-NOC standards by discipline

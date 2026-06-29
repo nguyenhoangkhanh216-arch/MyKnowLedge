@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit H App H3 Inspection Levels"
 type: source
 tags: [work]
@@ -44,5 +44,5 @@ Appendix H3 Rev A (9 pages) defines the four Inspection Levels and maps each to 
 
 ## Source References
 
-- [[sources/NLQ - Exhibit H QA QC Main]] — App H3 is listed under §11; implements the criticality ratings from App H4
-- [[sources/NLQ - Exhibit H App H4 Criticality Rating]] — criticality ratings drive the inspection level assignments
+- [[NLQ - Exhibit H QA QC Main]] — App H3 is listed under §11; implements the criticality ratings from App H4
+- [[NLQ - Exhibit H App H4 Criticality Rating]] — criticality ratings drive the inspection level assignments

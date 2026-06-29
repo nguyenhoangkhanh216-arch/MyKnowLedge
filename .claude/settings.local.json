@@ -43,7 +43,16 @@
       "PowerShell(\\(Get-Content \"E:\\\\My Knowledge\\\\ingest-manifest.md\"\\).Count)",
       "PowerShell(Remove-Item *)",
       "Bash(Select-String \"^\\\\#\\\\# \\\\[\" \"E:\\\\My Knowledge\\\\log.md\")",
-      "Bash(Select-Object -Last 5)"
+      "Bash(Select-Object -Last 5)",
+      "Bash(sed 's/\\\\.md$//')",
+      "Bash(sed 's/\\\\[//')",
+      "Bash(rm \"E:/My Knowledge/wiki/sources/KMDD Physical Scope Split GF BF 18Jun26.md\")",
+      "WebFetch(domain:github.com)",
+      "Read(//e/Task Monitor//**)",
+      "Read(//e/ED_Engineering Dashboard//**)",
+      "Bash(python3 -c ' *)",
+      "Bash(python -c ' *)",
+      "Bash(python *)"
     ]
   }
 }

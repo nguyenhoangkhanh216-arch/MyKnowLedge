@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Commissioning Requirements"
 type: concept
 tags: [work]
@@ -65,6 +65,6 @@ This page captures the pre-commissioning and commissioning requirements for the 
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A Scope of Work]] — WP8, WU3.7, WU3.8, and WP10 define all commissioning obligations
-- [[sources/NLQ - Exhibit A App A9 Pre-commissioning and Commissioning Requirements]] — detailed specification: OPERCOM/ICAPS implementation, Ex equipment inspection, punch list categories, TCC, TOM dossier, N2-He leak test, governing standards
-- [[sources/NLQ - Exhibit D Performance Guarantees]] — performance test programme additional to commissioning tests; PAC gate; restart rule; 30-day report obligation
+- [[NLQ - Exhibit A Scope of Work]] — WP8, WU3.7, WU3.8, and WP10 define all commissioning obligations
+- [[NLQ - Exhibit A App A9 Pre-commissioning and Commissioning Requirements]] — detailed specification: OPERCOM/ICAPS implementation, Ex equipment inspection, punch list categories, TCC, TOM dossier, N2-He leak test, governing standards
+- [[NLQ - Exhibit D Performance Guarantees]] — performance test programme additional to commissioning tests; PAC gate; restart rule; 30-day report obligation

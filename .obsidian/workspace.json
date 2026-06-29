@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "789fec1b271f2e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/Chemical Injection System Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chemical Injection System Design"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,44 +191,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2bef4cc9021eca7",
+  "active": "789fec1b271f2e67",
   "lastOpenFiles": [
-    "wiki/concepts/NLQ In-Country Value Requirements.md",
-    "wiki/concepts/NLQ In-Country Value Requirements.md.tmp.70688.655507bfcd9e",
-    "wiki/concepts/NLQ Brownfield Integration Requirements.md",
-    "wiki/concepts/NLQ Brownfield Integration Requirements.md.tmp.70688.13f47a5d6380",
-    "wiki/concepts/NLQ Design Dossier Requirements.md",
-    "wiki/concepts/NLQ Design Dossier Requirements.md.tmp.70688.4fb35999ff40",
-    "wiki/sources/NLQ - Exhibit N In-Country Value.md",
-    "wiki/sources/NLQ - Exhibit N In-Country Value.md.tmp.70688.ed76fd0e4c34",
-    "wiki/sources/NLQ - Exhibit E App E3 NOC Company Standards.md",
-    "wiki/sources/NLQ - Exhibit E App E3 NOC Company Standards.md.tmp.70688.54bf9486bd12",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT M RevB.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT L RevB.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT K Rev A.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT J Rev B.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT I Rev A.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT H Rev A.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT G Rev B.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT F Rev A.md",
-    "wiki/sources/NLQ - Exhibit E Design Dossier.md",
-    "wiki/sources/NLQ - Exhibit E Design Dossier.md.tmp.70688.f8147297d5dd",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT D Rev A.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT C Rev C.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT C Rev B.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT C Rev A.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT B Rev C.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT B Rev B.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT B Rev A.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT B App B9 Rev D.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT B App B9 Rev C.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT B App B9 Rev B.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT B App B9 Rev A.md",
-    "raw/documents/NLQ/EPCIC 10 - EXHIBIT B App B8 Rev A.md",
-    "log.md.tmp.63360.17fe999c58bf",
-    "index.md.tmp.63360.00ca49d92f56",
-    "index.md.tmp.63360.7910bfdddb41",
-    "index.md.tmp.63360.ab281d4567ad",
+    "raw/emails/KMDD/2026-06-29 - RE KMDD - Fire Fighting (SAF-001) và Life Saving & Safety Equipment (SAF-002)  - re-inspectionre-cer.md",
+    "raw/emails/KMDD/Technical Bid Clarification/2026-06-28 - KMDD-SAF-001 - Fire Fighting Equipment - TBC#1 Rev.A - BIDDER Federal Fire & Mermaid & Do Le Vu.md",
+    "raw/emails/KMDD/2026-06-28 - KMDD-SAF-001 - Fire Fighting Equipment - TBC#1 Rev.A - BIDDER Federal Fire & Mermaid & Do Le Vu.md",
+    "raw/emails/KMDD/2026-06-28 - KMDD - Fire Fighting (SAF-001) và Life Saving & Safety Equipment (SAF-002)  - re-inspectionre-certif.md",
+    "raw/emails/KMDD/DCC/2026-06-27 - KDP-PMC-VSP-TRM-00324 Document Transmission from PMC to VSP - Detailed Engineering (HVAC).md",
+    "raw/emails/KMDD/DCC/2026-06-27 - KDP-PMC-VSP-TRM-00323 Documents Transmission from PMC to VSP - Detailed Engineering (Piping).md",
+    "raw/emails/KMDD/DCC/2026-06-27 - KDP-PMC-VSP-TRM-00322 Document Transmission from PMC to VSP - Detailed Engineering (Instrument).md",
+    "raw/emails/KMDD/Technical Bid Clarification/2026-06-27 - Re Ref 260427 _ KMDD-INS-004 - Restriction Orifices and Pressure Regulator - TBC - MOTEC.md",
+    "raw/emails/KMDD/Technical Bid Clarification/2026-06-27 - RE KMDD-MEC-006 - Chemical Injection Package - TBC#2 Rev.B Response - POS.md",
+    "raw/emails/KMDD/Technical Bid Clarification/2026-06-27 - KMDD-MEC-006 - Chemical Injection Package - TBC#2 Rev.B Response - POS.md",
+    "raw/emails/KMDD/Technical Bid Clarification/2026-06-27 - RE KMDD-MEC-006 - Chemical Injection Package - TBC#2 Rev.B Update - POS.md",
+    "raw/emails/KMDD/Technical Bid Clarification/2026-06-27 - 🌅 [KMDD TBC] Morning — 27 Jun 2026  18 need attention.md",
+    "raw/emails/KMDD/DocPro/2026-06-27 - EXTERNAL PVEPKM-VSP-T-Q-00208 Q-QHSE.md",
+    "raw/emails/KMDD/DocPro/2026-06-27 - EXTERNAL PVEPKM-VSP-T-S-00205 S-STRUCTURAL.md",
+    "raw/emails/KMDD/DocPro/2026-06-27 - EXTERNAL PVEPKM-VSP-T-M-00207 M-MECHANICAL.md",
+    "raw/emails/KMDD/DocPro/2026-06-27 - EXTERNAL PVEPKM-VSP-T-U-00206 U-UNDERWATER (RISER TIE-INS PIPELINE SUBSEA).md",
+    "raw/emails/KMDD/DocPro/2026-06-27 - EXTERNAL PVEPKM-VSP-T-I-00204 I-INSTRUMENTATION.md",
+    "raw/emails/KMDD/DocPro/2026-06-27 - EXTERNAL PVEPKM-VSP-T-E-00203 E-ELECTRICAL.md",
+    "raw/emails/KMDD/DocPro/2026-06-27 - EXTERNAL PVEPKM-VSP-T-B-00202 B-PROCESS.md",
+    "raw/emails/KMDD/2026-06-27 - Re Ref 260427 _ KMDD-INS-004 - Restriction Orifices and Pressure Regulator - TBC - MOTEC.md",
+    "raw/emails/KMDD/2026-06-27 - RE KMDD-MEC-006 - Chemical Injection Package - TBC#2 Rev.B Response - POS.md",
+    "raw/emails/KMDD/2026-06-27 - RE KMDD - SHWT Load Increase.md",
+    "raw/emails/KMDD/2026-06-27 - KMDD-MEC-006 - Chemical Injection Package - TBC#2 Rev.B Response - POS.md",
+    "raw/emails/KMDD/2026-06-27 - RE KMDD-MEC-006 - Chemical Injection Package - TBC#2 Rev.B Update - POS.md",
+    "raw/emails/KMDD/2026-06-27 - 🌅 [KMDD TBC] Morning — 27 Jun 2026  18 need attention.md",
+    "wiki/sources/NLQ - Exhibit G Coordination Procedure.md",
+    "log.md.tmp.10732.581b48576874",
+    "index.md.tmp.10732.c3322e793abc",
+    "index.md.tmp.10732.c950e6128185",
+    "wiki/entities/VSP.md.tmp.10732.acc32657add0",
+    "wiki/entities/PVEP-KM.md.tmp.10732.e8012996ca10",
+    "log.md.tmp.10732.57776cb29283",
+    "index.md.tmp.10732.77cf63d9e987",
+    "wiki/entities/NLQ Project.md.tmp.10732.58f2673795cb",
+    "wiki/entities/NLQ Project.md.tmp.10732.ea558639781e",
+    "log.md.tmp.10732.37260a74d18b",
     "Untitled.canvas"
   ]
 }

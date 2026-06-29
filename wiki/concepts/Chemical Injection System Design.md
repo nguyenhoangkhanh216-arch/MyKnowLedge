@@ -3,8 +3,8 @@ title: "Chemical Injection System Design"
 type: concept
 tags: [work, science]
 created: 2026-06-03
-updated: 2026-06-16
-sources: 10
+updated: 2026-06-29
+sources: 21
 ---
 
 ## Summary
@@ -88,16 +88,69 @@ Offshore wellhead platforms inject multiple chemicals into produced fluids to pr
 
 ### IRCD design evolution (KMDD Jun-2026):
 
-**Power supply (resolved 04-Jun):**
+**Power supply (resolved 04-Jun, partially reopened 18-Jun):**
 - IRCD initially specified as remote, 24VDC, 80W/unit; 6 units per platform = 480W total — exceeded platform 24VDC system capacity
 - Resolved 04-Jun MOM-005: IRCD changed to **manual type** (eliminates 24VDC demand)
+- **18-Jun update (PVEP-KM P&IDs issued 16-Jun):** New CI P&IDs show **PPD Pump IRCD must be remote (24VDC)** for remote pump control; SI Pump IRCD is local only. This partially reverts the 04-Jun resolution — PPD pump IRCD needs 24VDC power supply. IRCD loads are NOT yet in the platform load list. Electrical team (Biển/Cường) must confirm and update load list. — [[KMDD SHWT Load Increase 18Jun26]]
 
-**Fail-safe philosophy conflict (open 15-Jun):**
+**Fail-safe philosophy conflict (open 15–16-Jun):**
 - DKE TBC#2 Rev.D: IRCD = **fail-closed** (valve closes on power loss → injection stops)
 - PVDT TBC#2 Rev.C: IRCD = **fail-last-position** (valve holds last position on power loss → injection continues at last rate)
 - For **continuous injection** chemicals (CI, PPD, SI): fail-last-position is more appropriate — fail-closed interrupts injection during power events, creating corrosion/scale/wax risk
 - For **batch injection** (methanol during start-up): fail-closed is more acceptable
-- Resolution: Hoàng (PTSC) tasked Khoa (Corrosion/Chemical) to clarify correct philosophy and issue question to both DKE and PVDT — pending as of 15-Jun-2026
+- Resolution: Hoàng (PTSC) tasked Khoa (Corrosion/Chemical) to clarify correct philosophy and issue question to both DKE and PVDT — still open as of 16-Jun-2026
+
+### MEC-006 TBC#3 Rev.C closure (16-Jun-2026):
+- **FHE:** Submitted TBC#3 Rev.C on 16-Jun; PTSC internal review due 18-Jun 11:30
+- **VHI:** Submitted TBC#3 Rev.C on 16-Jun; PTSC internal review due 18-Jun 11:30
+- **POS:** Submitted TBC#1 Rev.B + TBC#3 Rev.C on 16-Jun; PTSC internal review due 18-Jun 11:30
+- **DKE:** Submitted TBC#3 Rev.B at 15:58 on 18-Jun (6d late; deadline 12-Jun); GAD Rev.D = Exakta pump (Nexa/Triplex series, API 674)
+- **PVDT:** TBC#2 Rev.C awaiting PTSC reply
+- **Next step:** PTSC internal team to review all 3 TBC#3 Rev.C responses by 18-Jun 11:30 — approaching TBE stage for MEC-006
+
+### P&ID Rev.E0 undistributed updates (23-Jun-2026):
+
+**Alert raised by:** Bùi Lê Lương (Mechanical), 08:52 23-Jun — P&ID Rev.E0 contains major design changes not yet distributed to MEC-006 bidders:
+
+- **Change 1 — All CI systems (PPD, SI, CI):** A PCV return loop has been added to all chemical injection circuits, with many isolation valves and PCVs. This is a significant addition to every CI sub-system P&ID.
+- **Change 2 — Methanol injection:** Sizing of ALL DBB (Double Block and Bleed) valves has been changed throughout the methanol injection skid.
+- **Status:** Not distributed to bidders as of 23-Jun. If bidders have designed to the previous P&ID revision, their technical proposals may be non-compliant with Rev.E0 — a TBC amendment or errata wave may be required before TBE can be completed.
+
+### MEC-006 TBC status and cost impact (23-Jun-2026):
+
+- **PVDT:** TBC#1 Rev.B + TBC#2 Rev.D + TBC#3 Rev.D all awaiting PTSC response; PVDT requested deadline extension to EOD 24-Jun (original PTSC deadline was 11:30 AM 23-Jun)
+- **DKE:** TBC#3 Rev.B submitted 23-Jun
+- **Cost impact lists:** Sent to Commercial (Tran Thi Khanh Ngan) by Nguyễn Sử Trần Hoàng on 23-Jun for three bidders: PVDT, DKE, POS — used for CBE commercial assessment
+
+### PPD pump design pressure — optional upstream case (24-Jun-2026):
+- **Base case:** PPD inject downstream of choke; pump design pressure = 232 barg (same as methanol pump)
+- **Optional case (PPD u/s choke):** Requires pump design pressure of **265 barg** — forces pump model change
+- **Motor power impact:** +0.37–0.55 kW increase per pump (P-5325 A/B and P-5365 A/B)
+- **Hoàng's proposal:** Reduce requirement from 265 to 240 barg to avoid model change
+- **Lương's guidance:** Do NOT issue to bidders yet — optional u/s choke case will only be evaluated after TBC#3 responses + GA drawings reviewed, to check layout and tank volume feasibility
+- **Electrical load list:** Optional u/s choke load only considered for future expansion if needed
+
+### MEC-006 active bidder updates (24-Jun-2026):
+- **PVDT:** Submitted TBC#3 Rev.D at 17:38 on 24-Jun — 1 day late vs 23-Jun 11:30 AM deadline
+- **VHI:** Committed to revise GAD from Simplex to Triplex pump (GAD showed Simplex despite TBC saying Triplex); proposed skid 9500×2000×2800mm — exceeds PTSC width/length limit of 7400×2000×3500mm; tank dimensions confirmed correct
+- **POS:** Submitted TBC#3 Rev.C Update#1 with Pump Data Sheet, P&ID Rev.F, Utility Consumption Calculation — resolving PTSC concern about missing pump manufacturer info
+- **Cost impact:** PVDT/PVD Tech cost impact comments forwarded to Engineering (Hoàng) for review before client submission
+
+### MEC-006 bidder updates 25-Jun-2026:
+- **POS:** Submitted further update to TBC#3 Rev.C (Update#2) on 25-Jun — addressing PTSC note that methanol pump manufacturer data was still missing from previous submission; PTSC internal review due 11:30 AM 26-Jun
+- **PVDT:** Submitted comprehensive bundle on 25-Jun: TBC#1 Rev.B + TBC#2 Rev.D + TBC#3 Rev.D + marked-up P&IDs; PTSC internal review due 11:30 AM 26-Jun
+- **PTSC P&ID policy established:** PTSC responded formally to PVDT's marked-up P&IDs: "will not confirm your proposal P&ID(s) in this stage, it will be reviewed during execution phase" — vendor P&ID proposals are deferred to post-PO detail engineering, not confirmed at TBC stage
+
+### MEC-006 overall status as of 26-Jun-2026:
+- TBE overdue 15 days (per procurement dashboard)
+- CBE milestone due 28-Jun-2026 (per procurement dashboard)
+- All 5 bidders have now submitted across multiple TBC rounds; PTSC internal review pending for POS and PVDT latest submissions
+
+### POS TBC#2 Rev.B update (27-Jun-2026):
+- **POS (Tran Duc Dung)** submitted TBC#2 Rev.B Update on 27-Jun 08:29 — file covers items IN24, IN25, IN26
+- Hoàng distributed to discipline team at 10:20 (Saturday)
+- **Nguyen Anh Khoa (Corrosion/Chemical)** reviewed and returned comments by 14:28 same day
+- Demonstrates continued weekend work to drive MEC-006 toward CBE closure
 
 ### Nitrogen system PCV design (new items 04-Jun-2026):
 - **PCV set pressure in Nitrogen Bottle Racks (item 2.22):** PMC proposed revised upstream pressure for sizing PCVs in Nitrogen Supply Headers — awaiting CPY approval
@@ -116,3 +169,14 @@ Offshore wellhead platforms inject multiple chemicals into produced fluids to pr
 - [[KMDD MEC-006 BCM PVDT 09Jun26]] — BCM with PVDT 09-Jun: in-line config confirmed; motor adapter action; electrical load list sent
 - [[KMDD TBC Snapshot 10Jun26]] — TBC#3 Rev.C issued to all 3 bidders (PVDT, FHE, VHI); deadline 12-Jun; Methanol Pump Skid width constraint (max 1200mm) introduced
 - [[KMDD MEC-006 IRCD Fail-Safe Dispute 15Jun26]] — DKE fail-closed vs PVDT fail-last-position; conflict with continuous injection requirement; pending resolution 15-Jun-2026
+- [[KMDD TBC Snapshot 16Jun26]] — FHE/VHI/POS submitted TBC#3 Rev.C on 16-Jun; PTSC review due 18-Jun; IRCD still open
+- [[KMDD SHWT Load Increase 18Jun26]] — PVEP-KM P&IDs 16-Jun confirm PPD pump IRCD must be remote (24VDC); SI pump local only; IRCD loads missing from load list (2026-06-19)
+- [[KMDD SHWT Load Increase 20Jun26]] — CI package confirmed as 11% of total SHWT +32% overrun; meeting 22-Jun-2026 to discuss solutions (2026-06-21)
+- [[KMDD MEC-006 Chemical Injection PID Update 23Jun26]] — P&ID Rev.E0 undistributed: PCV return loop added to all CI systems; all DBB valve sizing changed for MeOH injection (2026-06-24)
+- [[KMDD MEC-006 Cost Impact Lists 23Jun26]] — cost impact lists for PVDT/DKE/POS sent to Commercial 23-Jun; CBE assessment stage (2026-06-24)
+- [[KMDD MEC-006 Chemical Injection 24Jun26]] — PVDT TBC#3 Rev.D 1d late; VHI GAD Simplex→Triplex to revise; POS pump datasheet submitted; PVDT cost impact to client (2026-06-25)
+- [[KMDD Chemical Dosing Rate PPD Pump Design Pressure 24Jun26]] — PPD pump 265 barg design pressure concern for optional u/s choke case; not issued to bidders pending TBC#3 review (2026-06-25)
+- [[KMDD MEC-006 POS TBC3 RevC Update 25Jun26]] — POS submitted further pump manufacturer data; PTSC review 26-Jun 11:30 AM (2026-06-27)
+- [[KMDD MEC-006 PVDT All TBC Responses 25Jun26]] — PVDT submitted TBC#1 Rev.B + TBC#2 Rev.D + TBC#3 Rev.D + marked-up P&IDs; PTSC review 26-Jun 11:30 AM (2026-06-27)
+- [[KMDD MEC-006 PTSC PID Non-Confirmation 25Jun26]] — PTSC will not confirm vendor P&ID proposals in TBC stage; execution phase only (2026-06-27)
+- [[KMDD MEC-006 POS TBC2 RevB 27Jun26]] — POS submitted TBC#2 Rev.B items IN24/25/26 on 27-Jun; Khoa reviewed same day (2026-06-29)

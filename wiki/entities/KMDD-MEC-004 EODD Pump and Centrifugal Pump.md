@@ -3,8 +3,8 @@ title: "KMDD-MEC-004 EODD Pump and Centrifugal Pump"
 type: entity
 tags: [work]
 created: 2026-06-12
-updated: 2026-06-13
-sources: 4
+updated: 2026-06-27
+sources: 7
 ---
 
 ## Summary
@@ -13,7 +13,9 @@ KMDD-MEC-004 covers the EODD (Open Drain) pump and Non-API centrifugal pump pack
 
 ## Current Status
 
-TBC#01 Rev.C issued to NTT, TK, TTE on 11-Jun-2026; responses due 13-Jun-26 11:00 AM | 2026-06-11
+TBE overdue 10 days as of 26-Jun. Cost impact summaries for TKT and TTE sent to Commercial (Nguyễn Hoàng Phúc) 26-Jun 10:37. TKT and TTE requested to revise Form T3 per CPY comments (deadline morning 26-Jun) | 2026-06-27
+
+**Previous:** TBC responses from NTT/TKT/TTE distributed to all discipline leads for review; internal feedback due 20-Jun-2026 11:00 AM | 2026-06-19
 
 ## Timeline
 
@@ -21,6 +23,9 @@ TBC#01 Rev.C issued to NTT, TK, TTE on 11-Jun-2026; responses due 13-Jun-26 11:0
 - 2026-06-04 — Discipline TBC input submitted (RE KMDD-MEC-004 discipline TBC; additional bidder input)
 - 2026-06-10 — NTT BCM#1 held; NTT excluded EODD pumps (centrifugal only)
 - 2026-06-11 — CPY (Bùi Lê Lương) rejected TK models (diesel + water transfer); flagged TTE water pump BEP; NTT confirmed passing; KLE diesel pump fails BEP. TBC#01 Rev.C issued to NTT/TK/TTE; deadline 13-Jun 11:00 AM
+- 2026-06-19 — TBC responses from NTT/TKT/TTE received and distributed to all discipline leads (MEC, INS, ELE, PIP, etc.) for internal review. Feedback from all leads due **20-Jun-2026 11:00 AM**.
+- 2026-06-26 — TKT and TTE requested to revise Form T3 per CPY review comments; deadline morning 26-Jun (same-day turnaround).
+- 2026-06-26 — Cost impact summaries for TKT and TTE sent to Commercial (Nguyễn Hoàng Phúc) at 10:37 (prepared by Trịnh Gia Trương Định). TBE overdue 10 days.
 
 ## Vendors
 
@@ -57,3 +62,6 @@ TBC#01 Rev.C issued to NTT, TK, TTE on 11-Jun-2026; responses due 13-Jun-26 11:0
 - [[KMDD MEC-004 NTT BCM1 TBC Response]] — NTT TBC#1 Rev.B, BCM#1 follow-up (12-Jun-2026)
 - [[KMDD Project]] — TBC status, CPY feedback, bidder evaluation (ongoing)
 - [[KMDD TBC Snapshot 11Jun26]] — morning 11-Jun: MEC-004 6d stale; TBC#01 Rev.C issued to NTT/TK/TTE same day
+- [[KMDD MEC-004 TBC Discipline Input 19Jun26]] — TBC responses distributed to all discipline leads; internal feedback due 20-Jun 11AM (2026-06-20)
+- [[KMDD MEC-004 Form T3 Revision 26Jun26]] — TKT and TTE to revise Form T3 per CPY comments; deadline morning 26-Jun (2026-06-27)
+- [[KMDD MEC-004 Cost Impact Summary 26Jun26]] — cost impact for TKT and TTE sent to Commercial (Nguyễn Hoàng Phúc) 26-Jun (2026-06-27)

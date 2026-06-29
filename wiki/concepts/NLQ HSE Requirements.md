@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ HSE Requirements"
 type: concept
 tags: [work]
@@ -117,5 +117,5 @@ TENDERER must demonstrate and evidence compliance with the following HSE categor
 
 ## Source References
 
-- [[sources/NLQ - ITT]] — all HSE requirements drawn from §8.2.4, Attachment 8, and Attachment 12
-- [[sources/NLQ - Exhibit A Scope of Work]] — WP2 contractual HSE obligations during EPCIC execution
+- [[NLQ - ITT]] — all HSE requirements drawn from §8.2.4, Attachment 8, and Attachment 12
+- [[NLQ - Exhibit A Scope of Work]] — WP2 contractual HSE obligations during EPCIC execution

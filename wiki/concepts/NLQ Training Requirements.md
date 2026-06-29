@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Training Requirements"
 type: concept
 tags: [work]
@@ -61,4 +61,4 @@ This page captures the NLQ EPCIC 10 training obligations (Appendix A8). CONTRACT
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A8 Minimum Training Requirements]] — primary source for training program obligations, schedule, and minimum training modules
+- [[NLQ - Exhibit A App A8 Minimum Training Requirements]] — primary source for training program obligations, schedule, and minimum training modules

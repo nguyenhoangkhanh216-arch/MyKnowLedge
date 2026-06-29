@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ Digital Project Requirements"
 type: concept
 tags: [work]
@@ -93,4 +93,4 @@ This page captures the NLQ EPCIC 10 digital asset requirements (Appendix A11). C
 
 ## Source References
 
-- [[sources/NLQ - Exhibit A App A11 Digital Project Requirements]] — primary source for AVEVA platform mandate, software versions, MTR, CFIHOS, 1D/2D/3D deliverables, and final handover requirements
+- [[NLQ - Exhibit A App A11 Digital Project Requirements]] — primary source for AVEVA platform mandate, software versions, MTR, CFIHOS, 1D/2D/3D deliverables, and final handover requirements

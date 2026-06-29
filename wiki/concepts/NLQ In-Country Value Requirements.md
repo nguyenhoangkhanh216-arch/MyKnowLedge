@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ In-Country Value Requirements"
 type: concept
 tags: [work]
@@ -25,4 +25,4 @@ NLQ EPCIC 10 imposes formal In-Country Value (ICV) obligations under QatarEnergy
 - [[NLQ Design Dossier Requirements]] — Exhibit N is a stand-alone exhibit to the CONTRACT, not part of the Design Dossier
 
 ## Source References
-- [[sources/NLQ - Exhibit N In-Country Value]] — Exhibit N Rev A full text
+- [[NLQ - Exhibit N In-Country Value]] — Exhibit N Rev A full text

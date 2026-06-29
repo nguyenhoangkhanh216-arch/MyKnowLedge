@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit E App E2 Brownfield Integration"
 type: source
 tags: [work]
@@ -29,4 +29,4 @@ Exhibit E Appendix E2 Rev C (Rev BC) defines the Al-Shaheen Existing Facilities 
 
 ## Source References
 
-- [[sources/NLQ - Exhibit E Design Dossier]] — parent Exhibit E which includes App E2 as brownfield integration scope annex
+- [[NLQ - Exhibit E Design Dossier]] — parent Exhibit E which includes App E2 as brownfield integration scope annex

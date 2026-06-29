@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit G App G4 Insurance Claim Procedure"
 type: source
 tags: [work]
@@ -30,4 +30,4 @@ Appendix G4 Rev A (5 pages) defines the Insurance Claim Procedure for the NLQ EP
 
 ## Source References
 
-- [[sources/NLQ - Exhibit G Coordination Procedure]] — parent document; insurance requirements at §4.5
+- [[NLQ - Exhibit G Coordination Procedure]] — parent document; insurance requirements at §4.5

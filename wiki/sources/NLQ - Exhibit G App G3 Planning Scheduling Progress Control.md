@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit G App G3 Planning Scheduling Progress Control"
 type: source
 tags: [work]
@@ -69,4 +69,4 @@ Appendix G3 Rev A (24 pages) defines the Planning, Scheduling, Progress Measurem
 
 ## Source References
 
-- [[sources/NLQ - Exhibit G Coordination Procedure]] — parent document; planning requirements at §6.3 and §4.3
+- [[NLQ - Exhibit G Coordination Procedure]] — parent document; planning requirements at §6.3 and §4.3

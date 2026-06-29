@@ -3,8 +3,8 @@ title: "Technical Bid Clarification Process"
 type: concept
 tags: [work]
 created: 2026-06-04
-updated: 2026-06-16
-sources: 12
+updated: 2026-06-27
+sources: 18
 ---
 
 ## Summary
@@ -83,7 +83,7 @@ PTSC engineering disciplines (mechanical, instrument, piping, E&I, process) must
 
 ## Connections
 
-- [[KMDD Project]] — all KMDD procurement packages follow this process; 21 packages actively in TBC as of Jun-2026
+- [[KMDD Project]] — all KMDD procurement packages follow this process; **24 packages** in TBC as of 25-Jun-2026; 16 stale / 8 active; INS-005 worst at 41d stale
 - [[FEED Verification EPCI Contract]] — TBC responses can surface FEED deviations that require TQ to Company
 - [[HIPPS Overpressure Protection]] — HIPPS PSV scope classification (base vs optional) was a mid-TBC decision for INS-002
 - [[Chemical Injection System Design]] — TBC for MEC-006 revealed IRCD power supply constraint not in original design basis
@@ -101,3 +101,9 @@ PTSC engineering disciplines (mechanical, instrument, piping, E&I, process) must
 - [[KMDD MEC-001 TBC Rev A2 AECC and Jun 4 MEC Actions]] — AECC responded TBC Rev.A2; feedback due Jun 5
 - [[KMDD ELE-008 E&I Miscellaneous Earthing TBC Status]] — 5 bidders, TBC#2 Rev.B; SECONS missing instrument MTO; TAKA cooperative; 30+ emails
 - [[KMDD TBC Snapshot 15Jun26]] — morning 15-Jun: 16 stale / 6 active; INS-002 COB deadline met by all 5 bidders; MEC-006 IRCD fail-safe conflict open
+- [[KMDD TBC Snapshot 18Jun26]] — 18-Jun: 22 packages total, 15 stale; SAF-001 new TBC#1 opened (5 bidders, COB 22-Jun deadline); ATA INS-002 TBC#2 Rev.C 3d late (22:37); DKE MEC-006 TBC#3 Rev.B 6d late; Yoshitake INS-004 still waiting factory; KVA+MOTEC TBC1 Rev2 issued (deadline 23-Jun); Bao Nghi INS-009 TBC#4 2d late; PIP-002 BMC no response (10d stale) (2026-06-19)
+- [[KMDD TBC Morning Digest 19Jun26]] — 19-Jun: **23 packages** (SAF-002 added); 16 stale / 7 active; MEC-005 worst at 35d stale; INS-004 TBC1 Rev2 issued to all 3 bidders (HAPCO/Yoshitake/TTE) same day; SAF-001 evaluation complete (HASSE=GOOD; 3 ADEQUATE; Do Le Vu=POOR); SAF-002 TBC#1 Rev.A opened (2026-06-20)
+- [[KMDD TBC Snapshot 20Jun26]] — 20-Jun EOD: **24 packages** (MEC-019 NLQ Ruya B1 Fixed Foam added); 15 stale / 9 active; INS-005 worst at 36d; INS-004 moved active (all 5 bidders sent TBC#1 Rev.2); MEC-006 active (DKE/PVDT TBC#3 responded 18-Jun) (2026-06-21)
+- [[KMDD TBC Snapshot 23Jun26]] — 23-Jun EOD: 24 packages; 17 stale / 7 active; INS-005 worst at 39d; INS-002 all 5 bidders completed TBC#2 Rev.C; MEC-006 PVDT requested extension to 24-Jun; INS-004 MOTEC responded, HAPCO due 24-Jun (2026-06-24)
+- [[KMDD TBC End of Day 25 Jun 2026]] — 25-Jun EOD: 24 packages; 16 stale / 8 active; INS-005 worst at 41d; active: INS-009, PIP-002, SAF-001, SAF-002, INS-004, MEC-006, INS-002 (2026-06-27)
+- [[KMDD Procurement Status 26 Jun 2026]] — 26-Jun dashboard: 52 packages total; 47 overdue milestones (19 packages); 24 critical; MEC-005 TBE 35d overdue (worst); upcoming: INS-002/007/008 TBE 27-Jun, MEC-007 TBE 28-Jun, MEC-006 CBE 28-Jun (2026-06-27)

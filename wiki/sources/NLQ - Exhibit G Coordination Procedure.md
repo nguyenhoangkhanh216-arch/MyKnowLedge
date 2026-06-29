@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit G Coordination Procedure"
 type: source
 tags: [work]
@@ -106,8 +106,8 @@ Exhibit G Rev B is the Coordination Procedure for the NLQ EPCIC 10 contract (NOC
 
 ## Source References
 
-- [[sources/NLQ - Exhibit G App G1 Weekly and Monthly Report Format]] — detailed report structure by Work Package
-- [[sources/NLQ - Exhibit G App G2 Change Order Procedure]] — COI/COR/CO forms and timelines
-- [[sources/NLQ - Exhibit G App G3 Planning Scheduling Progress Control]] — schedule levels, progress scales, PSRA
-- [[sources/NLQ - Exhibit G App G4 Insurance Claim Procedure]] — insurance incident reporting and claim file
-- [[sources/NLQ - Exhibit G App G5 Risk Management Procedure]] — risk register, PSRA, risk matrix
+- [[NLQ - Exhibit G App G1 Weekly and Monthly Report Format]] — detailed report structure by Work Package
+- [[NLQ - Exhibit G App G2 Change Order Procedure]] — COI/COR/CO forms and timelines
+- [[NLQ - Exhibit G App G3 Planning Scheduling Progress Control]] — schedule levels, progress scales, PSRA
+- [[NLQ - Exhibit G App G4 Insurance Claim Procedure]] — insurance incident reporting and claim file
+- [[NLQ - Exhibit G App G5 Risk Management Procedure]] — risk register, PSRA, risk matrix

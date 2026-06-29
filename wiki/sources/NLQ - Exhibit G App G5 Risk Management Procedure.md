@@ -1,4 +1,4 @@
----
+﻿---
 title: "NLQ - Exhibit G App G5 Risk Management Procedure"
 type: source
 tags: [work]
@@ -63,4 +63,4 @@ Appendix G5 Rev A (16 pages) defines the Risk Management Procedure for NLQ EPCIC
 
 ## Source References
 
-- [[sources/NLQ - Exhibit G Coordination Procedure]] — parent document; risk management at §8
+- [[NLQ - Exhibit G Coordination Procedure]] — parent document; risk management at §8
